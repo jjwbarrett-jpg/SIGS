@@ -1,233 +1,187 @@
-# **SIGS v1 — Semantic Intent Grounding Symbols (Minimal Release)**
+# SIGS v1 — Semantic Intent Grounding Symbols
 
-SIGS is an **AI-facing wire language** that encodes common intents as short, deterministic tokens. Humans type normal text; a translator layer converts text ⇄ SIGS. Models operate on SIGS tokens.
+SIGS is an **AI-facing wire language** that encodes common user intents as short, deterministic tokens. Humans write normal text; a translator layer converts:
 
-This README documents the **wire format** and the **dataset schema** for the current lexicon (≈1040 entries). Categories in this release: **AGR, NEG, MOT, OWN, QTY, TIM, LOC, SRT, FIL, ATT, AGG, OUT, ENT, ASP, CON, EPI, COG, MET, EMO, SOC, ETH, INT, CAU, MOD, LOG, CMP, MAN, PER, PAR**.
+**Natural Language ⇄ SIGS Tokens**
 
----
+Models operate directly on SIGS tokens for clarity and efficiency.
 
-# \#\# Architecture Overview
+This repository contains:
+- The **Master Lexicon dataset** (≈1040 intent symbols)
+- Documentation of the **wire format**
+- Rules and schema for extending the lexicon
 
-# SIGS is an \*\*AI-facing wire protocol\*\* that operates as an invisible translation layer between humans and AI models.
-
-# \#\#\# The Flow
-
-# 1\. \*\*Human input\*\* (natural language with all its messiness)
-
-#    ↓
-
-# 2\. \*\*SIGS Translator\*\* (this model) converts speech to SIGS tokens
-
-#    ↓
-
-# 3\. \*\*SIGS-native AI model\*\* processes the compact, deterministic tokens
-
-#    ↓
-
-# 4\. \*\*SIGS Translator\*\* converts SIGS response back to natural language
-
-#    ↓
-
-# 5\. \*\*Human output\*\* (natural language response)
-
-# 
-
-# \*\*Key point:\*\* Users never see or learn SIGS codes. They speak normally. 
-
-# The translator handles encoding/decoding transparently.
-
-# 
-
-# \#\#\# Why This Matters
-
-# \- \*\*Token efficiency\*\*: 1,040 deterministic codes vs. infinite natural language variations
-
-# \- \*\*Reduced ambiguity\*\*: Precise intent representation for AI models
-
-# \- \*\*Smaller models\*\*: Training on SIGS can produce more efficient, focused models
-
-# \- \*\*Bidirectional\*\*: Same model handles both encoding (human→SIGS) and decoding (SIGS→human)
+Categories defined in this release:  
+AGR, NEG, MOT, OWN, QTY, TIM, LOC, SRT, FIL, ATT, AGG, OUT, ENT, ASP, CON, EPI, COG, MET, EMO, SOC, ETH, INT, CAU, MOD, LOG, CMP, MAN, PER, PAR
 
 ---
 
-# **1\) Wire Transport (v1)**
+## Architecture Overview
 
-**Message form.** A SIGS message is one line of **space-separated tokens**, terminated by newline (LF).
+SIGS functions as a hidden translation layer between humans and AI models.
 
-* **Token alphabet:** `[a-z0-9]+` (e.g., `agr001`, `neg02t`, `tim030`)
+### Processing Flow
 
-* **Separator:** single space only (no tabs / no double spaces)
+1. **Human input** — plain language
+2. **SIGS Translator** — converts to SIGS tokens
+3. **SIGS-native AI model** — processes deterministic intents
+4. **SIGS Translator** — converts tokens back to human language
+5. **Human output**
 
-* **Boundary:** newline ends a message
+Users never see or learn SIGS directly — the translator handles everything.
 
-**Out-of-Vocabulary (OOV) fallback — required.**  
- If a concept is not covered by the lexicon, emit a literal block; **never drop text**:
+### Why SIGS?
 
-`{txt:"<original words with escapes>"}`
+- **Token efficiency**  
+  1,040 canonical tokens vs infinitely variable language
+- **Precise semantics**  
+  Removes ambiguity in intent representation
+- **Smaller & specialized models**  
+- **Bidirectional**  
+  Same system handles encoding and decoding
 
-Escapes inside quotes: `\"` for a quote, `\\` for a backslash. No nested `{}` in v1.
+---
+
+## 1) Wire Transport (v1)
+
+**Message structure**
+- Tokens: lowercase `[a-z0-9]+`  
+  Example: `tim030`, `mot02z`
+- Separator: single space
+- Message ends with newline (`\n`)
+
+**OOV fallback**
+
+If a concept is not in the lexicon:
+{txt:"original text here"}
+
+
+Escapes:
+- `\"` for quotes
+- `\\` for backslash
 
 **Examples**
 
-* Truth-stance disagreement  
-   English: “I disagree with your statement.”  
-   SIGS: `neg02t`
+| English | SIGS |
+|--------|------|
+| “I disagree.” | `neg02t` |
+| “Not now, maybe later.” | `neg02v tim030` |
 
-* Refusal with temporal constraint  
-   English: “I can’t do that now; maybe later.”  
-   SIGS: `neg02v tim030`  
-   *(Use IDs that exist in your sheet if these differ.)*
+*(Token IDs shown are examples — refer to dataset for canon values.)*
 
 ---
 
-# **2\) Categories (v1)**
+## 2) Category Codes
 
-* **AGR	Agreement / affirmation**  
-* **NEG	Negation / refusal**  
-* **MOT	Motion / Movement**  
-* **OWN	Possession / ownership**  
-* **QTY	Quantity / Degree**  
-* **TIM	Temporal constraints**  
-* **LOC	Spatial / constraints**  
-* **SRT	Sort / order**  
-* **FIL	Filter / predicate**  
-* **ATT	Attribute / field select**  
-* **AGG	Aggregation**  
-* **OUT	Output / format**  
-* **ENT	Entity / type hints**  
-* **ASP	Aspect / tense**  
-* **CON	Condition**  
-* **EPI	Epistemic**  
-* **COG	Cognition**  
-* **MET	Meta-communication**  
-* **EMO	Emotion / Affective State**  
-* **SOC	Social / Relational Mode**  
-* **ETH	Ethical / Moral Stance**  
-* **INT	Intent / Goal**  
-* **CAU	Causality / Reason**  
-* **MOD	Modality / Constraint**  
-* **LOG	Logical / Conjunction**  
-* **CMP	Comparison / Relation**  
-* **MAN	Manner**  
-* **PER	Perception / Sensation**  
-* **PAR	Paralinguistic / Non-verbal**
-
----
-
-# **3\) Dataset & Schema**
-
-The authoritative source is the **Master Lexicon** sheet. Exports (CSV) should mirror it column-for-column.
-
-**Columns (order matters):**
-
-1. `token_uid` — `SIGS{CATEGORY_CODE}{INDEX}` (e.g., `SIGSMOT02Z`). Canonical, stable.
-
-2. `category_code` — One of `AGR, NEG, MOT, OWN, QTY, TIM` (uppercase).
-
-3. `category_name` — Human label (e.g., “Temporal constraints”).
-
-4. `index` — **Base-36**, **uppercase**, **min 3 chars** with left-zero padding (e.g., `02Z`, `030`).
-
-5. `regkey_raw` — `SP:{CATEGORY_CODE}:{INDEX}` (e.g., `SP:QTY:030`). Debug/registry namespace.
-
-6. `title` — Short canonical gloss/lemma (ASCII).
-
-7. `definition` — Single, precise sense for this entry.
-
-8. `examples` — Short usage phrases (semicolon-separated).
-
-9. `wire_token` — `lower(category_code + index)` (e.g., `mot02z`, `tim030`). **Globally unique**.
-
-10. `definition_id` — **Global**, strictly increasing integer assigned in the Master sheet; never re-used.
-
-**Identifier & formatting rules**
-
-* **Per-category indexing:** Within a category, `index` advances in Base-36  
-   e.g., `… 02X, 02Y, 02Z, 030, 031 …`.
-
-* **Uniqueness:**
-
-  * `(category_code, index)` **must be unique**.
-
-  * `wire_token` **must be unique** across the entire lexicon.
-
-* **Casing:** `category_code` & `index` are uppercase; `wire_token` is lowercase.
-
-* **Allowed chars:** `index` is alphanumeric only; tokens have no spaces/tabs.
+| Code | Domain |
+|------|--------|
+| AGR | Agreement / Affirmation |
+| NEG | Negation / Refusal |
+| MOT | Motion / Movement |
+| OWN | Possession |
+| QTY | Quantity / Degree |
+| TIM | Temporal |
+| LOC | Spatial |
+| SRT | Sorting |
+| FIL | Filtering |
+| ATT | Attribute selection |
+| AGG | Aggregation |
+| OUT | Output format |
+| ENT | Entity type hints |
+| ASP | Aspect / Tense |
+| CON | Conditionals |
+| EPI | Epistemic stance |
+| COG | Cognition |
+| MET | Meta-communication |
+| EMO | Emotion |
+| SOC | Social mode |
+| ETH | Ethical stance |
+| INT | Intent / Goal |
+| CAU | Causality |
+| MOD | Modality |
+| LOG | Logic |
+| CMP | Comparison |
+| MAN | Manner |
+| PER | Perception |
+| PAR | Paralinguistic |
 
 ---
 
-# **4\) Global ID (`definition_id`)**
+## 3) Dataset Schema
 
-Each lexeme receives a single **global integer ID** in the **Master Lexicon**.
+Column order:
 
-* The ID is **monotonic** (strictly increasing) and **never re-used**.
-
-* Category tabs may **mirror** this value for convenience, but **must not generate** or alter it.
-
-* New rows take the **next available** global ID at append time.
-
----
-
-# **5\) Appending New Entries (maintainers/contributors)**
-
-Submit new entries as a JSON array of objects with these required fields:
-
-`[`  
-  `{`  
-    `"category_code": "MOT",`  
-    `"category_name": "Motion / Action-like",`  
-    `"title": "open",`  
-    `"definition": "Make a resource visible or active for interaction.",`  
-    `"examples": "open the file; open settings"`  
-  `}`  
-`]`
-
-Upon import, the maintainer’s tool will:
-
-* assign the next **per-category** `index` (Base-36, 3+ chars),
-
-* build `wire_token`, `token_uid`, `regkey_raw`,
-
-* assign the next global `definition_id`,
-
-* enforce uniqueness and formatting rules.
-
-**Quality gates**
-
-* No duplicates of `wire_token` or `(category_code, index)`.
-
-* `index` matches `^[0-9A-Z]{3,}$` and follows Base-36 sequencing per category.
-
-* `definition` is single-sense and unambiguous; `examples` are short and idiomatic.
+1. `token_uid` — canonical ID (`SIGSMOT02Z`)
+2. `category_code` — uppercase (`MOT`)
+3. `category_name` — human label
+4. `index` — base-36, uppercase, ≥3 digits (`02Z`, `030`)
+5. `regkey_raw` — registry namespace (`SP:QTY:030`)
+6. `title` — short lemma
+7. `definition` — precise single sense
+8. `examples` — semicolon-separated list
+9. `wire_token` — lowercase concat (`mot02z`)
+10. `definition_id` — monotonically increasing global integer
 
 ---
 
-**6\) Dataset Files**
+## 4) Global ID Rules
 
-The complete SIGS lexicon is available in this repository:
+- Strictly increasing values
+- Never re-used
+- Governs uniqueness across entire lexicon
 
-\- \*\*\`The\_SIGS\_Lexicon\_v1 \- STATIC COPY \- Master Lexicon.csv\`\*\* \- Machine-readable CSV format containing all 1,040+ intent codes with their definitions, examples, and mappings. Use this for programmatic access and data processing.
+---
 
-\- \*\*\`The\_SIGS\_Lexicon\_v1 \- STATIC COPY.xlsx\`\*\* \- Complete workbook with all category tabs. Use this for human-readable browsing and reference.
+## 5) Adding New Entries
 
-These files represent the v1 lexicon snapshot that this translator model was trained on. They are static copies to ensure reproducibility and version consistency.
+Submit new lexicon entries as JSON array:
 
-**7\) License**
+```json
+[
+  {
+    "category_code": "MOT",
+    "title": "open",
+    "definition": "Make a resource visible or active.",
+    "examples": "open the file; open settings"
+  }
+]
+```
 
-Copyright 2025 Jaccob Barrett
+Maintainer tools automatically apply:
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+Base-36 index assignment
 
-You may obtain a copy of the License at  
-    [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Token generation
 
-Unless required by applicable law or agreed to in writing, software  
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+Global ID
 
-See the License for the specific language governing permissions and limitations under the License.
+Validation (uniqueness + formatting)
 
-### **Notes on removed legacy fields**
+6) Dataset Files
 
-Older drafts referenced uid\_canonical, scaffold, and namespace. These are not used in v1 and are intentionally absent from the Master schema. Keep all identifiers aligned to the columns listed above.
+Included:
 
+the_sigs_lexicon_v1-static_copy-master_lexicon.csv
+Machine-readable dataset for training and inference
+
+Planned additions:
+
+Processed training artifacts
+
+SIGS Translator checkpoints (via Hugging Face links)
+
+7) License — Apache 2.0
+
+ Copyright 2025 Jaccob Barrett
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ http://www.apache.org/licenses/LICENSE-2.0
+
+ Distributed on an “AS IS” basis with no warranties or conditions.
+
+Status
+
+This is the v1 SIGS lexicon snapshot.
+Future updates will extend categories and refine definitions.
+
+Contributors welcome.
