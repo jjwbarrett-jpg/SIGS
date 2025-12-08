@@ -1,0 +1,1041 @@
+token_uid,category_code,category_name,index,regkey_raw,title,definition,examples,wire_token,definition_id,wire_token_uniqueness,category+index_uniqueness
+SIGSAGR001,AGR,Agreement / Affirm,001,SP:AGR:001,An acknowledgment of truth or correctness in response to ...,An acknowledgment of truth or correctness in response to a statement.,yes|correct|indeed,agr001,1,TRUE,TRUE
+SIGSAGR002,AGR,Agreement / Affirm,002,SP:AGR:002,,A verbal signal of permission or acceptance.,okay|alright|fine,agr002,2,TRUE,TRUE
+SIGSAGR003,AGR,Agreement / Affirm,003,SP:AGR:003,,A ceremonial or religious expression of communal agreement.,amen|so be it|truly,agr003,3,TRUE,TRUE
+SIGSAGR004,AGR,Agreement / Affirm,004,SP:AGR:004,,An enthusiastic confirmation showing strong alignment.,absolutely|definitely|for sure,agr004,4,TRUE,TRUE
+SIGSAGR005,AGR,Agreement / Affirm,005,SP:AGR:005,,Polite or passive agreement given without objection.,sure|if you say so|fair enough,agr005,5,TRUE,TRUE
+SIGSAGR006,AGR,Agreement / Affirm,006,SP:AGR:006,,Acceptance of a proposed idea or plan.,sounds good|works for me|I agree,agr006,6,TRUE,TRUE
+SIGSAGR007,AGR,Agreement / Affirm,007,SP:AGR:007,,An implicit agreement expressed through non-resistance.,fine|whatever|as you wish,agr007,7,TRUE,TRUE
+SIGSAGR008,AGR,Agreement / Affirm,008,SP:AGR:008,,Supportive affirmation of a prior statement.,that’s right|exactly|you got it,agr008,8,TRUE,TRUE
+SIGSAGR009,AGR,Agreement / Affirm,009,SP:AGR:009,,A formal statement of approval or authorization.,approved|endorsed|sanctioned,agr009,9,TRUE,TRUE
+SIGSAGR00A,AGR,Agreement / Affirm,00A,SP:AGR:00A,,Colloquial or slang expression of agreement.,yup|uh-huh|word,agr00a,10,TRUE,TRUE
+SIGSAGR00B,AGR,Agreement / Affirm,00B,SP:AGR:00B,An utterance of mutual understanding or recognition of a ...,An utterance of mutual understanding or recognition of a shared point.,we’re on the same page|makes sense|understood,agr00b,11,TRUE,TRUE
+SIGSAGR00C,AGR,Agreement / Affirm,00C,SP:AGR:00C,,Spoken alignment with a group's consensus or decision.,we all agree|unanimous|consensus,agr00c,12,TRUE,TRUE
+SIGSAGR00D,AGR,Agreement / Affirm,00D,SP:AGR:00D,,Repetition of another’s words to affirm alignment.,echo|same|likewise,agr00d,13,TRUE,TRUE
+SIGSAGR00E,AGR,Agreement / Affirm,00E,SP:AGR:00E,,A nonverbal or minimal response signaling affirmation.,nod|mhmm|gesture,agr00e,14,TRUE,TRUE
+SIGSAGR00F,AGR,Agreement / Affirm,00F,SP:AGR:00F,,A legal or official confirmation of truth or commitment.,affirm|verify|attest,agr00f,15,TRUE,TRUE
+SIGSAGR00G,AGR,Agreement / Affirm,00G,SP:AGR:00G,,Sincere validation of someone else's statement or presence.,valid|true|respected,agr00g,16,TRUE,TRUE
+SIGSAGR00H,AGR,Agreement / Affirm,00H,SP:AGR:00H,Shared emotional agreement or harmony with someone’s feel...,Shared emotional agreement or harmony with someone’s feeling.,I feel you|resonate|with you,agr00h,17,TRUE,TRUE
+SIGSAGR00I,AGR,Agreement / Affirm,00I,SP:AGR:00I,,Acceptance of shared responsibility or collaborative input.,co-sign|joint decision|agreed effort,agr00i,18,TRUE,TRUE
+SIGSAGR00J,AGR,Agreement / Affirm,00J,SP:AGR:00J,,Quick vocal expression to keep conversational flow positive.,yeah|gotcha|right on,agr00j,19,TRUE,TRUE
+SIGSAGR00K,AGR,Agreement / Affirm,00K,SP:AGR:00K,Social or cultural idioms expressing strong affirmative e...,Social or cultural idioms expressing strong affirmative energy.,bet|say less|it’s on,agr00k,20,TRUE,TRUE
+SIGSAGR00L,AGR,Agreement / Affirm,00L,SP:AGR:00L,,Soft or informal verbal agreement to reduce tension.,sure thing|no worries|we cool,agr00l,21,TRUE,TRUE
+SIGSAGR00M,AGR,Agreement / Affirm,00M,SP:AGR:00M,,Repeating a known truth to signal loyalty or alignment.,real talk|preach|true that,agr00m,22,TRUE,TRUE
+SIGSAGR00N,AGR,Agreement / Affirm,00N,SP:AGR:00N,,Vocally confirming readiness or compliance.,ready|in position|standing by,agr00n,23,TRUE,TRUE
+SIGSAGR00O,AGR,Agreement / Affirm,00O,SP:AGR:00O,,Word or gesture reinforcing alliance or commitment.,solid|locked in|ride with you,agr00o,24,TRUE,TRUE
+SIGSAGR00P,AGR,Agreement / Affirm,00P,SP:AGR:00P,,Colloquial acceptance of one’s fate or the inevitable.,it is what it is|fair enough|let it be,agr00p,25,TRUE,TRUE
+SIGSAGR00Q,AGR,Agreement / Affirm,00Q,SP:AGR:00Q,,Cheerful affirmation in response to good news or suggestion.,awesome|sweet|cool,agr00q,26,TRUE,TRUE
+SIGSAGR00R,AGR,Agreement / Affirm,00R,SP:AGR:00R,,Polite or neutral agreement used in professional settings.,noted|understood|affirmative,agr00r,27,TRUE,TRUE
+SIGSAGR00S,AGR,Agreement / Affirm,00S,SP:AGR:00S,,Acknowledging alignment in thought or belief system.,same here|agreed|I think so too,agr00s,28,TRUE,TRUE
+SIGSAGR00T,AGR,Agreement / Affirm,00T,SP:AGR:00T,,Supportive repetition to show encouragement.,you got this|yes you can|keep going,agr00t,29,TRUE,TRUE
+SIGSAGR00U,AGR,Agreement / Affirm,00U,SP:AGR:00U,,Choral or group repetition used in rituals or protest.,we agree|together|in unity,agr00u,30,TRUE,TRUE
+SIGSAGR00V,AGR,Agreement / Affirm,00V,SP:AGR:00V,,"Quick, affirming exclamation used in digital/text settings.",👍|✅|💯,agr00v,31,TRUE,TRUE
+SIGSAGR00W,AGR,Agreement / Affirm,00W,SP:AGR:00W,,Linguistic mirroring to build social rapport.,me too|same here|I was just thinking that,agr00w,32,TRUE,TRUE
+SIGSAGR00X,AGR,Agreement / Affirm,00X,SP:AGR:00X,,Agreement through shared values or ethics.,morally aligned|principled|with integrity,agr00x,33,TRUE,TRUE
+SIGSAGR00Y,AGR,Agreement / Affirm,00Y,SP:AGR:00Y,,Reluctant agreement under social or emotional pressure.,I guess|if I must|okay then,agr00y,34,TRUE,TRUE
+SIGSAGR00Z,AGR,Agreement / Affirm,00Z,SP:AGR:00Z,,Celebratory affirmation showing success or excitement.,nailed it|done deal|let’s go,agr00z,35,TRUE,TRUE
+SIGSAGR010,AGR,Agreement / Affirm,010,SP:AGR:010,,Agreement through symbolic action rather than speech.,handshake|nod|fist bump,agr010,36,TRUE,TRUE
+SIGSAGR011,AGR,Agreement / Affirm,011,SP:AGR:011,,Encoded or in-group phrase for collective assent.,one voice|on code|we move,agr011,37,TRUE,TRUE
+SIGSAGR012,AGR,Agreement / Affirm,012,SP:AGR:012,,Verbal cue indicating alignment with rules or expectations.,check|on point|according to plan,agr012,38,TRUE,TRUE
+SIGSAGR013,AGR,Agreement / Affirm,013,SP:AGR:013,,Spiritual or energetic affirmation of presence or truth.,so mote it be|spirit agrees|amen-rah,agr013,39,TRUE,TRUE
+SIGSAGR014,AGR,Agreement / Affirm,014,SP:AGR:014,Refrain indicating approval of the current topic or direc...,Refrain indicating approval of the current topic or direction.,go on|I’m listening|continue,agr014,40,TRUE,TRUE
+SIGSAGR015,AGR,Agreement / Affirm,015,SP:AGR:015,,Affirming another’s action or performance with approval.,good job|well done|respect,agr015,41,TRUE,TRUE
+SIGSAGR016,AGR,Agreement / Affirm,016,SP:AGR:016,,Simple repetition of agreement to maintain momentum.,right|true|yeah yeah,agr016,42,TRUE,TRUE
+SIGSAGR017,AGR,Agreement / Affirm,017,SP:AGR:017,,"Sincere acceptance of another’s truth, even if unshared.",I hear you|I can see that|makes sense to you,agr017,43,TRUE,TRUE
+SIGSAGR018,AGR,Agreement / Affirm,018,SP:AGR:018,,Quick digital shorthand for confirmation.,k|ok|roger,agr018,44,TRUE,TRUE
+SIGSAGR019,AGR,Agreement / Affirm,019,SP:AGR:019,,Formal language of contractual or legal agreement.,hereby agree|contracted|stipulated,agr019,45,TRUE,TRUE
+SIGSAGR01A,AGR,Agreement / Affirm,01A,SP:AGR:01A,,Verbal alignment with a shared emotional state.,right there with you|same vibes|I know the feeling,agr01a,46,TRUE,TRUE
+SIGSAGR01B,AGR,Agreement / Affirm,01B,SP:AGR:01B,,Supportive approval of a plan or method.,solid plan|that’ll work|go ahead,agr01b,47,TRUE,TRUE
+SIGSAGR01C,AGR,Agreement / Affirm,01C,SP:AGR:01C,,An offering of unity during challenge or tension.,we got this|together|not alone,agr01c,48,TRUE,TRUE
+SIGSAGR01D,AGR,Agreement / Affirm,01D,SP:AGR:01D,,Echoing the finality or closure of a decision.,it’s settled|done|case closed,agr01d,49,TRUE,TRUE
+SIGSAGR01E,AGR,Agreement / Affirm,01E,SP:AGR:01E,Cultural slang for expressing agreement with style or emp...,Cultural slang for expressing agreement with style or emphasis.,facts|say less|that part,agr01e,50,TRUE,TRUE
+SIGSAGR01F,AGR,Agreement / Affirm,01F,SP:AGR:01F,,Expressing trust in another’s judgment or opinion.,I trust you|go for it|your call,agr01f,51,TRUE,TRUE
+SIGSAGR01G,AGR,Agreement / Affirm,01G,SP:AGR:01G,,Simple utterance to agree without deep engagement.,mhmm|yeah|uh-huh,agr01g,52,TRUE,TRUE
+SIGSAGR01H,AGR,Agreement / Affirm,01H,SP:AGR:01H,,Spoken commitment to future action in agreement.,count me in|I’m down|let’s do it,agr01h,53,TRUE,TRUE
+SIGSAGR01I,AGR,Agreement / Affirm,01I,SP:AGR:01I,,Nostalgic or historical agreement based on shared past.,like old times|remember?|always been like that,agr01i,54,TRUE,TRUE
+SIGSAGR01J,AGR,Agreement / Affirm,01J,SP:AGR:01J,,Alignment with ethical or moral standards.,just|fair|right thing,agr01j,55,TRUE,TRUE
+SIGSAGR01K,AGR,Agreement / Affirm,01K,SP:AGR:01K,,Consent granted in private or discreet tone.,if you want|go ahead|I’m fine with that,agr01k,56,TRUE,TRUE
+SIGSAGR01L,AGR,Agreement / Affirm,01L,SP:AGR:01L,,Shared agreement reinforced by tradition or culture.,as always|our way|the usual,agr01l,57,TRUE,TRUE
+SIGSAGR01M,AGR,Agreement / Affirm,01M,SP:AGR:01M,,Agreement stated in the form of encouragement.,do it!|go for it|you should,agr01m,58,TRUE,TRUE
+SIGSAGR01N,AGR,Agreement / Affirm,01N,SP:AGR:01N,,Submission to a larger will or majority.,as decided|majority rules|I’ll follow,agr01n,59,TRUE,TRUE
+SIGSAGR01O,AGR,Agreement / Affirm,01O,SP:AGR:01O,,Grudging or weary expression of agreement.,fine|whatever|if it gets it done,agr01o,60,TRUE,TRUE
+SIGSAGR01P,AGR,Agreement / Affirm,01P,SP:AGR:01P,,Silent or implied agreement without words.,eye contact|quiet nod|unspoken,agr01p,61,TRUE,TRUE
+SIGSAGR01Q,AGR,Agreement / Affirm,01Q,SP:AGR:01Q,,Marking a threshold of commitment to agreement.,I’m in|from now on|I commit,agr01q,62,TRUE,TRUE
+SIGSAGR01R,AGR,Agreement / Affirm,01R,SP:AGR:01R,,Agreement based on strategic alignment.,aligned|in sync|on mission,agr01r,63,TRUE,TRUE
+SIGSAGR01S,AGR,Agreement / Affirm,01S,SP:AGR:01S,,Vocally confirming shared purpose or cause.,same goal|for the mission|with purpose,agr01s,64,TRUE,TRUE
+SIGSAGR01T,AGR,Agreement / Affirm,01T,SP:AGR:01T,,Expression of complete agreement across all points.,100%|no doubt|totally,agr01t,65,TRUE,TRUE
+SIGSAGR01U,AGR,Agreement / Affirm,01U,SP:AGR:01U,,Personal affirmation of identity or experience.,that’s me|I do too|same story,agr01u,66,TRUE,TRUE
+SIGSAGR01V,AGR,Agreement / Affirm,01V,SP:AGR:01V,,Relational agreement showing deference or support.,you lead|I got you|back you up,agr01v,67,TRUE,TRUE
+SIGSAGR01W,AGR,Agreement / Affirm,01W,SP:AGR:01W,,Phrasing that confirms agreement based on logic or reason.,"makes sense|logically, yes|follows",agr01w,68,TRUE,TRUE
+SIGSAGR01X,AGR,Agreement / Affirm,01X,SP:AGR:01X,,Phrase indicating agreement without emotional attachment.,noted|confirmed|acknowledged,agr01x,69,TRUE,TRUE
+SIGSAGR01Y,AGR,Agreement / Affirm,01Y,SP:AGR:01Y,,Energetic approval used to rally or affirm group energy.,let’s go!|hell yeah|bring it,agr01y,70,TRUE,TRUE
+SIGSAGR01Z,AGR,Agreement / Affirm,01Z,SP:AGR:01Z,,Soft encouragement through affirmation.,go ahead|you got this|no problem,agr01z,71,TRUE,TRUE
+SIGSAGR020,AGR,Agreement / Affirm,020,SP:AGR:020,,Delayed but clear expression of support or consent.,on second thought|okay then|I’m with it,agr020,72,TRUE,TRUE
+SIGSAGR021,AGR,Agreement / Affirm,021,SP:AGR:021,,Affirmation given through shared humor or play.,"you crazy|right?!|I know, right?",agr021,73,TRUE,TRUE
+SIGSAGR022,AGR,Agreement / Affirm,022,SP:AGR:022,,Spoken recognition of shared identity or struggle.,same boat|I know|with you,agr022,74,TRUE,TRUE
+SIGSAGR023,AGR,Agreement / Affirm,023,SP:AGR:023,,Simple assent used to maintain peace or flow.,okay|sure|you’re right,agr023,75,TRUE,TRUE
+SIGSAGR024,AGR,Agreement / Affirm,024,SP:AGR:024,,Professional confirmation using workplace jargon.,copied|roger that|in sync,agr024,76,TRUE,TRUE
+SIGSAGR025,AGR,Agreement / Affirm,025,SP:AGR:025,,Minimal but clear cue to proceed.,go|do it|execute,agr025,77,TRUE,TRUE
+SIGSAGR026,AGR,Agreement / Affirm,026,SP:AGR:026,,Agreement issued by silence or absence of protest.,no objection|consent by silence|all clear,agr026,78,TRUE,TRUE
+SIGSAGR027,AGR,Agreement / Affirm,027,SP:AGR:027,,Repetitive echo used in ceremonial or liturgical agreement.,amen|so be it|thus it is,agr027,79,TRUE,TRUE
+SIGSAGR028,AGR,Agreement / Affirm,028,SP:AGR:028,,Spoken signal of willingness to accept change.,let’s do it|I’m ready|bring it on,agr028,80,TRUE,TRUE
+SIGSAGR029,AGR,Agreement / Affirm,029,SP:AGR:029,,Commitment through repeated affirmation over time.,still with you|as always|unchanged,agr029,81,TRUE,TRUE
+SIGSAGR02A,AGR,Agreement / Affirm,02A,SP:AGR:02A,,Summative approval of a completed idea or act.,that’s it|exactly|done right,agr02a,82,TRUE,TRUE
+SIGSAGR02B,AGR,Agreement / Affirm,02B,SP:AGR:02B,,Harmonizing vocal phrase that reflects group unity.,together|one|unified,agr02b,83,TRUE,TRUE
+SIGSAGR02C,AGR,Agreement / Affirm,02C,SP:AGR:02C,,Rapid agreement expressed digitally.,✅|same,agr02c,84,TRUE,TRUE
+SIGSAGR02D,AGR,Agreement / Affirm,02D,SP:AGR:02D,,Verbal pact or statement of shared commitment.,deal|agreement|count me in,agr02d,85,TRUE,TRUE
+SIGSAGR02E,AGR,Agreement / Affirm,02E,SP:AGR:02E,,Coded agreement used in insider groups.,green light|thumbs up|good to go,agr02e,86,TRUE,TRUE
+SIGSAGR02F,AGR,Agreement / Affirm,02F,SP:AGR:02F,,Playful or sarcastic alignment used for levity.,"sure thing, boss|as you wish|totally (not)",agr02f,87,TRUE,TRUE
+SIGSAGR02G,AGR,Agreement / Affirm,02G,SP:AGR:02G,,Agreement reinforced by body language cues.,raised eyebrows|tilt head|soft smile,agr02g,88,TRUE,TRUE
+SIGSAGR02H,AGR,Agreement / Affirm,02H,SP:AGR:02H,,Respectful verbal signal of support.,with respect|yes sir|yes ma’am,agr02h,89,TRUE,TRUE
+SIGSAGR02I,AGR,Agreement / Affirm,02I,SP:AGR:02I,,Creative or poetic phrase affirming shared reality.,spoken into being|we breathe the same air|truth shared,agr02i,90,TRUE,TRUE
+SIGSAGR02J,AGR,Agreement / Affirm,02J,SP:AGR:02J,,Digital or emoji-based signs of alignment.,🙌|🔥|👌,agr02j,91,TRUE,TRUE
+SIGSAGR02K,AGR,Agreement / Affirm,02K,SP:AGR:02K,,Summarized signal of long-term agreement.,as always|still true|never changed,agr02k,92,TRUE,TRUE
+SIGSAGR02L,AGR,Agreement / Affirm,02L,SP:AGR:02L,,Affirmation using irony or reverse emphasis.,"yeah, *sure*|right...|totally",agr02l,93,TRUE,TRUE
+SIGSAGR02M,AGR,Agreement / Affirm,02M,SP:AGR:02M,,Sudden alignment after new understanding.,ohhh|I see|you’re right,agr02m,94,TRUE,TRUE
+SIGSAGR02N,AGR,Agreement / Affirm,02N,SP:AGR:02N,,Multilingual or cross-cultural affirmatives.,sí|hai|da,agr02n,95,TRUE,TRUE
+SIGSAGR02O,AGR,Agreement / Affirm,02O,SP:AGR:02O,,Colloquial signal of unity or allegiance.,we locked in|I got you|we ride,agr02o,96,TRUE,TRUE
+SIGSAGR02P,AGR,Agreement / Affirm,02P,SP:AGR:02P,,Soft whisper or echo of agreement.,yep|yeah|mmm,agr02p,97,TRUE,TRUE
+SIGSAGR02Q,AGR,Agreement / Affirm,02Q,SP:AGR:02Q,,Agreement through symbolic timing or rhythm.,beat drop|cue|on time,agr02q,98,TRUE,TRUE
+SIGSAGR02R,AGR,Agreement / Affirm,02R,SP:AGR:02R,,"Agreement used in ritual, practice, or mantra.",truth|namaste|let it be,agr02r,99,TRUE,TRUE
+SIGSAGR02S,AGR,Agreement / Affirm,02S,SP:AGR:02S,,"Intentional, verbal acceptance of current reality.",I accept|it’s true|this is real,agr02s,100,TRUE,TRUE
+SIGSNEG001,NEG,Negation / Denial,001,SP:NEG:001,A rejection of truth or accuracy in response to a stateme...,A rejection of truth or accuracy in response to a statement or claim.,no|wrong|false,neg001,101,TRUE,TRUE
+SIGSNEG002,NEG,Negation / Denial,002,SP:NEG:002,A verbal expression used to refute an accusation or assum...,A verbal expression used to refute an accusation or assumption.,never|I didn’t|that’s not true,neg002,102,TRUE,TRUE
+SIGSNEG003,NEG,Negation / Denial,003,SP:NEG:003,,The act of declining an offer or suggestion.,no thanks|I’ll pass|not interested,neg003,103,TRUE,TRUE
+SIGSNEG004,NEG,Negation / Denial,004,SP:NEG:004,,"Complete dismissal of an idea, often emphatic.",absolutely not|no way|not a chance,neg004,104,TRUE,TRUE
+SIGSNEG005,NEG,Negation / Denial,005,SP:NEG:005,,Expression of opposition or contradiction to another’s view.,disagree|not quite|on the contrary,neg005,105,TRUE,TRUE
+SIGSNEG006,NEG,Negation / Denial,006,SP:NEG:006,,A denial based on lack of evidence or belief.,I doubt it|unproven|unlikely,neg006,106,TRUE,TRUE
+SIGSNEG007,NEG,Negation / Denial,007,SP:NEG:007,,Negation of a prior statement or assumption.,scratch that|never mind|cancel that,neg007,107,TRUE,TRUE
+SIGSNEG008,NEG,Negation / Denial,008,SP:NEG:008,,Casual denial to maintain social harmony.,nah|not really|I don’t think so,neg008,108,TRUE,TRUE
+SIGSNEG009,NEG,Negation / Denial,009,SP:NEG:009,,Formal or legal contradiction of a claim.,refute|contest|deny under oath,neg009,109,TRUE,TRUE
+SIGSNEG00A,NEG,Negation / Denial,00A,SP:NEG:00A,,Nonverbal cues of disagreement or rejection.,head shake|crossed arms|turned away,neg00a,110,TRUE,TRUE
+SIGSNEG00B,NEG,Negation / Denial,00B,SP:NEG:00B,Denial conveyed through silence or withholding acknowledg...,Denial conveyed through silence or withholding acknowledgment.,(no response)|ignored|turned away,neg00b,111,TRUE,TRUE
+SIGSNEG00C,NEG,Negation / Denial,00C,SP:NEG:00C,,Philosophical or abstract negation of reality or state.,void|null|not-being,neg00c,112,TRUE,TRUE
+SIGSNEG00D,NEG,Negation / Denial,00D,SP:NEG:00D,,Negation through irony or sarcastic contradiction.,"yeah, right|sure|totally not",neg00d,113,TRUE,TRUE
+SIGSNEG00E,NEG,Negation / Denial,00E,SP:NEG:00E,,Colloquial or playful expression of disagreement.,nah|nope|don’t think so,neg00e,114,TRUE,TRUE
+SIGSNEG00F,NEG,Negation / Denial,00F,SP:NEG:00F,,Firm denial used in professional or legal contexts.,objection|denied|overruled,neg00f,115,TRUE,TRUE
+SIGSNEG00G,NEG,Negation / Denial,00G,SP:NEG:00G,,Vocalization used to block or interrupt agreement.,no no|wait|hold up,neg00g,116,TRUE,TRUE
+SIGSNEG00H,NEG,Negation / Denial,00H,SP:NEG:00H,,Denial based on moral or ethical stance.,unacceptable|immoral|wrong,neg00h,117,TRUE,TRUE
+SIGSNEG00I,NEG,Negation / Denial,00I,SP:NEG:00I,,Symbolic or ritualistic form of negation.,banished|cast out|excluded,neg00i,118,TRUE,TRUE
+SIGSNEG00J,NEG,Negation / Denial,00J,SP:NEG:00J,,Negation by reversal or undoing of previous action.,revoke|undo|take back,neg00j,119,TRUE,TRUE
+SIGSNEG00K,NEG,Negation / Denial,00K,SP:NEG:00K,,Lack of validation or confirmation.,uncertain|unverified|unconfirmed,neg00k,120,TRUE,TRUE
+SIGSNEG00L,NEG,Negation / Denial,00L,SP:NEG:00L,,Rejection based on logic or reasoning.,illogical|doesn’t follow|not valid,neg00l,121,TRUE,TRUE
+SIGSNEG00M,NEG,Negation / Denial,00M,SP:NEG:00M,,Denial based on authority or social role.,not authorized|unauthorized|not allowed,neg00m,122,TRUE,TRUE
+SIGSNEG00N,NEG,Negation / Denial,00N,SP:NEG:00N,,Gentle or hesitant denial used to soften rejection.,maybe not|not today|not really,neg00n,123,TRUE,TRUE
+SIGSNEG00O,NEG,Negation / Denial,00O,SP:NEG:00O,,Noncommittal refusal without explanation.,I’d rather not|pass|not now,neg00o,124,TRUE,TRUE
+SIGSNEG00P,NEG,Negation / Denial,00P,SP:NEG:00P,,Formal refutation of ideology or worldview.,denounce|repudiate|reject,neg00p,125,TRUE,TRUE
+SIGSNEG00Q,NEG,Negation / Denial,00Q,SP:NEG:00Q,,Denial tied to emotional resistance or fear.,I can’t|not ready|too much,neg00q,126,TRUE,TRUE
+SIGSNEG00R,NEG,Negation / Denial,00R,SP:NEG:00R,,Negation as a coping or defense mechanism.,didn’t happen|don’t believe it|that’s not me,neg00r,127,TRUE,TRUE
+SIGSNEG00S,NEG,Negation / Denial,00S,SP:NEG:00S,,Contradiction based on firsthand experience.,I was there|not what I saw|wrong memory,neg00s,128,TRUE,TRUE
+SIGSNEG00T,NEG,Negation / Denial,00T,SP:NEG:00T,,Group-level rejection or cancellation.,veto|strike down|blacklisted,neg00t,129,TRUE,TRUE
+SIGSNEG00U,NEG,Negation / Denial,00U,SP:NEG:00U,,A philosophical negation of fixed meaning.,nonduality|emptiness|not-self,neg00u,130,TRUE,TRUE
+SIGSNEG00V,NEG,Negation / Denial,00V,SP:NEG:00V,,Firm stand against endorsement or participation.,count me out|not part of that|opposed,neg00v,131,TRUE,TRUE
+SIGSNEG00W,NEG,Negation / Denial,00W,SP:NEG:00W,,Negation through retraction or withdrawal.,retract|pull back|remove,neg00w,132,TRUE,TRUE
+SIGSNEG00X,NEG,Negation / Denial,00X,SP:NEG:00X,,Linguistic or cultural signals of disagreement.,nuh-uh|eh|tsk,neg00x,133,TRUE,TRUE
+SIGSNEG00Y,NEG,Negation / Denial,00Y,SP:NEG:00Y,,Symbolic denial used in dream or altered states.,disappear|dissolve|voided,neg00y,134,TRUE,TRUE
+SIGSNEG00Z,NEG,Negation / Denial,00Z,SP:NEG:00Z,,Negation by substitution with opposite.,invert|reverse|flip,neg00z,135,TRUE,TRUE
+SIGSNEG010,NEG,Negation / Denial,010,SP:NEG:010,,Political or ideological contradiction.,resist|oppose|boycott,neg010,136,TRUE,TRUE
+SIGSNEG011,NEG,Negation / Denial,011,SP:NEG:011,,Coded or polite denial used in diplomacy.,we’ll see|perhaps not|unfortunate,neg011,137,TRUE,TRUE
+SIGSNEG012,NEG,Negation / Denial,012,SP:NEG:012,,Casual withdrawal from agreement or plan.,I’m out|change of mind|no longer,neg012,138,TRUE,TRUE
+SIGSNEG013,NEG,Negation / Denial,013,SP:NEG:013,,Spiritual or metaphysical negation of identity.,egoless|not-self|beyond form,neg013,139,TRUE,TRUE
+SIGSNEG014,NEG,Negation / Denial,014,SP:NEG:014,,Denial using historical or comparative framing.,not like before|no longer|unlike them,neg014,140,TRUE,TRUE
+SIGSNEG015,NEG,Negation / Denial,015,SP:NEG:015,,Reductive denial of complexity or nuance.,just wrong|makes no sense|oversimplified,neg015,141,TRUE,TRUE
+SIGSNEG016,NEG,Negation / Denial,016,SP:NEG:016,,Parental or authoritarian negation.,no means no|stop|don’t,neg016,142,TRUE,TRUE
+SIGSNEG017,NEG,Negation / Denial,017,SP:NEG:017,,Scientific rejection based on falsification.,refuted|invalid|disproven,neg017,143,TRUE,TRUE
+SIGSNEG018,NEG,Negation / Denial,018,SP:NEG:018,,Cultural or generational difference expressed as negation.,not my thing|back in my day|we don’t do that,neg018,144,TRUE,TRUE
+SIGSNEG019,NEG,Negation / Denial,019,SP:NEG:019,,Expressive denial tied to personal boundary.,stop|don’t touch|that’s enough,neg019,145,TRUE,TRUE
+SIGSNEG01A,NEG,Negation / Denial,01A,SP:NEG:01A,,Negation rooted in superstition or taboo.,unspeakable|don’t name it|not to be done,neg01a,146,TRUE,TRUE
+SIGSNEG01B,NEG,Negation / Denial,01B,SP:NEG:01B,,Denial of identity or relational tie.,not family|we’re nothing|I don’t know them,neg01b,147,TRUE,TRUE
+SIGSNEG01C,NEG,Negation / Denial,01C,SP:NEG:01C,,Rhetorical negation used to redirect or obscure.,let’s not go there|not the point|irrelevant,neg01c,148,TRUE,TRUE
+SIGSNEG01D,NEG,Negation / Denial,01D,SP:NEG:01D,,Denial as a form of protective denialism.,fake news|conspiracy|made up,neg01d,149,TRUE,TRUE
+SIGSNEG01E,NEG,Negation / Denial,01E,SP:NEG:01E,,Negation based in existential skepticism.,meaningless|pointless|what’s the use,neg01e,150,TRUE,TRUE
+SIGSNEG01F,NEG,Negation / Denial,01F,SP:NEG:01F,,Playful contradiction or teasing refusal.,nah fam|nope!|not today,neg01f,151,TRUE,TRUE
+SIGSNEG01G,NEG,Negation / Denial,01G,SP:NEG:01G,,Disengagement or withdrawal masked as indifference.,don’t care|whatever|meh,neg01g,152,TRUE,TRUE
+SIGSNEG01H,NEG,Negation / Denial,01H,SP:NEG:01H,,Tactical negation to protect a strategy or secret.,classified|can’t say|not now,neg01h,153,TRUE,TRUE
+SIGSNEG01I,NEG,Negation / Denial,01I,SP:NEG:01I,,Erasure or denial through systemic exclusion.,silenced|omitted|censored,neg01i,154,TRUE,TRUE
+SIGSNEG01J,NEG,Negation / Denial,01J,SP:NEG:01J,,Metaphoric or symbolic negation via inversion.,shadow|anti|dark twin,neg01j,155,TRUE,TRUE
+SIGSNEG01K,NEG,Negation / Denial,01K,SP:NEG:01K,,Negation using digital or software terminology.,404|null|access denied,neg01k,156,TRUE,TRUE
+SIGSNEG01L,NEG,Negation / Denial,01L,SP:NEG:01L,,Denial of existence or realness.,not real|imaginary|fabricated,neg01l,157,TRUE,TRUE
+SIGSNEG01M,NEG,Negation / Denial,01M,SP:NEG:01M,,Negation expressed through extreme skepticism.,prove it|highly doubtful|sus,neg01m,158,TRUE,TRUE
+SIGSNEG01N,NEG,Negation / Denial,01N,SP:NEG:01N,,Obscure or veiled language signaling negation.,not quite|we’ll revisit|in review,neg01n,159,TRUE,TRUE
+SIGSNEG01O,NEG,Negation / Denial,01O,SP:NEG:01O,,Loud or forceful rejection of a person or claim.,liar|untrue|falsehood,neg01o,160,TRUE,TRUE
+SIGSNEG01P,NEG,Negation / Denial,01P,SP:NEG:01P,,Contrarian expression of denial to disrupt consensus.,devil’s advocate|maybe not|other side,neg01p,161,TRUE,TRUE
+SIGSNEG01Q,NEG,Negation / Denial,01Q,SP:NEG:01Q,,Existential negation of narrative or story.,myth|illusion|no plot,neg01q,162,TRUE,TRUE
+SIGSNEG01R,NEG,Negation / Denial,01R,SP:NEG:01R,,Negation of control or access.,locked out|denied|blocked,neg01r,163,TRUE,TRUE
+SIGSNEG01S,NEG,Negation / Denial,01S,SP:NEG:01S,,Negation driven by envy or resentment.,undeserved|not fair|why them,neg01s,164,TRUE,TRUE
+SIGSNEG01T,NEG,Negation / Denial,01T,SP:NEG:01T,,Logical contradiction that negates a premise.,self-defeating|inconsistent|contradictory,neg01t,165,TRUE,TRUE
+SIGSNEG01U,NEG,Negation / Denial,01U,SP:NEG:01U,,Spiritual distancing from an idea or state.,unclean|not divine|no light,neg01u,166,TRUE,TRUE
+SIGSNEG01V,NEG,Negation / Denial,01V,SP:NEG:01V,,Repetition of negation to emphasize intensity.,no no no|absolutely not|never ever,neg01v,167,TRUE,TRUE
+SIGSNEG01W,NEG,Negation / Denial,01W,SP:NEG:01W,,Coded slang for hidden or implied denial.,nah fr|stop playin|you wild,neg01w,168,TRUE,TRUE
+SIGSNEG01X,NEG,Negation / Denial,01X,SP:NEG:01X,,Simple pause or stall instead of agreement.,wait|hold on|let’s pause,neg01x,169,TRUE,TRUE
+SIGSNEG01Y,NEG,Negation / Denial,01Y,SP:NEG:01Y,,Negation via euphemism or softened language.,not ideal|unfavorable|less than great,neg01y,170,TRUE,TRUE
+SIGSNEG01Z,NEG,Negation / Denial,01Z,SP:NEG:01Z,,Contradiction masked as curiosity or questioning.,are you sure?|really?|how do you know?,neg01z,171,TRUE,TRUE
+SIGSNEG020,NEG,Negation / Denial,020,SP:NEG:020,,Internal denial used to cope with trauma or grief.,can’t believe it|no way|still in shock,neg020,172,TRUE,TRUE
+SIGSNEG021,NEG,Negation / Denial,021,SP:NEG:021,,Legal or procedural statement of denial.,not guilty|motion denied|dismissed,neg021,173,TRUE,TRUE
+SIGSNEG022,NEG,Negation / Denial,022,SP:NEG:022,,Refusal masked as deferral or delay.,not now|maybe later|hold off,neg022,174,TRUE,TRUE
+SIGSNEG023,NEG,Negation / Denial,023,SP:NEG:023,,Existential or nihilistic refusal to participate.,opt out|pass|not playing,neg023,175,TRUE,TRUE
+SIGSNEG024,NEG,Negation / Denial,024,SP:NEG:024,,Verbal distancing from association or responsibility.,not mine|don’t blame me|that’s on them,neg024,176,TRUE,TRUE
+SIGSNEG025,NEG,Negation / Denial,025,SP:NEG:025,,Absolute negation through metaphysical boundary.,never was|beyond reach|out of time,neg025,177,TRUE,TRUE
+SIGSNEG026,NEG,Negation / Denial,026,SP:NEG:026,,Refusal couched in politeness or formality.,with regret|respectfully decline|not at this time,neg026,178,TRUE,TRUE
+SIGSNEG027,NEG,Negation / Denial,027,SP:NEG:027,,Negation via silence or omission in writing.,[redacted]|[omitted]|[blank],neg027,179,TRUE,TRUE
+SIGSNEG028,NEG,Negation / Denial,028,SP:NEG:028,,Symbolic reversal of affirmation.,not so|inverted|negated,neg028,180,TRUE,TRUE
+SIGSNEG029,NEG,Negation / Denial,029,SP:NEG:029,,Philosophical negation through paradox.,everything is nothing|dark light|truth is lie,neg029,181,TRUE,TRUE
+SIGSNEG02A,NEG,Negation / Denial,02A,SP:NEG:02A,,Factual denial based on contradictory data.,inconsistent|contradicted|debunked,neg02a,182,TRUE,TRUE
+SIGSNEG02B,NEG,Negation / Denial,02B,SP:NEG:02B,,Withholding consent or endorsement.,didn’t agree|not signed|refused,neg02b,183,TRUE,TRUE
+SIGSNEG02C,NEG,Negation / Denial,02C,SP:NEG:02C,,Negation as an act of spiritual purification.,cast out|let go|banish,neg02c,184,TRUE,TRUE
+SIGSNEG02D,NEG,Negation / Denial,02D,SP:NEG:02D,,Active rebuttal in debate or discussion.,counter|rebut|challenge,neg02d,185,TRUE,TRUE
+SIGSNEG02E,NEG,Negation / Denial,02E,SP:NEG:02E,,Reversal of commitment or loyalty.,defect|turncoat|withdraw,neg02e,186,TRUE,TRUE
+SIGSNEG02F,NEG,Negation / Denial,02F,SP:NEG:02F,,Negation expressed through comparative exclusion.,not like them|unlike|different,neg02f,187,TRUE,TRUE
+SIGSNEG02G,NEG,Negation / Denial,02G,SP:NEG:02G,,"Simple, curt, or blunt refusal.",no|stop|don’t,neg02g,188,TRUE,TRUE
+SIGSNEG02H,NEG,Negation / Denial,02H,SP:NEG:02H,,Withdrawal of belief or faith.,lost faith|don’t believe|fallen away,neg02h,189,TRUE,TRUE
+SIGSNEG02I,NEG,Negation / Denial,02I,SP:NEG:02I,,Visual or graphic indicator of negation.,🚫|❌|✖,neg02i,190,TRUE,TRUE
+SIGSNEG02J,NEG,Negation / Denial,02J,SP:NEG:02J,,Semantic or grammatical negation.,not|never|no longer,neg02j,191,TRUE,TRUE
+SIGSNEG02K,NEG,Negation / Denial,02K,SP:NEG:02K,,Rejection based on memory or evidence.,not how I remember|doesn’t add up|false memory,neg02k,192,TRUE,TRUE
+SIGSNEG02L,NEG,Negation / Denial,02L,SP:NEG:02L,,Denial for protection of another.,wasn’t them|I did it|cover,neg02l,193,TRUE,TRUE
+SIGSNEG02M,NEG,Negation / Denial,02M,SP:NEG:02M,,Negation via redirection to another topic.,off-topic|irrelevant|moving on,neg02m,194,TRUE,TRUE
+SIGSNEG02N,NEG,Negation / Denial,02N,SP:NEG:02N,,Negation through mocking or parody.,mock|sarcasm|meme,neg02n,195,TRUE,TRUE
+SIGSNEG02O,NEG,Negation / Denial,02O,SP:NEG:02O,,Refusal due to ethical or moral disagreement.,I can’t do that|not right|against my values,neg02o,196,TRUE,TRUE
+SIGSNEG02P,NEG,Negation / Denial,02P,SP:NEG:02P,,Indecision or withdrawal due to uncertainty.,not sure|undecided|still thinking,neg02p,197,TRUE,TRUE
+SIGSNEG02Q,NEG,Negation / Denial,02Q,SP:NEG:02Q,,Passive-aggressive denial or resistance.,if you say so|whatever|sure (not),neg02q,198,TRUE,TRUE
+SIGSNEG02R,NEG,Negation / Denial,02R,SP:NEG:02R,,Negation of time or timing relevance.,not yet|too late|never again,neg02r,199,TRUE,TRUE
+SIGSNEG02S,NEG,Negation / Denial,02S,SP:NEG:02S,,Complete metaphysical denial of identity or being.,not me|I am not|no self,neg02s,200,TRUE,TRUE
+SIGSOWN001,OWN,Ownership / Possession,001,SP:OWN:001,,A verbal declaration of personal ownership or possession.,mine|belongs to me|I own it,own001,201,TRUE,TRUE
+SIGSOWN002,OWN,Ownership / Possession,002,SP:OWN:002,,An indication of legal or formal possession.,title|deed|licensed to,own002,202,TRUE,TRUE
+SIGSOWN003,OWN,Ownership / Possession,003,SP:OWN:003,Informal or colloquial claim to a shared object or experi...,Informal or colloquial claim to a shared object or experience.,my turn|dibs|called it,own003,203,TRUE,TRUE
+SIGSOWN004,OWN,Ownership / Possession,004,SP:OWN:004,,Possessive pronoun forms to signal association.,my|his|her,own004,204,TRUE,TRUE
+SIGSOWN005,OWN,Ownership / Possession,005,SP:OWN:005,,Expressions of familial or emotional belonging.,my family|my love|my people,own005,205,TRUE,TRUE
+SIGSOWN006,OWN,Ownership / Possession,006,SP:OWN:006,,Spiritual or sacred form of possession or guardianship.,entrusted|watched over|in my care,own006,206,TRUE,TRUE
+SIGSOWN007,OWN,Ownership / Possession,007,SP:OWN:007,,"Cultural or ancestral claim to land, name, or history.",our land|our heritage|rightful,own007,207,TRUE,TRUE
+SIGSOWN008,OWN,Ownership / Possession,008,SP:OWN:008,,Digital or virtual ownership.,my account|logged in|NFT,own008,208,TRUE,TRUE
+SIGSOWN009,OWN,Ownership / Possession,009,SP:OWN:009,,Gestures or nonverbal signals of claim.,hand on object|standing over|protective stance,own009,209,TRUE,TRUE
+SIGSOWN00A,OWN,Ownership / Possession,00A,SP:OWN:00A,,Business or economic language of ownership.,stakeholder|proprietor|invested in,own00a,210,TRUE,TRUE
+SIGSOWN00B,OWN,Ownership / Possession,00B,SP:OWN:00B,,Possessive control over knowledge or ideas.,my theory|our framework|his concept,own00b,211,TRUE,TRUE
+SIGSOWN00C,OWN,Ownership / Possession,00C,SP:OWN:00C,,Exclusive rights to use or access.,exclusive|private|access granted,own00c,212,TRUE,TRUE
+SIGSOWN00D,OWN,Ownership / Possession,00D,SP:OWN:00D,,Possession asserted through symbolic naming.,named after|eponymous|my namesake,own00d,213,TRUE,TRUE
+SIGSOWN00E,OWN,Ownership / Possession,00E,SP:OWN:00E,,Language that indicates having a role or responsibility.,I manage|under my watch|in charge of,own00e,214,TRUE,TRUE
+SIGSOWN00F,OWN,Ownership / Possession,00F,SP:OWN:00F,,Spoken bond or attachment to something abstract.,my truth|my vision|my story,own00f,215,TRUE,TRUE
+SIGSOWN00G,OWN,Ownership / Possession,00G,SP:OWN:00G,,Possessive used in storytelling to assert identity.,my journey|my destiny|my dream,own00g,216,TRUE,TRUE
+SIGSOWN00H,OWN,Ownership / Possession,00H,SP:OWN:00H,,Language indicating possession via inheritance.,passed down|legacy|heirloom,own00h,217,TRUE,TRUE
+SIGSOWN00I,OWN,Ownership / Possession,00I,SP:OWN:00I,,Possession demonstrated through emotional attachment.,can’t let go|I need it|means the world,own00i,218,TRUE,TRUE
+SIGSOWN00J,OWN,Ownership / Possession,00J,SP:OWN:00J,,Collective ownership language used in organizations.,our team|we own this|shared mission,own00j,219,TRUE,TRUE
+SIGSOWN00K,OWN,Ownership / Possession,00K,SP:OWN:00K,,Territorial claim or boundary declaration.,my space|stay out|this is ours,own00k,220,TRUE,TRUE
+SIGSOWN00L,OWN,Ownership / Possession,00L,SP:OWN:00L,,Use of branding or labeling to mark possession.,my logo|tagged|marked as mine,own00l,221,TRUE,TRUE
+SIGSOWN00M,OWN,Ownership / Possession,00M,SP:OWN:00M,,Verbal assertion of exclusivity or loyalty.,all mine|spoken for|claimed,own00m,222,TRUE,TRUE
+SIGSOWN00N,OWN,Ownership / Possession,00N,SP:OWN:00N,,Possession framed through relational language.,my friend|his partner|her mentor,own00n,223,TRUE,TRUE
+SIGSOWN00O,OWN,Ownership / Possession,00O,SP:OWN:00O,,Expressions of dominion or authority.,rule over|command|own it,own00o,224,TRUE,TRUE
+SIGSOWN00P,OWN,Ownership / Possession,00P,SP:OWN:00P,,Language suggesting emotional or romantic claim.,my love|taken|spoken for,own00p,225,TRUE,TRUE
+SIGSOWN00Q,OWN,Ownership / Possession,00Q,SP:OWN:00Q,,Financial or transactional ownership language.,purchased|paid for|investment,own00q,226,TRUE,TRUE
+SIGSOWN00R,OWN,Ownership / Possession,00R,SP:OWN:00R,,Coded phrases of possession in digital culture.,mine IRL|locked in|owned,own00r,227,TRUE,TRUE
+SIGSOWN00S,OWN,Ownership / Possession,00S,SP:OWN:00S,,Possession through design or creative origin.,my design|creator of|made by,own00s,228,TRUE,TRUE
+SIGSOWN00T,OWN,Ownership / Possession,00T,SP:OWN:00T,,Possession of intangible concepts like time or memory.,my moment|my memory|my time,own00t,229,TRUE,TRUE
+SIGSOWN00U,OWN,Ownership / Possession,00U,SP:OWN:00U,,Possessive use in mentorship or stewardship.,my student|under my wing|guided by me,own00u,230,TRUE,TRUE
+SIGSOWN00V,OWN,Ownership / Possession,00V,SP:OWN:00V,,Symbolic declaration of shared custody or rights.,jointly held|co-owned|shared,own00v,231,TRUE,TRUE
+SIGSOWN00W,OWN,Ownership / Possession,00W,SP:OWN:00W,,Possession rooted in protection or guardianship.,watch over|keep safe|mine to protect,own00w,232,TRUE,TRUE
+SIGSOWN00X,OWN,Ownership / Possession,00X,SP:OWN:00X,,Possession communicated through legal constraints.,copyright|patented|owned by law,own00x,233,TRUE,TRUE
+SIGSOWN00Y,OWN,Ownership / Possession,00Y,SP:OWN:00Y,,Possessive expressions based in spiritual belief.,gifted to me|entrusted|sacred to me,own00y,234,TRUE,TRUE
+SIGSOWN00Z,OWN,Ownership / Possession,00Z,SP:OWN:00Z,,Emphatic possession via repetition or emphasis.,mine mine mine|all mine|truly mine,own00z,235,TRUE,TRUE
+SIGSOWN010,OWN,Ownership / Possession,010,SP:OWN:010,,Possessive language rooted in scarcity or fear.,only one|I can’t lose it|all I have,own010,236,TRUE,TRUE
+SIGSOWN011,OWN,Ownership / Possession,011,SP:OWN:011,,Possession indicated through digital permissions.,admin|has access|controlled by,own011,237,TRUE,TRUE
+SIGSOWN012,OWN,Ownership / Possession,012,SP:OWN:012,,Territoriality expressed through instinct or behavior.,mine!|claimed|territory,own012,238,TRUE,TRUE
+SIGSOWN013,OWN,Ownership / Possession,013,SP:OWN:013,,Possession expressed in a mythic or archetypal tone.,chosen one|gifted heir|holder of,own013,239,TRUE,TRUE
+SIGSOWN014,OWN,Ownership / Possession,014,SP:OWN:014,,Possessive control in a linguistic or rhetorical domain.,my language|my voice|my story,own014,240,TRUE,TRUE
+SIGSOWN015,OWN,Ownership / Possession,015,SP:OWN:015,,Possession claimed through emotional labor or time.,I earned this|put in the work|mine through effort,own015,241,TRUE,TRUE
+SIGSOWN016,OWN,Ownership / Possession,016,SP:OWN:016,,Rhetorical framing of ideas as personal constructs.,my understanding|my framework|I coined that,own016,242,TRUE,TRUE
+SIGSOWN017,OWN,Ownership / Possession,017,SP:OWN:017,,Possessive tone in envy or desire.,should be mine|wish I had|rightfully mine,own017,243,TRUE,TRUE
+SIGSOWN018,OWN,Ownership / Possession,018,SP:OWN:018,,Expressions of possession in artistic or literary works.,my poem|authored by|my lyrics,own018,244,TRUE,TRUE
+SIGSOWN019,OWN,Ownership / Possession,019,SP:OWN:019,,Possession signaled through display or curation.,my collection|showcase|personal gallery,own019,245,TRUE,TRUE
+SIGSOWN01A,OWN,Ownership / Possession,01A,SP:OWN:01A,,Identity-oriented possession.,my gender|my name|my identity,own01a,246,TRUE,TRUE
+SIGSOWN01B,OWN,Ownership / Possession,01B,SP:OWN:01B,,Possession framed in academic or intellectual contexts.,my thesis|my research|my paper,own01b,247,TRUE,TRUE
+SIGSOWN01C,OWN,Ownership / Possession,01C,SP:OWN:01C,,Possessive reframing of shared language.,our word|how we say|this is our way,own01c,248,TRUE,TRUE
+SIGSOWN01D,OWN,Ownership / Possession,01D,SP:OWN:01D,,"Possession of titles, roles, or honors.",my title|holder of|I earned it,own01d,249,TRUE,TRUE
+SIGSOWN01E,OWN,Ownership / Possession,01E,SP:OWN:01E,,Possessive dynamics in conflict or power.,take it back|mine now|you stole it,own01e,250,TRUE,TRUE
+SIGSOWN01F,OWN,Ownership / Possession,01F,SP:OWN:01F,,Symbolic or mythic language for spiritual possession.,my calling|soul-bound|tethered to,own01f,251,TRUE,TRUE
+SIGSOWN01G,OWN,Ownership / Possession,01G,SP:OWN:01G,,Possessive use in claiming digital or AI assets.,my model|my bot|owned node,own01g,252,TRUE,TRUE
+SIGSOWN01H,OWN,Ownership / Possession,01H,SP:OWN:01H,,Possession claimed in sacrifice or loss.,died for this|gave everything|cost me,own01h,253,TRUE,TRUE
+SIGSOWN01I,OWN,Ownership / Possession,01I,SP:OWN:01I,,Possession demonstrated through ritual or tradition.,handed down|our way|kept alive,own01i,254,TRUE,TRUE
+SIGSOWN01J,OWN,Ownership / Possession,01J,SP:OWN:01J,,Protective language of ownership.,not yours|hands off|leave it,own01j,255,TRUE,TRUE
+SIGSOWN01K,OWN,Ownership / Possession,01K,SP:OWN:01K,,Ownership through payment or trade.,bought|exchanged|traded for,own01k,256,TRUE,TRUE
+SIGSOWN01L,OWN,Ownership / Possession,01L,SP:OWN:01L,,Emotive or nostalgic possession of moments.,that was mine|my childhood|my past,own01l,257,TRUE,TRUE
+SIGSOWN01M,OWN,Ownership / Possession,01M,SP:OWN:01M,,Possession communicated through spatial orientation.,my side|my place|my room,own01m,258,TRUE,TRUE
+SIGSOWN01N,OWN,Ownership / Possession,01N,SP:OWN:01N,,Possessive language in tribal or collective identity.,our clan|our code|our ways,own01n,259,TRUE,TRUE
+SIGSOWN01O,OWN,Ownership / Possession,01O,SP:OWN:01O,,Spoken bond to cultural or generational memory.,our ancestors|our roots|our legacy,own01o,260,TRUE,TRUE
+SIGSOWN01P,OWN,Ownership / Possession,01P,SP:OWN:01P,,Possession indicated through custodial role.,caretaker|guardian|steward,own01p,261,TRUE,TRUE
+SIGSOWN01Q,OWN,Ownership / Possession,01Q,SP:OWN:01Q,,Possessive orientation to self-identity or essence.,my soul|my center|my being,own01q,262,TRUE,TRUE
+SIGSOWN01R,OWN,Ownership / Possession,01R,SP:OWN:01R,,Possession of belief or faith.,my belief|our doctrine|I hold this true,own01r,263,TRUE,TRUE
+SIGSOWN01S,OWN,Ownership / Possession,01S,SP:OWN:01S,,Symbolic ownership of destiny or path.,my journey|my path|I walk this,own01s,264,TRUE,TRUE
+SIGSOWN01T,OWN,Ownership / Possession,01T,SP:OWN:01T,,Control over one's own time or energy.,my time|my schedule|my rhythm,own01t,265,TRUE,TRUE
+SIGSOWN01U,OWN,Ownership / Possession,01U,SP:OWN:01U,,Possessive language in technology or code environments.,my repo|my script|this commit,own01u,266,TRUE,TRUE
+SIGSOWN01V,OWN,Ownership / Possession,01V,SP:OWN:01V,,Possessive framing of symbolic authority.,my kingdom|my throne|crown,own01v,267,TRUE,TRUE
+SIGSOWN01W,OWN,Ownership / Possession,01W,SP:OWN:01W,,Language of contractual or bonded ownership.,bound to|signed over|obligated,own01w,268,TRUE,TRUE
+SIGSOWN01X,OWN,Ownership / Possession,01X,SP:OWN:01X,,Possession embedded in linguistic expression or dialect.,our slang|how we talk|our tongue,own01x,269,TRUE,TRUE
+SIGSOWN01Y,OWN,Ownership / Possession,01Y,SP:OWN:01Y,,Possessive expression of agency or authorship.,my idea|my solution|my plan,own01y,270,TRUE,TRUE
+SIGSOWN01Z,OWN,Ownership / Possession,01Z,SP:OWN:01Z,,Claim to physical object or territory.,this is mine|my spot|claimed,own01z,271,TRUE,TRUE
+SIGSOWN020,OWN,Ownership / Possession,020,SP:OWN:020,,Shared possession emphasized in community.,our home|we built this|ours,own020,272,TRUE,TRUE
+SIGSOWN021,OWN,Ownership / Possession,021,SP:OWN:021,,Possessive phrasing in ancestral or tribal naming.,son of|descendant|from the line of,own021,273,TRUE,TRUE
+SIGSOWN022,OWN,Ownership / Possession,022,SP:OWN:022,,Possessive logic used in ideology or philosophy.,our truth|my principle|I hold this,own022,274,TRUE,TRUE
+SIGSOWN023,OWN,Ownership / Possession,023,SP:OWN:023,,Possession asserted in digital communication.,posted by me|my comment|my thread,own023,275,TRUE,TRUE
+SIGSOWN024,OWN,Ownership / Possession,024,SP:OWN:024,,Possessive control over emotional states or outcomes.,my peace|my joy|my fault,own024,276,TRUE,TRUE
+SIGSOWN025,OWN,Ownership / Possession,025,SP:OWN:025,,Framing possessions in time or space relationships.,of mine|belonging to|in my hands,own025,277,TRUE,TRUE
+SIGSOWN026,OWN,Ownership / Possession,026,SP:OWN:026,,Possessive responsibility for outcomes.,my fault|I caused this|on me,own026,278,TRUE,TRUE
+SIGSOWN027,OWN,Ownership / Possession,027,SP:OWN:027,,Possessive use in abstraction or concept ownership.,my logic|our system|his thesis,own027,279,TRUE,TRUE
+SIGSOWN028,OWN,Ownership / Possession,028,SP:OWN:028,,Symbolic ownership of archetypes or identities.,I am the storm|chosen|bearer,own028,280,TRUE,TRUE
+SIGSOWN029,OWN,Ownership / Possession,029,SP:OWN:029,,Possessive tone in legacy or continuation.,my legacy|what I leave|remember me by,own029,281,TRUE,TRUE
+SIGSOWN02A,OWN,Ownership / Possession,02A,SP:OWN:02A,,Ownership of perspective or viewpoint.,my view|how I see it|from my lens,own02a,282,TRUE,TRUE
+SIGSOWN02B,OWN,Ownership / Possession,02B,SP:OWN:02B,,Spoken control or territory over identity-space.,this is who I am|mine to be|I claim me,own02b,283,TRUE,TRUE
+SIGSOWN02C,OWN,Ownership / Possession,02C,SP:OWN:02C,,Ownership through burden or obligation.,my responsibility|on my shoulders|my duty,own02c,284,TRUE,TRUE
+SIGSOWN02D,OWN,Ownership / Possession,02D,SP:OWN:02D,,Spoken attachment in poetic or sacred forms.,my vow|my song|my oath,own02d,285,TRUE,TRUE
+SIGSOWN02E,OWN,Ownership / Possession,02E,SP:OWN:02E,,Possessive gesture used in parental or care-taking roles.,my child|in my arms|under my care,own02e,286,TRUE,TRUE
+SIGSOWN02F,OWN,Ownership / Possession,02F,SP:OWN:02F,,Possessive identification with movements or causes.,my cause|I stand for|ours to fight for,own02f,287,TRUE,TRUE
+SIGSOWN02G,OWN,Ownership / Possession,02G,SP:OWN:02G,,Spoken claim in heroic or mythic archetypes.,my quest|destined for|chosen,own02g,288,TRUE,TRUE
+SIGSOWN02H,OWN,Ownership / Possession,02H,SP:OWN:02H,,Possessive phraseology in dream or unconscious states.,my dream|in my sleep|vision I saw,own02h,289,TRUE,TRUE
+SIGSOWN02I,OWN,Ownership / Possession,02I,SP:OWN:02I,,Possessive in memory-based narration.,my past|what I remember|back then,own02i,290,TRUE,TRUE
+SIGSOWN02J,OWN,Ownership / Possession,02J,SP:OWN:02J,,Possession framed through agreement or contract.,signed for|in my name|under my rights,own02j,291,TRUE,TRUE
+SIGSOWN02K,OWN,Ownership / Possession,02K,SP:OWN:02K,,Possessive constructs in AI or data ownership.,my dataset|my model|my outputs,own02k,292,TRUE,TRUE
+SIGSOWN02L,OWN,Ownership / Possession,02L,SP:OWN:02L,,Possessive use in metaphysical or mystic space.,soul-bound|claimed by light|my aura,own02l,293,TRUE,TRUE
+SIGSOWN02M,OWN,Ownership / Possession,02M,SP:OWN:02M,,"Possession of status, label, or designation.",titled|certified|recognized as,own02m,294,TRUE,TRUE
+SIGSOWN02N,OWN,Ownership / Possession,02N,SP:OWN:02N,,Claim over energy or effort expended.,I gave this|my effort|blood and sweat,own02n,295,TRUE,TRUE
+SIGSOWN02O,OWN,Ownership / Possession,02O,SP:OWN:02O,,Possessive form in language acquisition or heritage.,my tongue|our words|my first language,own02o,296,TRUE,TRUE
+SIGSOWN02P,OWN,Ownership / Possession,02P,SP:OWN:02P,,Framing possession as a shield or defense.,my boundary|not yours|off limits,own02p,297,TRUE,TRUE
+SIGSOWN02Q,OWN,Ownership / Possession,02Q,SP:OWN:02Q,,Claim to symbolic energy or alignment.,my vibe|my essence|I carry this,own02q,298,TRUE,TRUE
+SIGSOWN02R,OWN,Ownership / Possession,02R,SP:OWN:02R,,Possessive used in grief or remembrance.,my loss|still mine|never forget,own02r,299,TRUE,TRUE
+SIGSOWN02S,OWN,Ownership / Possession,02S,SP:OWN:02S,,Complete metaphysical fusion of identity and possession.,I am this|this is me|inseparable,own02s,300,TRUE,TRUE
+SIGSMOT001,MOT,Motion / Movement,001,SP:MOT:001,A basic action of displacement from one physical location...,A basic action of displacement from one physical location to another.,walk|run|go,mot001,301,TRUE,TRUE
+SIGSMOT002,MOT,Motion / Movement,002,SP:MOT:002,,Movement initiated by an internal impulse or desire.,urge|drift|gravitate,mot002,302,TRUE,TRUE
+SIGSMOT003,MOT,Motion / Movement,003,SP:MOT:003,A conscious effort to change one’s current state or posit...,A conscious effort to change one’s current state or position.,shift|transition|relocate,mot003,303,TRUE,TRUE
+SIGSMOT004,MOT,Motion / Movement,004,SP:MOT:004,,Kinetic movement used to escape or avoid.,flee|dodge|retreat,mot004,304,TRUE,TRUE
+SIGSMOT005,MOT,Motion / Movement,005,SP:MOT:005,,Rhythmic or patterned movement expressing emotion.,dance|sway|groove,mot005,305,TRUE,TRUE
+SIGSMOT006,MOT,Motion / Movement,006,SP:MOT:006,,Slow or tentative progression toward a goal.,crawl|inch|creep,mot006,306,TRUE,TRUE
+SIGSMOT007,MOT,Motion / Movement,007,SP:MOT:007,,Vertical motion indicating rising or ascent.,climb|rise|lift,mot007,307,TRUE,TRUE
+SIGSMOT008,MOT,Motion / Movement,008,SP:MOT:008,,"Descent or lowering action, often intentional.",descend|sink|drop,mot008,308,TRUE,TRUE
+SIGSMOT009,MOT,Motion / Movement,009,SP:MOT:009,,Abrupt or erratic movement without clear direction.,jerk|lurch|jolt,mot009,309,TRUE,TRUE
+SIGSMOT00A,MOT,Motion / Movement,00A,SP:MOT:00A,,Circular or looping motion suggesting cycles or return.,spin|orbit|revolve,mot00a,310,TRUE,TRUE
+SIGSMOT00B,MOT,Motion / Movement,00B,SP:MOT:00B,,Steady or stable forward progress.,advance|proceed|move ahead,mot00b,311,TRUE,TRUE
+SIGSMOT00C,MOT,Motion / Movement,00C,SP:MOT:00C,,"Movement of air, thought, or spirit.",flow|drift|glide,mot00c,312,TRUE,TRUE
+SIGSMOT00D,MOT,Motion / Movement,00D,SP:MOT:00D,,Motion motivated by urgency or crisis.,rush|charge|scramble,mot00d,313,TRUE,TRUE
+SIGSMOT00E,MOT,Motion / Movement,00E,SP:MOT:00E,,Involuntary or reactive bodily motion.,flinch|twitch|jerk,mot00e,314,TRUE,TRUE
+SIGSMOT00F,MOT,Motion / Movement,00F,SP:MOT:00F,,Repeated or oscillating movement.,vibrate|shake|bounce,mot00f,315,TRUE,TRUE
+SIGSMOT00G,MOT,Motion / Movement,00G,SP:MOT:00G,,Symbolic or metaphorical motion in conversation.,move on|progress|get past it,mot00g,316,TRUE,TRUE
+SIGSMOT00H,MOT,Motion / Movement,00H,SP:MOT:00H,,Movement through virtual or abstract space.,navigate|scroll|jump to,mot00h,317,TRUE,TRUE
+SIGSMOT00I,MOT,Motion / Movement,00I,SP:MOT:00I,,Movement to initiate contact or confrontation.,approach|step to|pull up,mot00i,318,TRUE,TRUE
+SIGSMOT00J,MOT,Motion / Movement,00J,SP:MOT:00J,,Gesture-based motion to communicate intention.,wave|beckon|nod,mot00j,319,TRUE,TRUE
+SIGSMOT00K,MOT,Motion / Movement,00K,SP:MOT:00K,,Motion governed by instinct or ritual.,pounce|circle|mark territory,mot00k,320,TRUE,TRUE
+SIGSMOT00L,MOT,Motion / Movement,00L,SP:MOT:00L,,Redirection or detour from a straight path.,swerve|veer|pivot,mot00l,321,TRUE,TRUE
+SIGSMOT00M,MOT,Motion / Movement,00M,SP:MOT:00M,,Symmetrical or mirrored movement.,echo|reflect|duplicate,mot00m,322,TRUE,TRUE
+SIGSMOT00N,MOT,Motion / Movement,00N,SP:MOT:00N,,Telekinetic or implied movement of unseen forces.,shifted|drawn|pulled,mot00n,323,TRUE,TRUE
+SIGSMOT00O,MOT,Motion / Movement,00O,SP:MOT:00O,,Intentional stillness to resist motion.,freeze|stand firm|hold,mot00o,324,TRUE,TRUE
+SIGSMOT00P,MOT,Motion / Movement,00P,SP:MOT:00P,,Repetitive travel back and forth.,commute|shuttle|yo-yo,mot00p,325,TRUE,TRUE
+SIGSMOT00Q,MOT,Motion / Movement,00Q,SP:MOT:00Q,,Symbolic movement of mind or perspective.,reframe|shift gears|open up,mot00q,326,TRUE,TRUE
+SIGSMOT00R,MOT,Motion / Movement,00R,SP:MOT:00R,,Cultural expression through collective movement.,march|parade|demonstrate,mot00r,327,TRUE,TRUE
+SIGSMOT00S,MOT,Motion / Movement,00S,SP:MOT:00S,,Playful or nonverbal locomotion.,skip|hop|bounce,mot00s,328,TRUE,TRUE
+SIGSMOT00T,MOT,Motion / Movement,00T,SP:MOT:00T,,Exploratory motion into unknown space.,venture|wander|roam,mot00t,329,TRUE,TRUE
+SIGSMOT00U,MOT,Motion / Movement,00U,SP:MOT:00U,,Backtracking or regression.,retreat|retrace|reverse,mot00u,330,TRUE,TRUE
+SIGSMOT00V,MOT,Motion / Movement,00V,SP:MOT:00V,,Motion rooted in aggression or attack.,lunge|strike|charge,mot00v,331,TRUE,TRUE
+SIGSMOT00W,MOT,Motion / Movement,00W,SP:MOT:00W,,Motion used to repair or adjust.,fix|tweak|readjust,mot00w,332,TRUE,TRUE
+SIGSMOT00X,MOT,Motion / Movement,00X,SP:MOT:00X,,"Spontaneous, joyful movement.",spin|twirl|jump,mot00x,333,TRUE,TRUE
+SIGSMOT00Y,MOT,Motion / Movement,00Y,SP:MOT:00Y,,Movement constrained by external force.,drag|pulled|pushed,mot00y,334,TRUE,TRUE
+SIGSMOT00Z,MOT,Motion / Movement,00Z,SP:MOT:00Z,,Evasive motion to avoid detection.,slip away|duck|vanish,mot00z,335,TRUE,TRUE
+SIGSMOT010,MOT,Motion / Movement,010,SP:MOT:010,,Motion through technology or machinery.,scroll|swipe|auto-run,mot010,336,TRUE,TRUE
+SIGSMOT011,MOT,Motion / Movement,011,SP:MOT:011,,Reluctant or hesitant movement.,shuffle|hesitate|creep,mot011,337,TRUE,TRUE
+SIGSMOT012,MOT,Motion / Movement,012,SP:MOT:012,,Intentional forward advance in status or rank.,level up|ascend|step up,mot012,338,TRUE,TRUE
+SIGSMOT013,MOT,Motion / Movement,013,SP:MOT:013,,Passive drifting or lack of direction.,float|wander|meander,mot013,339,TRUE,TRUE
+SIGSMOT014,MOT,Motion / Movement,014,SP:MOT:014,,Grouped or coordinated collective motion.,mob|herd|swarm,mot014,340,TRUE,TRUE
+SIGSMOT015,MOT,Motion / Movement,015,SP:MOT:015,,Spinning or twisting motion.,twist|spiral|turn,mot015,341,TRUE,TRUE
+SIGSMOT016,MOT,Motion / Movement,016,SP:MOT:016,,Symbolic motion in storytelling or ritual.,pass through|initiate|cross,mot016,342,TRUE,TRUE
+SIGSMOT017,MOT,Motion / Movement,017,SP:MOT:017,,Moving across time or memory.,flashback|revisit|time jump,mot017,343,TRUE,TRUE
+SIGSMOT018,MOT,Motion / Movement,018,SP:MOT:018,,Physical movement as self-expression.,pose|gesture|stance,mot018,344,TRUE,TRUE
+SIGSMOT019,MOT,Motion / Movement,019,SP:MOT:019,,Motion initiated by external command.,go|move|advance,mot019,345,TRUE,TRUE
+SIGSMOT01A,MOT,Motion / Movement,01A,SP:MOT:01A,,Acceleration or rapid increase in motion.,zoom|accelerate|speed up,mot01a,346,TRUE,TRUE
+SIGSMOT01B,MOT,Motion / Movement,01B,SP:MOT:01B,,Descent into emotional depth or complexity.,sink in|dive deep|drop,mot01b,347,TRUE,TRUE
+SIGSMOT01C,MOT,Motion / Movement,01C,SP:MOT:01C,,Motion indicating transition from one realm to another.,cross over|pass through|shift planes,mot01c,348,TRUE,TRUE
+SIGSMOT01D,MOT,Motion / Movement,01D,SP:MOT:01D,,Upward motion with aspiration or inspiration.,ascend|rise|lift,mot01d,349,TRUE,TRUE
+SIGSMOT01E,MOT,Motion / Movement,01E,SP:MOT:01E,,Motion toward union or fusion.,merge|join|blend,mot01e,350,TRUE,TRUE
+SIGSMOT01F,MOT,Motion / Movement,01F,SP:MOT:01F,,Motion symbolizing entry into a protected or sacred space.,enter|step in|cross threshold,mot01f,351,TRUE,TRUE
+SIGSMOT01G,MOT,Motion / Movement,01G,SP:MOT:01G,,Winding or labyrinthine movement through complexity.,weave|thread|navigate,mot01g,352,TRUE,TRUE
+SIGSMOT01H,MOT,Motion / Movement,01H,SP:MOT:01H,,Delayed movement caused by caution or fear.,stall|pause|freeze up,mot01h,353,TRUE,TRUE
+SIGSMOT01I,MOT,Motion / Movement,01I,SP:MOT:01I,,Motion guided by following another’s path or lead.,trail|follow|track,mot01i,354,TRUE,TRUE
+SIGSMOT01J,MOT,Motion / Movement,01J,SP:MOT:01J,,"Energetic, expressive motion signaling confidence.",strut|swagger|saunter,mot01j,355,TRUE,TRUE
+SIGSMOT01K,MOT,Motion / Movement,01K,SP:MOT:01K,,Movement reflecting uncertainty or indecision.,hover|waffle|shift back,mot01k,356,TRUE,TRUE
+SIGSMOT01L,MOT,Motion / Movement,01L,SP:MOT:01L,,Swift directional change in response to threat.,dart|sidestep|swerve,mot01l,357,TRUE,TRUE
+SIGSMOT01M,MOT,Motion / Movement,01M,SP:MOT:01M,,Motion toward a destination or objective.,head to|move toward|aim,mot01m,358,TRUE,TRUE
+SIGSMOT01N,MOT,Motion / Movement,01N,SP:MOT:01N,,Bodily repositioning to restore balance.,adjust|recenter|realign,mot01n,359,TRUE,TRUE
+SIGSMOT01O,MOT,Motion / Movement,01O,SP:MOT:01O,,Reverent or ceremonial movement used in ritual.,bow|kneel|process,mot01o,360,TRUE,TRUE
+SIGSMOT01P,MOT,Motion / Movement,01P,SP:MOT:01P,,Energetic bouncing movement expressing enthusiasm.,spring|bound|leap,mot01p,361,TRUE,TRUE
+SIGSMOT01Q,MOT,Motion / Movement,01Q,SP:MOT:01Q,,Erratic motion caused by confusion or malfunction.,glitch|spasm|misfire,mot01q,362,TRUE,TRUE
+SIGSMOT01R,MOT,Motion / Movement,01R,SP:MOT:01R,,Retreat into isolation or inner space.,withdraw|pull back|recede,mot01r,363,TRUE,TRUE
+SIGSMOT01S,MOT,Motion / Movement,01S,SP:MOT:01S,,Motion that restores connection or harmony.,reunite|reconnect|converge,mot01s,364,TRUE,TRUE
+SIGSMOT01T,MOT,Motion / Movement,01T,SP:MOT:01T,,Motion used for protection or shielding.,block|cover|intercept,mot01t,365,TRUE,TRUE
+SIGSMOT01U,MOT,Motion / Movement,01U,SP:MOT:01U,,Oscillating movement representing instability or transition.,waver|teeter|fluctuate,mot01u,366,TRUE,TRUE
+SIGSMOT01V,MOT,Motion / Movement,01V,SP:MOT:01V,,Motion extending outward from a center point.,expand|extend|radiate,mot01v,367,TRUE,TRUE
+SIGSMOT01W,MOT,Motion / Movement,01W,SP:MOT:01W,,Return to origin or previous state through motion.,rebound|revisit|snap back,mot01w,368,TRUE,TRUE
+SIGSMOT01X,MOT,Motion / Movement,01X,SP:MOT:01X,,Stealth-based movement designed to remain undetected.,sneak|creep|tiptoe,mot01x,369,TRUE,TRUE
+SIGSMOT01Y,MOT,Motion / Movement,01Y,SP:MOT:01Y,,Sweeping or wide-ranging motion.,arc|sweep|pan,mot01y,370,TRUE,TRUE
+SIGSMOT01Z,MOT,Motion / Movement,01Z,SP:MOT:01Z,,"Energetic, coordinated group motion toward a shared goal.",mobilize|advance|rally,mot01z,371,TRUE,TRUE
+SIGSMOT020,MOT,Motion / Movement,020,SP:MOT:020,,Motion through resistance or obstruction.,push through|struggle|plow,mot020,372,TRUE,TRUE
+SIGSMOT021,MOT,Motion / Movement,021,SP:MOT:021,,Falling motion caused by sudden collapse or surrender.,crumble|collapse|fall,mot021,373,TRUE,TRUE
+SIGSMOT022,MOT,Motion / Movement,022,SP:MOT:022,,Fine-grained micro-movements expressing subtlety.,shift slightly|tilt|adjust,mot022,374,TRUE,TRUE
+SIGSMOT023,MOT,Motion / Movement,023,SP:MOT:023,,Aggressive motion intended to dominate or control space.,storm|seize|occupy,mot023,375,TRUE,TRUE
+SIGSMOT024,MOT,Motion / Movement,024,SP:MOT:024,,Unconscious or habitual physical movement.,fidget|pace|drum fingers,mot024,376,TRUE,TRUE
+SIGSMOT025,MOT,Motion / Movement,025,SP:MOT:025,,Motion implying growth or organic expansion.,bloom|spread|unfurl,mot025,377,TRUE,TRUE
+SIGSMOT026,MOT,Motion / Movement,026,SP:MOT:026,,"Abrupt, one-time motion with clear intent.",snap|jerk|pop,mot026,378,TRUE,TRUE
+SIGSMOT027,MOT,Motion / Movement,027,SP:MOT:027,,Energetic repetition aimed at breaking through limits.,pound|slam|drive,mot027,379,TRUE,TRUE
+SIGSMOT028,MOT,Motion / Movement,028,SP:MOT:028,,Continuous motion that resists being stopped.,roll on|power through|grind,mot028,380,TRUE,TRUE
+SIGSMOT029,MOT,Motion / Movement,029,SP:MOT:029,,Simulated or imagined motion in digital or mental space.,simulate|visualize movement|render,mot029,381,TRUE,TRUE
+SIGSMOT02A,MOT,Motion / Movement,02A,SP:MOT:02A,,Movement tied to exploration of identity or transformation.,shift identity|embody|metamorphose,mot02a,382,TRUE,TRUE
+SIGSMOT02B,MOT,Motion / Movement,02B,SP:MOT:02B,,Motion expressed through sound or vibration.,hum|resonate|echo,mot02b,383,TRUE,TRUE
+SIGSMOT02C,MOT,Motion / Movement,02C,SP:MOT:02C,,Nonlinear motion disrupting expected path.,zigzag|swerve|deviate,mot02c,384,TRUE,TRUE
+SIGSMOT02D,MOT,Motion / Movement,02D,SP:MOT:02D,,Action that initiates broader motion or change.,trigger|kickstart|ignite,mot02d,385,TRUE,TRUE
+SIGSMOT02E,MOT,Motion / Movement,02E,SP:MOT:02E,,Motion used to stabilize an unstable structure.,brace|anchor|counterbalance,mot02e,386,TRUE,TRUE
+SIGSMOT02F,MOT,Motion / Movement,02F,SP:MOT:02F,,Reverberating or echoing motion from original impact.,ripple|shockwave|bounce back,mot02f,387,TRUE,TRUE
+SIGSMOT02G,MOT,Motion / Movement,02G,SP:MOT:02G,,Motion signaling invitation or openness.,gesture in|welcome|open arms,mot02g,388,TRUE,TRUE
+SIGSMOT02H,MOT,Motion / Movement,02H,SP:MOT:02H,,Transdimensional or speculative movement across realities.,phase shift|jump realms|cross veil,mot02h,389,TRUE,TRUE
+SIGSMOT02I,MOT,Motion / Movement,02I,SP:MOT:02I,,Motion that resists finality or completion.,linger|stretch out|delay,mot02i,390,TRUE,TRUE
+SIGSMOT02J,MOT,Motion / Movement,02J,SP:MOT:02J,,"Motion embedded in memory, ritual, or repetition.",rehearse|reenact|retrace,mot02j,391,TRUE,TRUE
+SIGSMOT02K,MOT,Motion / Movement,02K,SP:MOT:02K,,Clumsy or inefficient motion lacking coordination.,stumble|fumble|wobble,mot02k,392,TRUE,TRUE
+SIGSMOT02L,MOT,Motion / Movement,02L,SP:MOT:02L,,Covert or encrypted motion concealed from view.,cloak|mask|obscure,mot02l,393,TRUE,TRUE
+SIGSMOT02M,MOT,Motion / Movement,02M,SP:MOT:02M,,Multi-directional motion expressing indecisiveness.,back and forth|zigzag|oscillate,mot02m,394,TRUE,TRUE
+SIGSMOT02N,MOT,Motion / Movement,02N,SP:MOT:02N,,Celestial or cosmic-scale movement.,drift through space|orbital shift|stellar transit,mot02n,395,TRUE,TRUE
+SIGSMOT02O,MOT,Motion / Movement,02O,SP:MOT:02O,,Motion representing surrender or collapse of resistance.,kneel|submit|fold,mot02o,396,TRUE,TRUE
+SIGSMOT02P,MOT,Motion / Movement,02P,SP:MOT:02P,,Motion that marks time or progression.,tick|turn|rotate,mot02p,397,TRUE,TRUE
+SIGSMOT02Q,MOT,Motion / Movement,02Q,SP:MOT:02Q,,Movement imitating another’s pattern or flow.,mirror|sync|shadow,mot02q,398,TRUE,TRUE
+SIGSMOT02R,MOT,Motion / Movement,02R,SP:MOT:02R,,Motion through non-physical conceptual layers.,ascend dimensions|layer shift|climb abstraction,mot02r,399,TRUE,TRUE
+SIGSMOT02S,MOT,Motion / Movement,02S,SP:MOT:02S,Motion that returns to a point of origin with transformat...,Motion that returns to a point of origin with transformation.,cycle back|return changed|close the loop,mot02s,400,TRUE,TRUE
+SIGSTIM001,TIM,Time / Sequence,001,SP:TIM:001,,The beginning point of an action or process in time.,start|initiate|commence,tim001,401,TRUE,TRUE
+SIGSTIM002,TIM,Time / Sequence,002,SP:TIM:002,,The final point of a timeline or process.,end|conclude|terminate,tim002,402,TRUE,TRUE
+SIGSTIM003,TIM,Time / Sequence,003,SP:TIM:003,,A pause or temporary halt within a time flow.,pause|break|interruption,tim003,403,TRUE,TRUE
+SIGSTIM004,TIM,Time / Sequence,004,SP:TIM:004,,Progression from one state or phase to another.,transition|shift|move on,tim004,404,TRUE,TRUE
+SIGSTIM005,TIM,Time / Sequence,005,SP:TIM:005,,A repeating cycle or regularly recurring time pattern.,cycle|loop|repeat,tim005,405,TRUE,TRUE
+SIGSTIM006,TIM,Time / Sequence,006,SP:TIM:006,,Anticipated occurrence before an event.,foresee|expect|predict,tim006,406,TRUE,TRUE
+SIGSTIM007,TIM,Time / Sequence,007,SP:TIM:007,,Event or action that follows another in time.,after|next|then,tim007,407,TRUE,TRUE
+SIGSTIM008,TIM,Time / Sequence,008,SP:TIM:008,,Temporal relation of two events occurring at once.,simultaneous|concurrent|parallel,tim008,408,TRUE,TRUE
+SIGSTIM009,TIM,Time / Sequence,009,SP:TIM:009,,Measurement of time in defined intervals.,duration|span|length,tim009,409,TRUE,TRUE
+SIGSTIM00A,TIM,Time / Sequence,00A,SP:TIM:00A,,A known moment or fixed point in time.,timestamp|checkpoint|moment,tim00a,410,TRUE,TRUE
+SIGSTIM00B,TIM,Time / Sequence,00B,SP:TIM:00B,,An event placed in historical or linear order.,chronicle|timeline|record,tim00b,411,TRUE,TRUE
+SIGSTIM00C,TIM,Time / Sequence,00C,SP:TIM:00C,,The return of an event after a time delay.,resurface|recur|come back,tim00c,412,TRUE,TRUE
+SIGSTIM00D,TIM,Time / Sequence,00D,SP:TIM:00D,,Long delay or extension beyond expected time.,postpone|prolong|defer,tim00d,413,TRUE,TRUE
+SIGSTIM00E,TIM,Time / Sequence,00E,SP:TIM:00E,,Period preceding an important change or event.,lead-up|build|prelude,tim00e,414,TRUE,TRUE
+SIGSTIM00F,TIM,Time / Sequence,00F,SP:TIM:00F,,Brief segment of time with intense focus or impact.,flash|instant|moment,tim00f,415,TRUE,TRUE
+SIGSTIM00G,TIM,Time / Sequence,00G,SP:TIM:00G,,Temporal dislocation or non-linear time sequence.,time jump|flashback|out of order,tim00g,416,TRUE,TRUE
+SIGSTIM00H,TIM,Time / Sequence,00H,SP:TIM:00H,,Gradual unfolding of events over time.,evolve|develop|unfold,tim00h,417,TRUE,TRUE
+SIGSTIM00I,TIM,Time / Sequence,00I,SP:TIM:00I,,Expected arrival or occurrence within a timeline.,due|scheduled|incoming,tim00i,418,TRUE,TRUE
+SIGSTIM00J,TIM,Time / Sequence,00J,SP:TIM:00J,,Time as perceived subjectively by an individual.,drag|rush|stand still,tim00j,419,TRUE,TRUE
+SIGSTIM00K,TIM,Time / Sequence,00K,SP:TIM:00K,,Cyclical pattern tied to natural or seasonal rhythms.,season|rotation|solstice,tim00k,420,TRUE,TRUE
+SIGSTIM00L,TIM,Time / Sequence,00L,SP:TIM:00L,,Discrete phase within a larger progression.,stage|step|phase,tim00l,421,TRUE,TRUE
+SIGSTIM00M,TIM,Time / Sequence,00M,SP:TIM:00M,,An action delayed but eventually executed.,belated|catch up|follow through,tim00m,422,TRUE,TRUE
+SIGSTIM00N,TIM,Time / Sequence,00N,SP:TIM:00N,,Moment of synchronization between separate events.,align|sync|coincide,tim00n,423,TRUE,TRUE
+SIGSTIM00O,TIM,Time / Sequence,00O,SP:TIM:00O,,Relative position in a time-based hierarchy.,earlier|later|prior,tim00o,424,TRUE,TRUE
+SIGSTIM00P,TIM,Time / Sequence,00P,SP:TIM:00P,,Rapid sequence of events in compressed time.,flurry|cascade|onslaught,tim00p,425,TRUE,TRUE
+SIGSTIM00Q,TIM,Time / Sequence,00Q,SP:TIM:00Q,,Temporal perspective on what is yet to come.,future|forthcoming|ahead,tim00q,426,TRUE,TRUE
+SIGSTIM00R,TIM,Time / Sequence,00R,SP:TIM:00R,,The perceived end of an era or period.,closure|sunset|expiration,tim00r,427,TRUE,TRUE
+SIGSTIM00S,TIM,Time / Sequence,00S,SP:TIM:00S,,Shifting from timelessness to time-awareness.,awaken|notice time|come to,tim00s,428,TRUE,TRUE
+SIGSTIM00T,TIM,Time / Sequence,00T,SP:TIM:00T,,A decision point that alters future sequences.,turning point|pivot|inflection,tim00t,429,TRUE,TRUE
+SIGSTIM00U,TIM,Time / Sequence,00U,SP:TIM:00U,,Loss of clear temporal continuity.,disorient|blur|fragment,tim00u,430,TRUE,TRUE
+SIGSTIM00V,TIM,Time / Sequence,00V,SP:TIM:00V,,Placement of one action before another intentionally.,precede|preempt|go before,tim00v,431,TRUE,TRUE
+SIGSTIM00W,TIM,Time / Sequence,00W,SP:TIM:00W,,Time-related compression of multiple actions into one frame.,condense|summarize|pack,tim00w,432,TRUE,TRUE
+SIGSTIM00X,TIM,Time / Sequence,00X,SP:TIM:00X,,Scheduled repetition at fixed intervals.,recurring|routine|habitual,tim00x,433,TRUE,TRUE
+SIGSTIM00Y,TIM,Time / Sequence,00Y,SP:TIM:00Y,,Temporal gap filled with inactivity or silence.,lull|hiatus|void,tim00y,434,TRUE,TRUE
+SIGSTIM00Z,TIM,Time / Sequence,00Z,SP:TIM:00Z,,Change in time awareness due to emotional intensity.,slow down|rush by|timeless,tim00z,435,TRUE,TRUE
+SIGSTIM010,TIM,Time / Sequence,010,SP:TIM:010,,Time treated as a linear construct to be traversed.,timeline|progression|path,tim010,436,TRUE,TRUE
+SIGSTIM011,TIM,Time / Sequence,011,SP:TIM:011,,Temporal logic for ordering cause and effect.,sequence|order|progression,tim011,437,TRUE,TRUE
+SIGSTIM012,TIM,Time / Sequence,012,SP:TIM:012,,Historical resonance carried forward through time.,legacy|carryover|echo,tim012,438,TRUE,TRUE
+SIGSTIM013,TIM,Time / Sequence,013,SP:TIM:013,,Extended wait due to delay or external blockage.,stall|hold up|delay,tim013,439,TRUE,TRUE
+SIGSTIM014,TIM,Time / Sequence,014,SP:TIM:014,,Non-verbal cues of time passage or urgency.,clock ticking|sunset|shadow shift,tim014,440,TRUE,TRUE
+SIGSTIM015,TIM,Time / Sequence,015,SP:TIM:015,,Simulated time in artificial or digital contexts.,render time|clock speed|frame rate,tim015,441,TRUE,TRUE
+SIGSTIM016,TIM,Time / Sequence,016,SP:TIM:016,,Symbolic representation of recurring time states.,déjà vu|echo|returning feeling,tim016,442,TRUE,TRUE
+SIGSTIM017,TIM,Time / Sequence,017,SP:TIM:017,,Planned acceleration or rush toward a deadline.,sprint|rush|push forward,tim017,443,TRUE,TRUE
+SIGSTIM018,TIM,Time / Sequence,018,SP:TIM:018,,Experience of time in fragmented or disjointed ways.,snapshots|clips|jumps,tim018,444,TRUE,TRUE
+SIGSTIM019,TIM,Time / Sequence,019,SP:TIM:019,,A moment of temporal significance or recognition.,milestone|marker|event,tim019,445,TRUE,TRUE
+SIGSTIM01A,TIM,Time / Sequence,01A,SP:TIM:01A,,Disruption of expected timing in a sequence.,out of sync|offbeat|delay,tim01a,446,TRUE,TRUE
+SIGSTIM01B,TIM,Time / Sequence,01B,SP:TIM:01B,,Meta-awareness of time as a construct or illusion.,timeless|nonlinear|constructed,tim01b,447,TRUE,TRUE
+SIGSTIM01C,TIM,Time / Sequence,01C,SP:TIM:01C,,Time-related deception or manipulation.,fake timestamp|time distortion|altered record,tim01c,448,TRUE,TRUE
+SIGSTIM01D,TIM,Time / Sequence,01D,SP:TIM:01D,,Temporal restoration after disruption.,reset|restore order|sync again,tim01d,449,TRUE,TRUE
+SIGSTIM01E,TIM,Time / Sequence,01E,SP:TIM:01E,,Abrupt termination of temporal flow.,cut short|end suddenly|snap,tim01e,450,TRUE,TRUE
+SIGSTIM01F,TIM,Time / Sequence,01F,SP:TIM:01F,,Memory-based orientation to past events.,recall|remember|look back,tim01f,451,TRUE,TRUE
+SIGSTIM01G,TIM,Time / Sequence,01G,SP:TIM:01G,,The process of anchoring actions to specific times.,schedule|plan|allocate,tim01g,452,TRUE,TRUE
+SIGSTIM01H,TIM,Time / Sequence,01H,SP:TIM:01H,,Time perceived as infinite or unreachable.,eternity|forever|unending,tim01h,453,TRUE,TRUE
+SIGSTIM01I,TIM,Time / Sequence,01I,SP:TIM:01I,,A disruption in expected temporal reality.,time warp|glitch|disruption,tim01i,454,TRUE,TRUE
+SIGSTIM01J,TIM,Time / Sequence,01J,SP:TIM:01J,,Effort to extend time beyond natural limits.,prolong|stretch|extend,tim01j,455,TRUE,TRUE
+SIGSTIM01K,TIM,Time / Sequence,01K,SP:TIM:01K,,Compact or accelerated experience of a long period.,time lapse|compress|condense,tim01k,456,TRUE,TRUE
+SIGSTIM01L,TIM,Time / Sequence,01L,SP:TIM:01L,,Structured repetition to mark rhythm or habit.,routine|ritual|habit,tim01l,457,TRUE,TRUE
+SIGSTIM01M,TIM,Time / Sequence,01M,SP:TIM:01M,,Symbolic anticipation of what is to come.,omen|foreshadow|premonition,tim01m,458,TRUE,TRUE
+SIGSTIM01N,TIM,Time / Sequence,01N,SP:TIM:01N,,Systematic segmentation of time for measurement.,calendar|clock|schedule,tim01n,459,TRUE,TRUE
+SIGSTIM01O,TIM,Time / Sequence,01O,SP:TIM:01O,,Phase of waiting before resolution or answer.,limbo|interlude|pending,tim01o,460,TRUE,TRUE
+SIGSTIM01P,TIM,Time / Sequence,01P,SP:TIM:01P,,Compression of multiple historical narratives into one.,myth|legend|summary,tim01p,461,TRUE,TRUE
+SIGSTIM01Q,TIM,Time / Sequence,01Q,SP:TIM:01Q,,Fleeting or passing nature of certain moments.,transient|ephemeral|fleeting,tim01q,462,TRUE,TRUE
+SIGSTIM01R,TIM,Time / Sequence,01R,SP:TIM:01R,,Sequential logic binding past to future.,cause and effect|timeline|continuum,tim01r,463,TRUE,TRUE
+SIGSTIM01S,TIM,Time / Sequence,01S,SP:TIM:01S,,Symbolic reset or renewal in the temporal cycle.,new beginning|rebirth|restart,tim01s,464,TRUE,TRUE
+SIGSTIM01T,TIM,Time / Sequence,01T,SP:TIM:01T,,Temporal accumulation or buildup toward change.,momentum|tension|crescendo,tim01t,465,TRUE,TRUE
+SIGSTIM01U,TIM,Time / Sequence,01U,SP:TIM:01U,,Memory distortion affecting time perception.,false memory|time fog|confabulation,tim01u,466,TRUE,TRUE
+SIGSTIM01V,TIM,Time / Sequence,01V,SP:TIM:01V,,Perceived acceleration toward an ending.,spiral|rush|countdown,tim01v,467,TRUE,TRUE
+SIGSTIM01W,TIM,Time / Sequence,01W,SP:TIM:01W,,Time-based alignment between separate systems.,sync|coordinate|align,tim01w,468,TRUE,TRUE
+SIGSTIM01X,TIM,Time / Sequence,01X,SP:TIM:01X,,Temporal handoff or succession.,pass on|inherit|succeed,tim01x,469,TRUE,TRUE
+SIGSTIM01Y,TIM,Time / Sequence,01Y,SP:TIM:01Y,,Reinforcement of time logic through repetition.,confirm|restate|cycle back,tim01y,470,TRUE,TRUE
+SIGSTIM01Z,TIM,Time / Sequence,01Z,SP:TIM:01Z,,Experience of time that deviates from consensus reality.,subjective time|private timeline|personal chronology,tim01z,471,TRUE,TRUE
+SIGSTIM020,TIM,Time / Sequence,020,SP:TIM:020,,Symbolic moment of convergence from different paths.,intersection|synchronicity|meeting point,tim020,472,TRUE,TRUE
+SIGSTIM021,TIM,Time / Sequence,021,SP:TIM:021,,Time used as a mechanism of control or authority.,deadline|time limit|curfew,tim021,473,TRUE,TRUE
+SIGSTIM022,TIM,Time / Sequence,022,SP:TIM:022,,Anticipated time window for action or change.,opening|opportunity|window,tim022,474,TRUE,TRUE
+SIGSTIM023,TIM,Time / Sequence,023,SP:TIM:023,,Time defined by absence or non-events.,void|silence|nothingness,tim023,475,TRUE,TRUE
+SIGSTIM024,TIM,Time / Sequence,024,SP:TIM:024,,Cultural or ritual structuring of time.,calendar cycle|ceremony|holy day,tim024,476,TRUE,TRUE
+SIGSTIM025,TIM,Time / Sequence,025,SP:TIM:025,,Pacing of events in storytelling or presentation.,tempo|rhythm|timing,tim025,477,TRUE,TRUE
+SIGSTIM026,TIM,Time / Sequence,026,SP:TIM:026,,Time-based comparison between parallel outcomes.,alternate timeline|what-if|branching path,tim026,478,TRUE,TRUE
+SIGSTIM027,TIM,Time / Sequence,027,SP:TIM:027,,The inevitable return of consequences over time.,karma|back around|full circle,tim027,479,TRUE,TRUE
+SIGSTIM028,TIM,Time / Sequence,028,SP:TIM:028,,Narrative compression skipping over inactive time.,jump cut|fade|skip ahead,tim028,480,TRUE,TRUE
+SIGSTIM029,TIM,Time / Sequence,029,SP:TIM:029,,Symbolic gateway into new time awareness.,awakening|threshold|shift,tim029,481,TRUE,TRUE
+SIGSTIM02A,TIM,Time / Sequence,02A,SP:TIM:02A,,Perceived looping of time or events.,loop|replay|again,tim02a,482,TRUE,TRUE
+SIGSTIM02B,TIM,Time / Sequence,02B,SP:TIM:02B,,Time-lag or echo after original cause.,aftershock|echo|reverberation,tim02b,483,TRUE,TRUE
+SIGSTIM02C,TIM,Time / Sequence,02C,SP:TIM:02C,,Moment of temporal inversion or reversal.,rewind|reverse|backtrack,tim02c,484,TRUE,TRUE
+SIGSTIM02D,TIM,Time / Sequence,02D,SP:TIM:02D,,The process of integrating past timelines into a whole.,synthesize|merge histories|consolidate,tim02d,485,TRUE,TRUE
+SIGSTIM02E,TIM,Time / Sequence,02E,SP:TIM:02E,,Dissonance between expected and actual time flow.,off-sync|jarring|break in rhythm,tim02e,486,TRUE,TRUE
+SIGSTIM02F,TIM,Time / Sequence,02F,SP:TIM:02F,,Cultural perception of time as spiritual or sacred.,kairos|divine timing|ritual time,tim02f,487,TRUE,TRUE
+SIGSTIM02G,TIM,Time / Sequence,02G,SP:TIM:02G,,Emergent patterns in temporal chaos.,serendipity|fractal rhythm|unexpected sequence,tim02g,488,TRUE,TRUE
+SIGSTIM02H,TIM,Time / Sequence,02H,SP:TIM:02H,,Historical continuity that transcends individuals.,tradition|lineage|heritage,tim02h,489,TRUE,TRUE
+SIGSTIM02I,TIM,Time / Sequence,02I,SP:TIM:02I,,Cross-temporal communication or perception.,prophecy|premonition|retrospect,tim02i,490,TRUE,TRUE
+SIGSTIM02J,TIM,Time / Sequence,02J,SP:TIM:02J,,Temporal buffering to allow space before engagement.,cooldown|grace period|gap,tim02j,491,TRUE,TRUE
+SIGSTIM02K,TIM,Time / Sequence,02K,SP:TIM:02K,,Awareness of being inside a moment of change.,transition point|in-between|crossfade,tim02k,492,TRUE,TRUE
+SIGSTIM02L,TIM,Time / Sequence,02L,SP:TIM:02L,,Symbolic act that seals or marks the end of time segment.,close|sign off|mark completion,tim02l,493,TRUE,TRUE
+SIGSTIM02M,TIM,Time / Sequence,02M,SP:TIM:02M,,Temporal entanglement between distant events.,nonlocal effect|entangled timeline|linked fates,tim02m,494,TRUE,TRUE
+SIGSTIM02N,TIM,Time / Sequence,02N,SP:TIM:02N,,Time seen as a landscape for inner exploration.,dream time|journey|vision walk,tim02n,495,TRUE,TRUE
+SIGSTIM02O,TIM,Time / Sequence,02O,SP:TIM:02O,,Delay caused by overload or excess processes.,lag|overload|clog,tim02o,496,TRUE,TRUE
+SIGSTIM02P,TIM,Time / Sequence,02P,SP:TIM:02P,,Permanence or temporal anchoring through ritual.,consecrate|enshrine|mark,tim02p,497,TRUE,TRUE
+SIGSTIM02Q,TIM,Time / Sequence,02Q,SP:TIM:02Q,,Interpersonal alignment of pacing and rhythm.,sync up|fall into rhythm|pace match,tim02q,498,TRUE,TRUE
+SIGSTIM02R,TIM,Time / Sequence,02R,SP:TIM:02R,,Imagined or speculative time that never occurred.,hypothetical past|alternate history|counterfactual,tim02r,499,TRUE,TRUE
+SIGSTIM02S,TIM,Time / Sequence,02S,SP:TIM:02S,,Temporal fusion of multiple states into a single moment.,timeless unity|collapse|singularity,tim02s,500,TRUE,TRUE
+SIGSQTY001,QTY,Quantity / Amount,001,SP:QTY:001,Small Quantity — intent involving 'small quantity' concep...,Small Quantity — intent involving 'small quantity' conceptual amount.,few|scant|barely,qty001,501,TRUE,TRUE
+SIGSQTY002,QTY,Quantity / Amount,002,SP:QTY:002,Large Quantity — intent involving 'large quantity' concep...,Large Quantity — intent involving 'large quantity' conceptual amount.,many|abundant|numerous,qty002,502,TRUE,TRUE
+SIGSQTY003,QTY,Quantity / Amount,003,SP:QTY:003,Exact Quantity — intent involving 'exact quantity' concep...,Exact Quantity — intent involving 'exact quantity' conceptual amount.,exact|specific|precise,qty003,503,TRUE,TRUE
+SIGSQTY004,QTY,Quantity / Amount,004,SP:QTY:004,Rough Estimate — intent involving 'rough estimate' concep...,Rough Estimate — intent involving 'rough estimate' conceptual amount.,around|about|roughly,qty004,504,TRUE,TRUE
+SIGSQTY005,QTY,Quantity / Amount,005,SP:QTY:005,Excessive Amount — intent involving 'excessive amount' co...,Excessive Amount — intent involving 'excessive amount' conceptual quantity.,too much|overload|flood,qty005,505,TRUE,TRUE
+SIGSQTY006,QTY,Quantity / Amount,006,SP:QTY:006,Insufficient Amount — intent involving 'insufficient amou...,Insufficient Amount — intent involving 'insufficient amount' conceptual quantity.,not enough|lacking|short,qty006,506,TRUE,TRUE
+SIGSQTY007,QTY,Quantity / Amount,007,SP:QTY:007,Incremental Increase — intent involving gradual or stepwi...,Incremental Increase — intent involving gradual or stepwise accumulation.,add|grow|accumulate,qty007,507,TRUE,TRUE
+SIGSQTY008,QTY,Quantity / Amount,008,SP:QTY:008,Reduction or Loss — intent involving decreasing or losing...,Reduction or Loss — intent involving decreasing or losing quantity.,decrease|shrink|reduce,qty008,508,TRUE,TRUE
+SIGSQTY009,QTY,Quantity / Amount,009,SP:QTY:009,Maximum Limit — intent involving an upper boundary of qua...,Maximum Limit — intent involving an upper boundary of quantity.,cap|ceiling|upper bound,qty009,509,TRUE,TRUE
+SIGSQTY00A,QTY,Quantity / Amount,00A,SP:QTY:00A,Minimum Threshold — intent involving a lower limit of acc...,Minimum Threshold — intent involving a lower limit of acceptable quantity.,floor|baseline|minimum,qty00a,510,TRUE,TRUE
+SIGSQTY00B,QTY,Quantity / Amount,00B,SP:QTY:00B,Balanced Quantity — intent focused on equilibrium in quan...,Balanced Quantity — intent focused on equilibrium in quantity.,just right|sufficient|adequate,qty00b,511,TRUE,TRUE
+SIGSQTY00C,QTY,Quantity / Amount,00C,SP:QTY:00C,Unmeasurable — intent concerning quantities beyond standa...,Unmeasurable — intent concerning quantities beyond standard measurement.,countless|infinite|immeasurable,qty00c,512,TRUE,TRUE
+SIGSQTY00D,QTY,Quantity / Amount,00D,SP:QTY:00D,,Zero or None — intent involving total absence of quantity.,empty|none|void,qty00d,513,TRUE,TRUE
+SIGSQTY00E,QTY,Quantity / Amount,00E,SP:QTY:00E,Comparative More — intent expressing increase relative to...,Comparative More — intent expressing increase relative to something else.,more than|greater|surplus,qty00e,514,TRUE,TRUE
+SIGSQTY00F,QTY,Quantity / Amount,00F,SP:QTY:00F,Comparative Less — intent expressing decrease relative to...,Comparative Less — intent expressing decrease relative to something else.,less than|fewer|deficient,qty00f,515,TRUE,TRUE
+SIGSQTY00G,QTY,Quantity / Amount,00G,SP:QTY:00G,Distributed Amount — intent of spreading or allocating qu...,Distributed Amount — intent of spreading or allocating quantity.,share|allocate|distribute,qty00g,516,TRUE,TRUE
+SIGSQTY00H,QTY,Quantity / Amount,00H,SP:QTY:00H,Concentrated Amount — intent involving clustering or gath...,Concentrated Amount — intent involving clustering or gathering quantity in one area.,cluster|focus|bundle,qty00h,517,TRUE,TRUE
+SIGSQTY00I,QTY,Quantity / Amount,00I,SP:QTY:00I,Potential Quantity — intent involving expandable or laten...,Potential Quantity — intent involving expandable or latent quantity.,could be more|expandable|scalable,qty00i,518,TRUE,TRUE
+SIGSQTY00J,QTY,Quantity / Amount,00J,SP:QTY:00J,Diminishing Returns — intent involving quantity yielding ...,Diminishing Returns — intent involving quantity yielding less value over time.,less effect|weaker outcome|exhaustion,qty00j,519,TRUE,TRUE
+SIGSQTY00K,QTY,Quantity / Amount,00K,SP:QTY:00K,Overflow — intent describing quantity that exceeds contai...,Overflow — intent describing quantity that exceeds container or boundary.,spill over|bursting|exceed,qty00k,520,TRUE,TRUE
+SIGSQTY00L,QTY,Quantity / Amount,00L,SP:QTY:00L,,Fractional Amount — intent involving part of a whole.,half|partial|segment,qty00l,521,TRUE,TRUE
+SIGSQTY00M,QTY,Quantity / Amount,00M,SP:QTY:00M,,Symbolic Measure — intent using quantity metaphorically.,token|trace|hint,qty00m,522,TRUE,TRUE
+SIGSQTY00N,QTY,Quantity / Amount,00N,SP:QTY:00N,Invisible Quantity — intent involving unseen or subtle am...,Invisible Quantity — intent involving unseen or subtle amounts.,latent|hidden|subtle,qty00n,523,TRUE,TRUE
+SIGSQTY00O,QTY,Quantity / Amount,00O,SP:QTY:00O,Exchange of Quantity — intent describing transformation o...,Exchange of Quantity — intent describing transformation of quantity through trade.,trade|barter|convert,qty00o,524,TRUE,TRUE
+SIGSQTY00P,QTY,Quantity / Amount,00P,SP:QTY:00P,Random Quantity — intent involving unpredictably varying ...,Random Quantity — intent involving unpredictably varying amount.,random|mixed|scatter,qty00p,525,TRUE,TRUE
+SIGSQTY00Q,QTY,Quantity / Amount,00Q,SP:QTY:00Q,Time-based Quantity — intent involving amounts measured o...,Time-based Quantity — intent involving amounts measured over time.,interval|rate|pace,qty00q,526,TRUE,TRUE
+SIGSQTY00R,QTY,Quantity / Amount,00R,SP:QTY:00R,Conditional Quantity — intent involving potential quantit...,Conditional Quantity — intent involving potential quantity based on conditions.,if needed|provisional|contingent,qty00r,527,TRUE,TRUE
+SIGSQTY00S,QTY,Quantity / Amount,00S,SP:QTY:00S,,Variable Quantity — intent where amount shifts dynamically.,varying|dynamic|unstable,qty00s,528,TRUE,TRUE
+SIGSQTY00T,QTY,Quantity / Amount,00T,SP:QTY:00T,,Accumulated Total — intent involving full sum over time.,sum|total|tally,qty00t,529,TRUE,TRUE
+SIGSQTY00U,QTY,Quantity / Amount,00U,SP:QTY:00U,,Symbolic None — intent involving conceptual void or absence.,null|zero point|void state,qty00u,530,TRUE,TRUE
+SIGSQTY00V,QTY,Quantity / Amount,00V,SP:QTY:00V,Overflowing Abundance — intent involving quantity that ex...,Overflowing Abundance — intent involving quantity that exceeds all boundaries or expectations.,teeming|brimming|overfull,qty00v,531,TRUE,TRUE
+SIGSQTY00W,QTY,Quantity / Amount,00W,SP:QTY:00W,Measured Portion — intent involving a clearly defined or ...,Measured Portion — intent involving a clearly defined or divided segment of a whole.,slice|portion|serving,qty00w,532,TRUE,TRUE
+SIGSQTY00X,QTY,Quantity / Amount,00X,SP:QTY:00X,Artificial Limitation — intent involving imposed constrai...,Artificial Limitation — intent involving imposed constraint on quantity.,capped|restricted|rationed,qty00x,533,TRUE,TRUE
+SIGSQTY00Y,QTY,Quantity / Amount,00Y,SP:QTY:00Y,Gradual Accumulation — intent involving steady build-up o...,Gradual Accumulation — intent involving steady build-up of quantity over time.,gather|compile|collect,qty00y,534,TRUE,TRUE
+SIGSQTY00Z,QTY,Quantity / Amount,00Z,SP:QTY:00Z,Erratic Distribution — intent involving irregular spread ...,Erratic Distribution — intent involving irregular spread or frequency of amounts.,scatter|uneven|patchy,qty00z,535,TRUE,TRUE
+SIGSQTY010,QTY,Quantity / Amount,010,SP:QTY:010,Overflow into Chaos — intent involving excess quantity ca...,Overflow into Chaos — intent involving excess quantity causing disorder or instability.,avalanche|deluge|overrun,qty010,536,TRUE,TRUE
+SIGSQTY011,QTY,Quantity / Amount,011,SP:QTY:011,Survival-Level Amount — intent involving bare minimum qua...,Survival-Level Amount — intent involving bare minimum quantity needed to persist.,minimum viable|bare bones|just enough,qty011,537,TRUE,TRUE
+SIGSQTY012,QTY,Quantity / Amount,012,SP:QTY:012,Quantified Certainty — intent involving confirmed or evid...,Quantified Certainty — intent involving confirmed or evidenced amounts.,verified|measured|certified,qty012,538,TRUE,TRUE
+SIGSQTY013,QTY,Quantity / Amount,013,SP:QTY:013,Obscured Quantity — intent involving amounts that are hid...,"Obscured Quantity — intent involving amounts that are hidden, misrepresented, or unknown.",concealed|unrevealed|masked,qty013,539,TRUE,TRUE
+SIGSQTY014,QTY,Quantity / Amount,014,SP:QTY:014,Compound Amount — intent involving sum of multiple source...,Compound Amount — intent involving sum of multiple sources or layers of quantity.,aggregated|bundled|composite,qty014,540,TRUE,TRUE
+SIGSQTY015,QTY,Quantity / Amount,015,SP:QTY:015,Implied Quantity — intent involving quantity assumed but ...,Implied Quantity — intent involving quantity assumed but not explicitly stated.,apparent|suggested|understood,qty015,541,TRUE,TRUE
+SIGSQTY016,QTY,Quantity / Amount,016,SP:QTY:016,Emptied State — intent involving complete removal or drai...,Emptied State — intent involving complete removal or draining of quantity.,depleted|drained|vacated,qty016,542,TRUE,TRUE
+SIGSQTY017,QTY,Quantity / Amount,017,SP:QTY:017,Progressive Scaling — intent involving quantity expanding...,Progressive Scaling — intent involving quantity expanding in stages or levels.,tiered|leveled|gradual,qty017,543,TRUE,TRUE
+SIGSQTY018,QTY,Quantity / Amount,018,SP:QTY:018,Unstable Capacity — intent involving fluctuating limits o...,Unstable Capacity — intent involving fluctuating limits on how much can be held.,fragile|volatile|shifting,qty018,544,TRUE,TRUE
+SIGSQTY019,QTY,Quantity / Amount,019,SP:QTY:019,"Redundant Quantity — intent involving more than needed, o...","Redundant Quantity — intent involving more than needed, often pointlessly.",extra|unnecessary|excess,qty019,545,TRUE,TRUE
+SIGSQTY01A,QTY,Quantity / Amount,01A,SP:QTY:01A,Subtracted Value — intent involving removal of a part fro...,Subtracted Value — intent involving removal of a part from the whole.,take away|deduct|subtract,qty01a,546,TRUE,TRUE
+SIGSQTY01B,QTY,Quantity / Amount,01B,SP:QTY:01B,Symbolic Abundance — intent using quantity to express ric...,Symbolic Abundance — intent using quantity to express richness or symbolic fullness.,cornucopia|plenty|overflowing,qty01b,547,TRUE,TRUE
+SIGSQTY01C,QTY,Quantity / Amount,01C,SP:QTY:01C,Unclaimed Quantity — intent involving quantity available ...,Unclaimed Quantity — intent involving quantity available but unused or orphaned.,surplus|leftover|abandoned,qty01c,548,TRUE,TRUE
+SIGSQTY01D,QTY,Quantity / Amount,01D,SP:QTY:01D,Default Quantity — intent involving pre-assigned or assum...,Default Quantity — intent involving pre-assigned or assumed amounts.,preset|baseline|given,qty01d,549,TRUE,TRUE
+SIGSQTY01E,QTY,Quantity / Amount,01E,SP:QTY:01E,Symbolic Fullness — intent involving abstract or emotiona...,Symbolic Fullness — intent involving abstract or emotional fullness rather than measurable.,fulfilled|whole|saturated,qty01e,550,TRUE,TRUE
+SIGSQTY01F,QTY,Quantity / Amount,01F,SP:QTY:01F,Exhausted Quantity — intent involving the final depletion...,Exhausted Quantity — intent involving the final depletion of available amount.,spent|used up|gone,qty01f,551,TRUE,TRUE
+SIGSQTY01G,QTY,Quantity / Amount,01G,SP:QTY:01G,Overflow as Danger — intent where excessive quantity sign...,Overflow as Danger — intent where excessive quantity signals threat or instability.,overload|tipping point|danger zone,qty01g,552,TRUE,TRUE
+SIGSQTY01H,QTY,Quantity / Amount,01H,SP:QTY:01H,Isolated Measure — intent involving quantity recognized a...,Isolated Measure — intent involving quantity recognized apart from any total or context.,individual|standalone|unit,qty01h,553,TRUE,TRUE
+SIGSQTY01I,QTY,Quantity / Amount,01I,SP:QTY:01I,Symbolic Scarcity — intent involving conceptual or emotio...,Symbolic Scarcity — intent involving conceptual or emotional lack.,emptiness|deficiency|yearning,qty01i,554,TRUE,TRUE
+SIGSQTY01J,QTY,Quantity / Amount,01J,SP:QTY:01J,Mythic Quantity — intent involving quantities that defy r...,Mythic Quantity — intent involving quantities that defy reality or logic.,endless|bottomless|limitless,qty01j,555,TRUE,TRUE
+SIGSQTY01K,QTY,Quantity / Amount,01K,SP:QTY:01K,Randomized Output — intent involving unpredictable quanti...,Randomized Output — intent involving unpredictable quantity result.,roll|draw|generate,qty01k,556,TRUE,TRUE
+SIGSQTY01L,QTY,Quantity / Amount,01L,SP:QTY:01L,Rate of Change — intent involving how fast or slow quanti...,Rate of Change — intent involving how fast or slow quantity is changing.,rate|tempo|pace,qty01l,557,TRUE,TRUE
+SIGSQTY01M,QTY,Quantity / Amount,01M,SP:QTY:01M,,Invisible Surplus — intent involving unacknowledged excess.,hidden wealth|covert abundance|latent excess,qty01m,558,TRUE,TRUE
+SIGSQTY01N,QTY,Quantity / Amount,01N,SP:QTY:01N,Shared Resource — intent involving a quantity meant for c...,Shared Resource — intent involving a quantity meant for collective use.,pool|commons|collective,qty01n,559,TRUE,TRUE
+SIGSQTY01O,QTY,Quantity / Amount,01O,SP:QTY:01O,Symbolic Maximum — intent involving the idea of ultimate ...,Symbolic Maximum — intent involving the idea of ultimate or supreme quantity.,peak|limit|totality,qty01o,560,TRUE,TRUE
+SIGSQTY01P,QTY,Quantity / Amount,01P,SP:QTY:01P,Invisible Deficit — intent involving unseen or unspoken l...,Invisible Deficit — intent involving unseen or unspoken lack.,gap|shortfall|void,qty01p,561,TRUE,TRUE
+SIGSQTY01Q,QTY,Quantity / Amount,01Q,SP:QTY:01Q,Estimated Range — intent involving upper and lower quanti...,Estimated Range — intent involving upper and lower quantity bounds.,range|spread|band,qty01q,562,TRUE,TRUE
+SIGSQTY01R,QTY,Quantity / Amount,01R,SP:QTY:01R,Precarious Surplus — intent involving unstable or risky a...,Precarious Surplus — intent involving unstable or risky abundance.,fragile gain|tentative surplus|on the edge,qty01r,563,TRUE,TRUE
+SIGSQTY01S,QTY,Quantity / Amount,01S,SP:QTY:01S,Hidden Units — intent involving discrete but unnoticed am...,Hidden Units — intent involving discrete but unnoticed amounts.,increments|bits|unseen parts,qty01s,564,TRUE,TRUE
+SIGSQTY01T,QTY,Quantity / Amount,01T,SP:QTY:01T,Implied Deficiency — intent involving assumed lack that s...,Implied Deficiency — intent involving assumed lack that shapes decisions.,assumed scarcity|anticipated need|expected shortfall,qty01t,565,TRUE,TRUE
+SIGSQTY01U,QTY,Quantity / Amount,01U,SP:QTY:01U,Perceived Sufficiency — intent involving the *sense* of h...,"Perceived Sufficiency — intent involving the *sense* of having enough, regardless of facts.",felt full|good enough|satisfied,qty01u,566,TRUE,TRUE
+SIGSQTY01V,QTY,Quantity / Amount,01V,SP:QTY:01V,Invisible Overflow — intent involving unseen or unnoticed...,Invisible Overflow — intent involving unseen or unnoticed abundance.,undercurrent|excess beneath|background surplus,qty01v,567,TRUE,TRUE
+SIGSQTY01W,QTY,Quantity / Amount,01W,SP:QTY:01W,Multiplicative Growth — intent involving exponential incr...,Multiplicative Growth — intent involving exponential increase in quantity.,compound|multiply|double,qty01w,568,TRUE,TRUE
+SIGSQTY01X,QTY,Quantity / Amount,01X,SP:QTY:01X,Halting Accumulation — intent involving an intentional pa...,Halting Accumulation — intent involving an intentional pause in growth.,plateau|pause|stall,qty01x,569,TRUE,TRUE
+SIGSQTY01Y,QTY,Quantity / Amount,01Y,SP:QTY:01Y,Concealed Depletion — intent involving hidden loss of qua...,Concealed Depletion — intent involving hidden loss of quantity.,leak|fade|unnoticed drain,qty01y,570,TRUE,TRUE
+SIGSQTY01Z,QTY,Quantity / Amount,01Z,SP:QTY:01Z,Perpetual Expansion — intent involving unending or self-r...,Perpetual Expansion — intent involving unending or self-renewing growth.,ever-growing|renewing|cyclical,qty01z,571,TRUE,TRUE
+SIGSQTY020,QTY,Quantity / Amount,020,SP:QTY:020,Restricted Allocation — intent involving controlled distr...,Restricted Allocation — intent involving controlled distribution of quantity.,ration|limit|filter,qty020,572,TRUE,TRUE
+SIGSQTY021,QTY,Quantity / Amount,021,SP:QTY:021,Invisible Reservoir — intent involving stored quantity no...,Invisible Reservoir — intent involving stored quantity not yet in use.,backlog|reserve|cache,qty021,573,TRUE,TRUE
+SIGSQTY022,QTY,Quantity / Amount,022,SP:QTY:022,Reflected Quantity — intent where one quantity mirrors or...,Reflected Quantity — intent where one quantity mirrors or influences another.,shadow|mirror|proxy,qty022,574,TRUE,TRUE
+SIGSQTY023,QTY,Quantity / Amount,023,SP:QTY:023,Compressed Quantity — intent involving dense or tightly p...,Compressed Quantity — intent involving dense or tightly packed amounts.,condensed|packed|compacted,qty023,575,TRUE,TRUE
+SIGSQTY024,QTY,Quantity / Amount,024,SP:QTY:024,Latent Potential — intent involving quantities not yet re...,Latent Potential — intent involving quantities not yet realized.,dormant|held back|unexpressed,qty024,576,TRUE,TRUE
+SIGSQTY025,QTY,Quantity / Amount,025,SP:QTY:025,Fleeting Surplus — intent involving temporary or vanishin...,Fleeting Surplus — intent involving temporary or vanishing excess.,momentary|short-lived|passing,qty025,577,TRUE,TRUE
+SIGSQTY026,QTY,Quantity / Amount,026,SP:QTY:026,Symbolic Overflow — intent where excess holds metaphorica...,Symbolic Overflow — intent where excess holds metaphorical meaning.,overflowing heart|emotional flood|bursting with joy,qty026,578,TRUE,TRUE
+SIGSQTY027,QTY,Quantity / Amount,027,SP:QTY:027,Quantified Identity — intent involving identity or role d...,Quantified Identity — intent involving identity or role defined by amount.,breadwinner|majority|bulk,qty027,579,TRUE,TRUE
+SIGSQTY028,QTY,Quantity / Amount,028,SP:QTY:028,Final Measure — intent involving the last or closing quan...,Final Measure — intent involving the last or closing quantity.,last count|final sum|ultimate total,qty028,580,TRUE,TRUE
+SIGSMOT02T,MOT,Motion / Movement,02T,SP:MOT:02T,open,Make a resource visible or active for interaction.,open the file; open settings,mot02t,581,TRUE,TRUE
+SIGSMOT02U,MOT,Motion / Movement,02U,SP:MOT:02U,close,"Hide or deactivate a resource, ending interaction.",close the tab; close window,mot02u,582,TRUE,TRUE
+SIGSMOT02V,MOT,Motion / Movement,02V,SP:MOT:02V,create,Instantiate a new object or record.,create a folder; create new note,mot02v,583,TRUE,TRUE
+SIGSMOT02W,MOT,Motion / Movement,02W,SP:MOT:02W,delete,Remove an object or record so it no longer exists.,delete the row; delete draft,mot02w,584,TRUE,TRUE
+SIGSMOT02X,MOT,Motion / Movement,02X,SP:MOT:02X,save,Persist current state to storage.,save changes; save as draft,mot02x,585,TRUE,TRUE
+SIGSMOT02Y,MOT,Motion / Movement,02Y,SP:MOT:02Y,edit,Modify the properties or content of an object.,edit title; edit description,mot02y,586,TRUE,TRUE
+SIGSMOT02Z,MOT,Motion / Movement,02Z,SP:MOT:02Z,rename,Change an object's identifier or label.,rename file to report_v2,mot02z,587,TRUE,TRUE
+SIGSMOT030,MOT,Motion / Movement,030,SP:MOT:030,move,Change an object's location or ordering.,move to folder A; move row up,mot030,588,TRUE,TRUE
+SIGSMOT031,MOT,Motion / Movement,031,SP:MOT:031,copy,Duplicate an object to a new location.,copy the range; copy project,mot031,589,TRUE,TRUE
+SIGSMOT032,MOT,Motion / Movement,032,SP:MOT:032,paste,Insert clipboard contents at the target location.,paste values; paste at cursor,mot032,590,TRUE,TRUE
+SIGSTIM02T,TIM,Time / Sequence,02T,SP:TIM:02T,now,Constrain to the present moment or immediate execution.,run now; filter to now,tim02t,591,TRUE,TRUE
+SIGSTIM02U,TIM,Time / Sequence,02U,SP:TIM:02U,today,Constrain to the current calendar day.,due today; show today only,tim02u,592,TRUE,TRUE
+SIGSTIM02V,TIM,Time / Sequence,02V,SP:TIM:02V,tomorrow,Constrain to the next calendar day.,remind me tomorrow,tim02v,593,TRUE,TRUE
+SIGSTIM02W,TIM,Time / Sequence,02W,SP:TIM:02W,before,Times strictly earlier than a reference point.,before 2025-09-01; before noon,tim02w,594,TRUE,TRUE
+SIGSTIM02X,TIM,Time / Sequence,02X,SP:TIM:02X,after,Times strictly later than a reference point.,after yesterday; after 14:00,tim02x,595,TRUE,TRUE
+SIGSTIM02Y,TIM,Time / Sequence,02Y,SP:TIM:02Y,between,Closed interval between two times.,between 09:00 and 17:00,tim02y,596,TRUE,TRUE
+SIGSTIM02Z,TIM,Time / Sequence,02Z,SP:TIM:02Z,until,Times up to and including a limit.,until Friday; collect until 30m,tim02z,597,TRUE,TRUE
+SIGSTIM030,TIM,Time / Sequence,030,SP:TIM:030,during,Within a named span or event window.,during business hours; during Q3,tim030,598,TRUE,TRUE
+SIGSTIM031,TIM,Time / Sequence,031,SP:TIM:031,recurring,Indicates the time repeats on a schedule.,recurring weekly; recurring daily,tim031,599,TRUE,TRUE
+SIGSTIM032,TIM,Time / Sequence,032,SP:TIM:032,deadline,Specifies a completion time limit.,deadline next week; deadline 2025-08-31,tim032,600,TRUE,TRUE
+SIGSQTY029,QTY,Quantity / Amount,029,SP:QTY:029,exactly,Specify an exact numeric or categorical match.,"exactly 10; exactly ""done""",qty029,601,TRUE,TRUE
+SIGSQTY02A,QTY,Quantity / Amount,02A,SP:QTY:02A,approximately,Specify an inexact or close value.,approximately 30; about three hours,qty02a,602,TRUE,TRUE
+SIGSQTY02B,QTY,Quantity / Amount,02B,SP:QTY:02B,at_least,Lower bound inclusive.,at least 5; min 10%,qty02b,603,TRUE,TRUE
+SIGSQTY02C,QTY,Quantity / Amount,02C,SP:QTY:02C,at_most,Upper bound inclusive.,at most 20; max 2 attempts,qty02c,604,TRUE,TRUE
+SIGSQTY02D,QTY,Quantity / Amount,02D,SP:QTY:02D,greater_than,Strictly larger than a reference value.,greater than 50; > 100 MB,qty02d,605,TRUE,TRUE
+SIGSQTY02E,QTY,Quantity / Amount,02E,SP:QTY:02E,less_than,Strictly smaller than a reference value.,less than 5; < 2 GB,qty02e,606,TRUE,TRUE
+SIGSQTY02F,QTY,Quantity / Amount,02F,SP:QTY:02F,equal,Equality comparison to a reference value.,"equal to 7; = ""active""",qty02f,607,TRUE,TRUE
+SIGSQTY02G,QTY,Quantity / Amount,02G,SP:QTY:02G,between_values,Closed interval with two numeric bounds.,between 10 and 20; 10–20 inclusive,qty02g,608,TRUE,TRUE
+SIGSQTY02H,QTY,Quantity / Amount,02H,SP:QTY:02H,top_n,Select the highest-ranked N items.,top 10 rows; top 3 scores,qty02h,609,TRUE,TRUE
+SIGSQTY02I,QTY,Quantity / Amount,02I,SP:QTY:02I,percent,Express a proportion out of 100.,15% increase; reduce by 20%,qty02i,610,TRUE,TRUE
+SIGSLOC001,LOC,Spatial / constraint,001,SP:LOC:001,,Select items within the default proximity of the active reference point.,near me|nearby|close by,loc001,611,TRUE,TRUE
+SIGSLOC002,LOC,Spatial / constraint,002,SP:LOC:002,,Constrain to items within N kilometers of the reference point (expects numeric scalar).,within 5 km|radius 2 km|within 10 km,loc002,612,TRUE,TRUE
+SIGSLOC003,LOC,Spatial / constraint,003,SP:LOC:003,,Select items strictly contained by the named region or collection.,inside region|within folder|contained in,loc003,613,TRUE,TRUE
+SIGSLOC004,LOC,Spatial / constraint,004,SP:LOC:004,,Select items whose spatial extent intersects the region.,overlaps area|intersects region|crosses,loc004,614,TRUE,TRUE
+SIGSLOC005,LOC,Spatial / constraint,005,SP:LOC:005,,Select items located at a named place or geocoded label.,at office|at home|at HQ,loc005,615,TRUE,TRUE
+SIGSLOC006,LOC,Spatial / constraint,006,SP:LOC:006,,Constrain to items under the specified folder path or id.,in /reports/2025|in folder Docs|under /projects,loc006,616,TRUE,TRUE
+SIGSLOC007,LOC,Spatial / constraint,007,SP:LOC:007,,Restrict scope to local device storage.,on this device|local only|device storage,loc007,617,TRUE,TRUE
+SIGSLOC008,LOC,Spatial / constraint,008,SP:LOC:008,,Restrict scope to cloud-backed storage.,in cloud|cloud only|remote storage,loc008,618,TRUE,TRUE
+SIGSLOC009,LOC,Spatial / constraint,009,SP:LOC:009,,"Limit to latitude/longitude bounding box (minLon,minLat,maxLon,maxLat).",bbox lat/lon|map box|bounding box,loc009,619,TRUE,TRUE
+SIGSLOC00A,LOC,Spatial / constraint,00A,SP:LOC:00A,,Select items co-located with the referenced item.,same as file A|colocated|same folder,loc00a,620,TRUE,TRUE
+SIGSLOC00B,LOC,Spatial / constraint,00B,SP:LOC:00B,,Select items that intersect the given path/polyline.,intersects route|crosses path|along path,loc00b,621,TRUE,TRUE
+SIGSLOC00C,LOC,Spatial / constraint,00C,SP:LOC:00C,,Select items in folders adjacent to the given folder.,near folder X|adjacent folder|sibling folder,loc00c,622,TRUE,TRUE
+SIGSLOC00D,LOC,Spatial / constraint,00D,SP:LOC:00D,,Constrain to items within N miles of the reference point (expects numeric scalar).,within 3 miles|radius 1 mile|within 10 miles,loc00d,623,TRUE,TRUE
+SIGSLOC00E,LOC,Spatial / constraint,00E,SP:LOC:00E,,Exclude items contained by the named region.,outside region|not in area|exclude zone,loc00e,624,TRUE,TRUE
+SIGSLOC00F,LOC,Spatial / constraint,00F,SP:LOC:00F,,Select items whose boundaries touch the region boundary.,touching boundary|adjacent to|meets border,loc00f,625,TRUE,TRUE
+SIGSSRT001,SRT,Sort / order,001,SP:SRT:001,,Order by timestamp (created/updated; implementation-defined default).,sort by date|order by date|newest first,srt001,626,TRUE,TRUE
+SIGSSRT002,SRT,Sort / order,002,SP:SRT:002,,Order lexicographically by name/title.,sort by name|order by name|Aâ†’Z,srt002,627,TRUE,TRUE
+SIGSSRT003,SRT,Sort / order,003,SP:SRT:003,,Order by item size.,sort by size|largest first|smallest first,srt003,628,TRUE,TRUE
+SIGSSRT004,SRT,Sort / order,004,SP:SRT:004,,Order by a priority field when present.,sort by priority|high to low|low to high,srt004,629,TRUE,TRUE
+SIGSSRT005,SRT,Sort / order,005,SP:SRT:005,,Set ascending order for the active sort key.,ascending|Aâ†’Z|lowest first,srt005,630,TRUE,TRUE
+SIGSSRT006,SRT,Sort / order,006,SP:SRT:006,,Set descending order for the active sort key.,descending|Zâ†’A|highest first,srt006,631,TRUE,TRUE
+SIGSSRT007,SRT,Sort / order,007,SP:SRT:007,,Use human-friendly natural sort (numbers collate).,natural order|human sort|collated,srt007,632,TRUE,TRUE
+SIGSSRT008,SRT,Sort / order,008,SP:SRT:008,,Randomize order of items.,random|shuffle|mixed,srt008,633,TRUE,TRUE
+SIGSSRT009,SRT,Sort / order,009,SP:SRT:009,,Add a stable secondary sort key to break ties.,then by|secondary key|tie-breaker,srt009,634,TRUE,TRUE
+SIGSSRT00A,SRT,Sort / order,00A,SP:SRT:00A,,Require sort stability across equal keys.,stable sort|preserve order|stable,srt00a,635,TRUE,TRUE
+SIGSSRT00B,SRT,Sort / order,00B,SP:SRT:00B,,Place null/empty values before non-null values.,nulls first|blanks first|empty first,srt00b,636,TRUE,TRUE
+SIGSSRT00C,SRT,Sort / order,00C,SP:SRT:00C,,Place null/empty values after non-null values.,nulls last|blanks last|empty last,srt00c,637,TRUE,TRUE
+SIGSSRT00D,SRT,Sort / order,00D,SP:SRT:00D,,Apply locale-aware collation rules.,locale order|localized sort|language aware,srt00d,638,TRUE,TRUE
+SIGSSRT00E,SRT,Sort / order,00E,SP:SRT:00E,,Invert the current ordering direction.,reverse|flip order|invert,srt00e,639,TRUE,TRUE
+SIGSSRT00F,SRT,Sort / order,00F,SP:SRT:00F,,Randomize order with a reproducible seed.,seeded shuffle|shuffle with seed|deterministic shuffle,srt00f,640,TRUE,TRUE
+SIGSFIL001,FIL,Filter / predicate,001,SP:FIL:001,,Keep rows where the active field contains the substring.,contains 'report'|includes 'Q2'|has 'draft',fil001,641,TRUE,TRUE
+SIGSFIL002,FIL,Filter / predicate,002,SP:FIL:002,,Keep rows where the active field has the prefix.,starts with 'pro'|prefix 'img_'|begins '2025',fil002,642,TRUE,TRUE
+SIGSFIL003,FIL,Filter / predicate,003,SP:FIL:003,,Keep rows where the active field has the suffix.,ends with '.csv'|suffix '_final'|ends 'v2',fil003,643,TRUE,TRUE
+SIGSFIL004,FIL,Filter / predicate,004,SP:FIL:004,,Keep rows matching the regular expression.,regex '^re'|matches '.*test.*'|pattern,fil004,644,TRUE,TRUE
+SIGSFIL005,FIL,Filter / predicate,005,SP:FIL:005,,Keep rows where the field equals the value (case-sensitive).,equals 'foo'|exact match|case-sensitive,fil005,645,TRUE,TRUE
+SIGSFIL006,FIL,Filter / predicate,006,SP:FIL:006,,Keep rows where the field equals the value (case-insensitive).,equals 'foo' (icase)|case-insensitive|icase match,fil006,646,TRUE,TRUE
+SIGSFIL007,FIL,Filter / predicate,007,SP:FIL:007,,Keep rows where the field is null/empty.,is empty|blank|null,fil007,647,TRUE,TRUE
+SIGSFIL008,FIL,Filter / predicate,008,SP:FIL:008,,Keep rows where the field is non-empty.,not empty|non-blank|present,fil008,648,TRUE,TRUE
+SIGSFIL009,FIL,Filter / predicate,009,SP:FIL:009,,Keep rows where the field value is in the given set.,"in {a,b,c}|member of list|whitelist",fil009,649,TRUE,TRUE
+SIGSFIL00A,FIL,Filter / predicate,00A,SP:FIL:00A,,Drop rows where the field value is in the given set.,"not in {a,b,c}|exclude list|blacklist",fil00a,650,TRUE,TRUE
+SIGSFIL00B,FIL,Filter / predicate,00B,SP:FIL:00B,,Keep rows where the numeric field is greater than N.,> 10|>= 11|greater than 10,fil00b,651,TRUE,TRUE
+SIGSFIL00C,FIL,Filter / predicate,00C,SP:FIL:00C,,Keep rows where the numeric field is less than N.,< 10|<= 9|less than 10,fil00c,652,TRUE,TRUE
+SIGSFIL00D,FIL,Filter / predicate,00D,SP:FIL:00D,,Keep rows where the numeric field is between A and B inclusive.,between 1 and 10|1â€“10 inclusive|range 1-10,fil00d,653,TRUE,TRUE
+SIGSFIL00E,FIL,Filter / predicate,00E,SP:FIL:00E,,Keep rows where the date/datetime lies between start and end.,date 2025-01-01..2025-12-31|within 2025|in range,fil00e,654,TRUE,TRUE
+SIGSFIL00F,FIL,Filter / predicate,00F,SP:FIL:00F,,"Keep rows where normalized form equals the value (e.g., diacritics folded).",equals normalized|folded match|normalized equal,fil00f,655,TRUE,TRUE
+SIGSATT001,ATT,Attribute / field select,001,SP:ATT:001,,Select the 'title' attribute as the active field.,title|name|heading,att001,656,TRUE,TRUE
+SIGSATT002,ATT,Attribute / field select,002,SP:ATT:002,,Select the owner attribute as the active field.,owner|owner name|owned by,att002,657,TRUE,TRUE
+SIGSATT003,ATT,Attribute / field select,003,SP:ATT:003,,Select the assignee/responsible attribute as the active field.,assignee|assigned to|responsible,att003,658,TRUE,TRUE
+SIGSATT004,ATT,Attribute / field select,004,SP:ATT:004,,Select the status/state attribute as the active field.,status|state|phase,att004,659,TRUE,TRUE
+SIGSATT005,ATT,Attribute / field select,005,SP:ATT:005,,Select the creation timestamp as the active field.,created at|creation date|date created,att005,660,TRUE,TRUE
+SIGSATT006,ATT,Attribute / field select,006,SP:ATT:006,,Select the last-updated timestamp as the active field.,updated at|last updated|modified date,att006,661,TRUE,TRUE
+SIGSATT007,ATT,Attribute / field select,007,SP:ATT:007,,Select the due/deadline timestamp as the active field.,due at|deadline|due date,att007,662,TRUE,TRUE
+SIGSATT008,ATT,Attribute / field select,008,SP:ATT:008,,Select the size metric as the active field.,size|filesize|length,att008,663,TRUE,TRUE
+SIGSATT009,ATT,Attribute / field select,009,SP:ATT:009,,Select the type/kind attribute as the active field.,type|kind|category,att009,664,TRUE,TRUE
+SIGSATT00A,ATT,Attribute / field select,00A,SP:ATT:00A,,Select the priority attribute as the active field.,priority|P0/P1/P2|importance,att00a,665,TRUE,TRUE
+SIGSATT00B,ATT,Attribute / field select,00B,SP:ATT:00B,,Select the filename extension as the active field.,extension|file ext|suffix,att00b,666,TRUE,TRUE
+SIGSATT00C,ATT,Attribute / field select,00C,SP:ATT:00C,,Select the MIME/content-type as the active field.,MIME type|content type|mimetype,att00c,667,TRUE,TRUE
+SIGSATT00D,ATT,Attribute / field select,00D,SP:ATT:00D,,Select the owning team/group attribute as the active field.,owner group|team|group,att00d,668,TRUE,TRUE
+SIGSATT00E,ATT,Attribute / field select,00E,SP:ATT:00E,,Select the tags/labels attribute as the active field.,tags|labels|keywords,att00e,669,TRUE,TRUE
+SIGSATT00F,ATT,Attribute / field select,00F,SP:ATT:00F,,Select the path/folder-location attribute as the active field.,path|folder path|location,att00f,670,TRUE,TRUE
+SIGSAGG001,AGG,Aggregation,001,SP:AGG:001,,Return the number of items.,count|how many|number of items,agg001,671,TRUE,TRUE
+SIGSAGG002,AGG,Aggregation,002,SP:AGG:002,,Return the count of distinct values of the active field.,unique count|distinct values|deduplicated count,agg002,672,TRUE,TRUE
+SIGSAGG003,AGG,Aggregation,003,SP:AGG:003,,Return the sum of numeric values for the active field.,sum|total|add up,agg003,673,TRUE,TRUE
+SIGSAGG004,AGG,Aggregation,004,SP:AGG:004,,Return the arithmetic mean of numeric values.,average|mean|avg,agg004,674,TRUE,TRUE
+SIGSAGG005,AGG,Aggregation,005,SP:AGG:005,,Return the minimum value.,minimum|lowest|smallest,agg005,675,TRUE,TRUE
+SIGSAGG006,AGG,Aggregation,006,SP:AGG:006,,Return the maximum value.,maximum|highest|largest,agg006,676,TRUE,TRUE
+SIGSAGG007,AGG,Aggregation,007,SP:AGG:007,,Group rows by the active field (or list of fields).,group by|bucket by|aggregate by,agg007,677,TRUE,TRUE
+SIGSAGG008,AGG,Aggregation,008,SP:AGG:008,,Filter groups by a post-aggregation predicate.,having condition|post-group filter|group filter,agg008,678,TRUE,TRUE
+SIGSAGG009,AGG,Aggregation,009,SP:AGG:009,,"Return the p-th percentile; expects p in [0,100].",95th percentile|percentile 50|median-ish,agg009,679,TRUE,TRUE
+SIGSAGG00A,AGG,Aggregation,00A,SP:AGG:00A,,Return the standard deviation of numeric values.,standard deviation|sigma|spread,agg00a,680,TRUE,TRUE
+SIGSAGG00B,AGG,Aggregation,00B,SP:AGG:00B,,Return the variance of numeric values.,variance|var|dispersion,agg00b,681,TRUE,TRUE
+SIGSAGG00C,AGG,Aggregation,00C,SP:AGG:00C,,Return the most frequent value.,mode|most frequent|common value,agg00c,682,TRUE,TRUE
+SIGSAGG00D,AGG,Aggregation,00D,SP:AGG:00D,,Return the median (50th percentile).,median|middle value|50th percentile,agg00d,683,TRUE,TRUE
+SIGSAGG00E,AGG,Aggregation,00E,SP:AGG:00E,,Return per-group share as ratio of total count.,ratio of counts|count share|proportion,agg00e,684,TRUE,TRUE
+SIGSAGG00F,AGG,Aggregation,00F,SP:AGG:00F,,Compute moving average over a window; expects window spec.,7-day average|rolling mean|moving average,agg00f,685,TRUE,TRUE
+SIGSOUT001,OUT,Output / format,001,SP:OUT:001,,Render output as a tabular grid.,as table|tabular|table view,out001,686,TRUE,TRUE
+SIGSOUT002,OUT,Output / format,002,SP:OUT:002,,Render output as a simple list.,as list|list view|bulleted list,out002,687,TRUE,TRUE
+SIGSOUT003,OUT,Output / format,003,SP:OUT:003,,Export as CSV file.,as CSV|download CSV|CSV export,out003,688,TRUE,TRUE
+SIGSOUT004,OUT,Output / format,004,SP:OUT:004,,Render/export as JSON.,as JSON|JSON output|JSON export,out004,689,TRUE,TRUE
+SIGSOUT005,OUT,Output / format,005,SP:OUT:005,,Render a chart; combine with chart_* to pick type.,as chart|chart view|visualize,out005,690,TRUE,TRUE
+SIGSOUT006,OUT,Output / format,006,SP:OUT:006,,Render a bar/column chart.,bar chart|bars|column chart,out006,691,TRUE,TRUE
+SIGSOUT007,OUT,Output / format,007,SP:OUT:007,,Render a line/time-series chart.,line chart|lines|time series,out007,692,TRUE,TRUE
+SIGSOUT008,OUT,Output / format,008,SP:OUT:008,,Limit output to the top N items (expects integer).,top 10|first 20|limit 5,out008,693,TRUE,TRUE
+SIGSOUT009,OUT,Output / format,009,SP:OUT:009,,Shorten wide fields in the view with ellipses.,truncate fields|shorten columns|ellipsis,out009,694,TRUE,TRUE
+SIGSOUT00A,OUT,Output / format,00A,SP:OUT:00A,,Paginate output; expects page size.,paginate|page 1 of N|next page,out00a,695,TRUE,TRUE
+SIGSOUT00B,OUT,Output / format,00B,SP:OUT:00B,,Render as Markdown document.,as Markdown|markdown output|md,out00b,696,TRUE,TRUE
+SIGSOUT00C,OUT,Output / format,00C,SP:OUT:00C,,Render as HTML document.,as HTML|html output|web,out00c,697,TRUE,TRUE
+SIGSOUT00D,OUT,Output / format,00D,SP:OUT:00D,,Trigger a downloadable file artifact.,download file|save file|get file,out00d,698,TRUE,TRUE
+SIGSOUT00E,OUT,Output / format,00E,SP:OUT:00E,,Render a pivot/crosstab view.,pivot table|pivot|cross-tab,out00e,699,TRUE,TRUE
+SIGSOUT00F,OUT,Output / format,00F,SP:OUT:00F,,Render a small preview subset without side effects.,preview only|sample view|subset,out00f,700,TRUE,TRUE
+SIGSENT001,ENT,Entity / type hints,001,SP:ENT:001,,Treat argument as a Person entity type.,person|human|individual,ent001,701,TRUE,TRUE
+SIGSENT002,ENT,Entity / type hints,002,SP:ENT:002,,Treat argument as an Organization entity type.,organization|company|org,ent002,702,TRUE,TRUE
+SIGSENT003,ENT,Entity / type hints,003,SP:ENT:003,,Treat argument as an Email Address entity type.,email|email address|mail,ent003,703,TRUE,TRUE
+SIGSENT004,ENT,Entity / type hints,004,SP:ENT:004,,Treat argument as a URL entity type.,url|link|web address,ent004,704,TRUE,TRUE
+SIGSENT005,ENT,Entity / type hints,005,SP:ENT:005,,Treat argument as a File entity type.,file|document|artifact,ent005,705,TRUE,TRUE
+SIGSENT006,ENT,Entity / type hints,006,SP:ENT:006,,Treat argument as a Folder/Directory entity type.,folder|directory|path,ent006,706,TRUE,TRUE
+SIGSENT007,ENT,Entity / type hints,007,SP:ENT:007,,Treat argument as an Image entity type.,image|picture|photo,ent007,707,TRUE,TRUE
+SIGSENT008,ENT,Entity / type hints,008,SP:ENT:008,,Treat argument as an Audio entity type.,audio|sound|recording,ent008,708,TRUE,TRUE
+SIGSENT009,ENT,Entity / type hints,009,SP:ENT:009,,Treat argument as a Calendar Date entity type.,date|calendar date|day,ent009,709,TRUE,TRUE
+SIGSENT00A,ENT,Entity / type hints,00A,SP:ENT:00A,,Treat argument as a DateTime/Timestamp entity type.,datetime|timestamp|date-time,ent00a,710,TRUE,TRUE
+SIGSENT00B,ENT,Entity / type hints,00B,SP:ENT:00B,,Treat argument as a Table/Dataset entity type.,table|dataset|sheet,ent00b,711,TRUE,TRUE
+SIGSENT00C,ENT,Entity / type hints,00C,SP:ENT:00C,,Treat argument as a Text/String entity type.,text|plain text|string,ent00c,712,TRUE,TRUE
+SIGSENT00D,ENT,Entity / type hints,00D,SP:ENT:00D,,Treat argument as an Image-Embedding/Vector entity type.,image vector|embedding|vector,ent00d,713,TRUE,TRUE
+SIGSENT00E,ENT,Entity / type hints,00E,SP:ENT:00E,,Treat argument as a Record Identifier entity type.,identifier|id|record id,ent00e,714,TRUE,TRUE
+SIGSENT00F,ENT,Entity / type hints,00F,SP:ENT:00F,,Treat argument as a Boolean (true/false) entity type.,boolean|true/false|bool,ent00f,715,TRUE,TRUE
+SIGSASP001,ASP,Aspect / tense,001,SP:ASP:001,,Aspectual cue: completed in the past.,in the past|previously|earlier,asp001,716,TRUE,TRUE
+SIGSASP002,ASP,Aspect / tense,002,SP:ASP:002,,Aspectual cue: occurring at present.,now|currently|at present,asp002,717,TRUE,TRUE
+SIGSASP003,ASP,Aspect / tense,003,SP:ASP:003,,Aspectual cue: scheduled for future.,later|upcoming|in future,asp003,718,TRUE,TRUE
+SIGSASP004,ASP,Aspect / tense,004,SP:ASP:004,,Aspect: ongoing/continuous action.,in progress|ongoing|currently doing,asp004,719,TRUE,TRUE
+SIGSASP005,ASP,Aspect / tense,005,SP:ASP:005,,Aspect: completed with present relevance.,has done|completed|finished,asp005,720,TRUE,TRUE
+SIGSASP006,ASP,Aspect / tense,006,SP:ASP:006,,Aspect: ongoing over interval up to reference time.,has been doing|was ongoing|continuing,asp006,721,TRUE,TRUE
+SIGSASP007,ASP,Aspect / tense,007,SP:ASP:007,,Aspect: occurs regularly or by habit.,usually|habitually|regularly,asp007,722,TRUE,TRUE
+SIGSASP008,ASP,Aspect / tense,008,SP:ASP:008,,Aspect: occurs repeatedly.,repeatedly|again and again|many times,asp008,723,TRUE,TRUE
+SIGSASP009,ASP,Aspect / tense,009,SP:ASP:009,,Aspect: onset/beginning of an action.,beginning|starting|onset,asp009,724,TRUE,TRUE
+SIGSASP00A,ASP,Aspect / tense,00A,SP:ASP:00A,,Aspect: cessation/ending of an action.,ending|finishing|ceasing,asp00a,725,TRUE,TRUE
+SIGSASP00B,ASP,Aspect / tense,00B,SP:ASP:00B,,Aspect: about to start (imminent).,about to|on the verge|going to,asp00b,726,TRUE,TRUE
+SIGSASP00C,ASP,Aspect / tense,00C,SP:ASP:00C,,Aspect: looking back at prior state.,looking back|retrospective|in hindsight,asp00c,727,TRUE,TRUE
+SIGSASP00D,ASP,Aspect / tense,00D,SP:ASP:00D,,Aspect: extended duration.,for a long time|prolonged|extended,asp00d,728,TRUE,TRUE
+SIGSASP00E,ASP,Aspect / tense,00E,SP:ASP:00E,,Aspect: instantaneous or momentary.,instantaneous|momentary|one-off,asp00e,729,TRUE,TRUE
+SIGSASP00F,ASP,Aspect / tense,00F,SP:ASP:00F,,Aspect: resulting state after completion.,resulting state|has become|now is,asp00f,730,TRUE,TRUE
+SIGSCON001,CON,Condition,001,SP:CON:001,Conditional 'if',Introduces a condition that must be met for the subsequent action to be executed.,if|in the event that|should,con001,731,TRUE,TRUE
+SIGSCON002,CON,Condition,002,SP:CON:002,Negative 'unless',Introduces a negative condition; the action occurs only if the condition is not met.,unless|if not|except if,con002,732,TRUE,TRUE
+SIGSCON003,CON,Condition,003,SP:CON:003,Alternative 'otherwise',Specifies an alternative action to be taken if the primary condition is not met.,"otherwise|or else|if not, then",con003,733,TRUE,TRUE
+SIGSCON004,CON,Condition,004,SP:CON:004,Prerequisite 'as long as',Specifies a continuous condition that must remain true for the action to be valid.,as long as|while|provided that,con004,734,TRUE,TRUE
+SIGSCON005,CON,Condition,005,SP:CON:005,Proactive 'in case',Introduces a potential future condition for which a preparatory action is taken.,in case|just in case|on the off chance,con005,735,TRUE,TRUE
+SIGSCON006,CON,Condition,006,SP:CON:006,Exclusive 'only if',Specifies that the condition is the only one under which the action will occur.,only if|exclusively if|only when,con006,736,TRUE,TRUE
+SIGSCON007,CON,Condition,007,SP:CON:007,Premise 'given that',Introduces a known fact or premise from which the subsequent action logically follows.,given that|seeing as|considering,con007,737,TRUE,TRUE
+SIGSCON008,CON,Condition,008,SP:CON:008,Assumed 'assuming',Introduces a condition that is assumed to be true for the purpose of the action.,assuming|supposing|let's assume,con008,738,TRUE,TRUE
+SIGSCON009,CON,Condition,009,SP:CON:009,Requirement 'requires',States a mandatory prerequisite or input for an action or process.,requires|needs|must have,con009,739,TRUE,TRUE
+SIGSCON00A,CON,Condition,00A,SP:CON:00A,Absence 'without',Specifies a condition of absence; the action proceeds if something is not present.,without|in the absence of|lacking,con00a,740,TRUE,TRUE
+SIGSCON00B,CON,Condition,00B,SP:CON:00B,Contingency,Specifies that an action is dependent on the outcome of another event.,contingent on|dependent on|pending the outcome of,con00b,741,TRUE,TRUE
+SIGSCON00C,CON,Condition,00C,SP:CON:00C,Exception,Introduces an exception to a general rule or statement.,barring|except for|with the exception of,con00c,742,TRUE,TRUE
+SIGSCON00D,CON,Condition,00D,SP:CON:00D,Unconditional,Specifies that an action should proceed irrespective of other conditions.,regardless of|irrespective of|no matter what,con00d,743,TRUE,TRUE
+SIGSCON00E,CON,Condition,00E,SP:CON:00E,Immediate Trigger,Specifies an action that should occur immediately upon the fulfillment of a condition.,upon|as soon as|once,con00e,744,TRUE,TRUE
+SIGSCON00F,CON,Condition,00F,SP:CON:00F,Sufficiency,"Specifies a condition that, if met, is sufficient to cause a certain outcome.",is sufficient to|is enough to|suffices for,con00f,745,TRUE,TRUE
+SIGSCON00G,CON,Condition,00G,SP:CON:00G,Necessity,Specifies a condition that is a necessary prerequisite for an outcome.,is necessary for|is required for|can't happen without,con00g,746,TRUE,TRUE
+SIGSCON00H,CON,Condition,00H,SP:CON:00H,Retrospective,"Frames a condition in the past that, had it been different, would have changed an outcome.",if it weren't for|had it not been for,con00h,747,TRUE,TRUE
+SIGSCON00I,CON,Condition,00I,SP:CON:00I,Default Action,Specifies a default action to be taken if no other conditions apply.,by default|as a fallback|if nothing else,con00i,748,TRUE,TRUE
+SIGSEPI001,EPI,Epistemic,001,SP:EPI:001,Possibility,Indicates a proposition is possible but not certain.,possibly|maybe|potentially|could be,epi001,749,TRUE,TRUE
+SIGSEPI002,EPI,Epistemic,002,SP:EPI:002,Probability,Indicates a proposition is likely to be true but not guaranteed.,probably|likely|most likely,epi002,750,TRUE,TRUE
+SIGSEPI003,EPI,Epistemic,003,SP:EPI:003,Certainty,Indicates a proposition is known or asserted to be definitely true.,certainly|definitely|undoubtedly,epi003,751,TRUE,TRUE
+SIGSEPI004,EPI,Epistemic,004,SP:EPI:004,Verified Claim,Indicates a proposition has been verified or is confirmed by evidence.,verified|confirmed|factually,epi004,752,TRUE,TRUE
+SIGSEPI005,EPI,Epistemic,005,SP:EPI:005,Disputed Claim,"Indicates a proposition is contested, debated, or unproven.",disputed|contested|unverified,epi005,753,TRUE,TRUE
+SIGSEPI006,EPI,Epistemic,006,SP:EPI:006,Assumption,Frames a proposition as an assumption taken for granted without proof.,assumed|presumably|supposedly,epi006,754,TRUE,TRUE
+SIGSEPI007,EPI,Epistemic,007,SP:EPI:007,Hearsay / Reported,Indicates information is from an external source and not directly known.,reportedly|allegedly|according to,epi007,755,TRUE,TRUE
+SIGSEPI008,EPI,Epistemic,008,SP:EPI:008,Impossibility,Indicates a proposition is asserted to be impossible or certainly false.,impossible|cannot be|no way,epi008,756,TRUE,TRUE
+SIGSEPI009,EPI,Epistemic,009,SP:EPI:009,Self-Evident,Indicates a proposition is obvious or requires no proof.,obviously|clearly|evidently,epi009,757,TRUE,TRUE
+SIGSEPI00A,EPI,Epistemic,00A,SP:EPI:00A,Theoretical,Frames a proposition as existing in theory but not necessarily in practice.,theoretically|in principle|ideally,epi00a,758,TRUE,TRUE
+SIGSEPI00B,EPI,Epistemic,00B,SP:EPI:00B,Plausibility,Indicates that a proposition is reasonable and could well be true.,plausible|conceivable|believable,epi00b,759,TRUE,TRUE
+SIGSEPI00C,EPI,Epistemic,00C,SP:EPI:00C,Conclusive,Indicates that the evidence is decisive and settles a question beyond doubt.,conclusively|decisively|beyond doubt,epi00c,760,TRUE,TRUE
+SIGSEPI00D,EPI,Epistemic,00D,SP:EPI:00D,Intuitive Belief,Frames a proposition as based on intuition or a gut feeling rather than explicit evidence.,intuitively|my gut says|instinctively,epi00d,761,TRUE,TRUE
+SIGSEPI00E,EPI,Epistemic,00E,SP:EPI:00E,Unconfirmed,Indicates that a proposition is currently lacking verification.,unconfirmed|pending verification|unsubstantiated,epi00e,762,TRUE,TRUE
+SIGSEPI00F,EPI,Epistemic,00F,SP:EPI:00F,Empirical Evidence,Indicates that a claim is based on observation or direct experience.,empirically|observed to be|in practice,epi00f,763,TRUE,TRUE
+SIGSEPI00G,EPI,Epistemic,00G,SP:EPI:00G,Subjective Belief,Explicitly frames a statement as a personal opinion or belief.,I believe|in my opinion|I think,epi00g,764,TRUE,TRUE
+SIGSEPI00H,EPI,Epistemic,00H,SP:EPI:00H,Common Knowledge,Frames a proposition as being widely known and accepted.,it is known that|as everyone knows|traditionally,epi00h,765,TRUE,TRUE
+SIGSEPI00I,EPI,Epistemic,00I,SP:EPI:00I,Counterintuitive,Indicates that a proposition is true despite appearing to be contrary to what one would expect.,counterintuitively|paradoxically|surprisingly,epi00i,766,TRUE,TRUE
+SIGSCOG001,COG,Cognition,001,SP:COG:001,Inference,To reach a conclusion on the basis of evidence and reasoning.,infer|deduce|conclude,cog001,767,TRUE,TRUE
+SIGSCOG002,COG,Cognition,002,SP:COG:002,Speculation,To form a theory or hypothesis without firm evidence.,speculate|hypothesize|guess,cog002,768,TRUE,TRUE
+SIGSCOG003,COG,Cognition,003,SP:COG:003,Realization,The act of suddenly understanding or becoming aware of something.,realize|it dawned on me|I see now,cog003,769,TRUE,TRUE
+SIGSCOG004,COG,Cognition,004,SP:COG:004,Reconsideration,"To think about something again, often to change one's mind.",reconsider|re-evaluate|rethink,cog004,770,TRUE,TRUE
+SIGSCOG005,COG,Cognition,005,SP:COG:005,Doubt,To feel uncertain about something or question its truth.,doubt|question|I'm unsure about,cog005,771,TRUE,TRUE
+SIGSCOG006,COG,Cognition,006,SP:COG:006,Judgment,To form an opinion or conclusion about something.,judge|assess|evaluate|determine,cog006,772,TRUE,TRUE
+SIGSCOG007,COG,Cognition,007,SP:COG:007,Reflection,To think deeply or carefully about something.,reflect|ponder|contemplate,cog007,773,TRUE,TRUE
+SIGSCOG008,COG,Cognition,008,SP:COG:008,Recall / Remember,"To bring a fact, event, or situation back into one's mind.",remember|recall|recollect,cog008,774,TRUE,TRUE
+SIGSCOG009,COG,Cognition,009,SP:COG:009,Forget,"To be unable to remember a fact, event, or piece of information.",forget|don't remember|it slips my mind,cog009,775,TRUE,TRUE
+SIGSCOG00A,COG,Cognition,00A,SP:COG:00A,Understanding,"To perceive the intended meaning of words, a language, or a speaker.",understand|comprehend|get it,cog00a,776,TRUE,TRUE
+SIGSCOG00B,COG,Cognition,00B,SP:COG:00B,Misunderstanding,To fail to understand something correctly.,misunderstand|misinterpret|get it wrong,cog00b,777,TRUE,TRUE
+SIGSCOG00C,COG,Cognition,00C,SP:COG:00C,Prioritization,To determine the order for dealing with tasks according to their importance.,prioritize|rank|focus on,cog00c,778,TRUE,TRUE
+SIGSCOG00D,COG,Cognition,00D,SP:COG:00D,Anticipation,The act of expecting or predicting a future event or outcome.,anticipate|expect|foresee,cog00d,779,TRUE,TRUE
+SIGSCOG00E,COG,Cognition,00E,SP:COG:00E,Analysis,The process of breaking down a complex topic into smaller parts for better understanding.,analyze|examine|break down,cog00e,780,TRUE,TRUE
+SIGSCOG00F,COG,Cognition,00F,SP:COG:00F,Synthesis,The act of combining separate elements to form a coherent whole.,synthesize|integrate|combine,cog00f,781,TRUE,TRUE
+SIGSCOG00G,COG,Cognition,00G,SP:COG:00G,Association,The mental act of connecting or linking one idea or memory with another.,associate|connect|link,cog00g,782,TRUE,TRUE
+SIGSCOG00H,COG,Cognition,00H,SP:COG:00H,Differentiation,The act of distinguishing or perceiving the difference between things.,differentiate|distinguish|tell apart,cog00h,783,TRUE,TRUE
+SIGSCOG00I,COG,Cognition,00I,SP:COG:00I,Visualization,The act of forming a mental image of something.,visualize|imagine|picture,cog00i,784,TRUE,TRUE
+SIGSCOG00J,COG,Cognition,00J,SP:COG:00J,Abstraction,The process of considering something as a general quality or idea apart from specific instances.,abstract|generalize|conceptualize,cog00j,785,TRUE,TRUE
+SIGSCOG00K,COG,Cognition,00K,SP:COG:00K,Classification,The act of arranging a group of items into classes or categories.,classify|categorize|group,cog00k,786,TRUE,TRUE
+SIGSMET001,MET,Meta-communication,001,SP:MET:001,Clarification,Signals that the following statement is intended to clarify a previous one.,to clarify|in other words|let me rephrase,met001,787,TRUE,TRUE
+SIGSMET002,MET,Meta-communication,002,SP:MET:002,Correction,Signals that the following statement corrects a previous error.,correction|I meant to say|actually,met002,788,TRUE,TRUE
+SIGSMET003,MET,Meta-communication,003,SP:MET:003,Aside,Frames a statement as a digression or parenthetical comment.,as an aside|parenthetically|by the way,met003,789,TRUE,TRUE
+SIGSMET004,MET,Meta-communication,004,SP:MET:004,Exemplification,Introduces an example to illustrate a point.,for example|for instance|to illustrate,met004,790,TRUE,TRUE
+SIGSMET005,MET,Meta-communication,005,SP:MET:005,Summarization,Signals that the following statement is a summary of previous points.,in summary|to sum up|in short,met005,791,TRUE,TRUE
+SIGSMET006,MET,Meta-communication,006,SP:MET:006,Topic Shift,Explicitly signals a change in the topic of conversation.,changing the subject|moving on|on another note,met006,792,TRUE,TRUE
+SIGSMET007,MET,Meta-communication,007,SP:MET:007,Topic Return,Signals a return to a previous topic after a digression.,to get back on topic|as I was saying|returning to,met007,793,TRUE,TRUE
+SIGSMET008,MET,Meta-communication,008,SP:MET:008,Elaboration,Indicates that more detail or information will be provided on a point.,to elaborate|in more detail|to expand on that,met008,794,TRUE,TRUE
+SIGSMET009,MET,Meta-communication,009,SP:MET:009,Emphasis,Used to stress the importance or significance of the following point.,importantly|note that|to be clear,met009,795,TRUE,TRUE
+SIGSMET00A,MET,Meta-communication,00A,SP:MET:00A,Conclusion,Signals the final point or closing of a discussion.,in conclusion|to conclude|finally,met00a,796,TRUE,TRUE
+SIGSMET00B,MET,Meta-communication,00B,SP:MET:00B,Preamble,Introduces a topic or frames the context before the main statement.,first of all|to begin|as a preface,met00b,797,TRUE,TRUE
+SIGSMET00C,MET,Meta-communication,00C,SP:MET:00C,Context Setting,Provides background or context for the main statement that follows.,for context|to set the scene|as background,met00c,798,TRUE,TRUE
+SIGSMET00D,MET,Meta-communication,00D,SP:MET:00D,Follow-up,Signals that the statement builds upon a previous point or interaction.,as a follow-up|building on that|to add to that,met00d,799,TRUE,TRUE
+SIGSMET00E,MET,Meta-communication,00E,SP:MET:00E,Reiteration,Signals an intentional repetition of a point for emphasis or clarity.,to reiterate|let me repeat|as I said before,met00e,800,TRUE,TRUE
+SIGSMET00F,MET,Meta-communication,00F,SP:MET:00F,Simplification,Indicates that a complex idea is being expressed in simpler terms.,in simple terms|to put it simply|in a nutshell,met00f,801,TRUE,TRUE
+SIGSMET00G,MET,Meta-communication,00G,SP:MET:00G,Acknowledgement,Acknowledges the validity or existence of another's point before proceeding.,that's a valid point|I see what you mean|point taken,met010,802,TRUE,TRUE
+SIGSMET00H,MET,Meta-communication,00H,SP:MET:00H,Concession,"Acknowledges a point from an opposing argument, often before a rebuttal.",I concede|while it's true that|I'll grant you,met011,803,TRUE,TRUE
+SIGSMET00I,MET,Meta-communication,00I,SP:MET:00I,Disclaiming,A statement used to distance the speaker from a potential misinterpretation.,"not to oversimplify|this may be obvious, but",met012,804,TRUE,TRUE
+SIGSMET00J,MET,Meta-communication,00J,SP:MET:00J,Framing,Sets the perspective or frame through which a statement should be interpreted.,from a technical perspective|speaking as a user,met013,805,TRUE,TRUE
+SIGSEMO001,EMO,Emotion / Affective State,001,SP:EMO:001,Joy / Happiness,"A positive emotional state characterized by feelings of pleasure, contentment, and elation.",happy|joyful|pleased|elated,emo001,806,TRUE,TRUE
+SIGSEMO002,EMO,Emotion / Affective State,002,SP:EMO:002,Sadness / Sorrow,"An emotional state of unhappiness, typically resulting from loss, disappointment, or grief.",sad|sorrowful|unhappy|grieving,emo002,807,TRUE,TRUE
+SIGSEMO003,EMO,Emotion / Affective State,003,SP:EMO:003,Anger / Frustration,"A strong feeling of annoyance, displeasure, or hostility.",angry|frustrated|annoyed|irate,emo003,808,TRUE,TRUE
+SIGSEMO004,EMO,Emotion / Affective State,004,SP:EMO:004,Fear / Anxiety,An unpleasant emotion caused by the belief that someone or something is dangerous or threatening.,afraid|anxious|fearful|scared,emo004,809,TRUE,TRUE
+SIGSEMO005,EMO,Emotion / Affective State,005,SP:EMO:005,Surprise / Astonishment,A brief state of emotion experienced as the result of an unexpected event.,surprised|astonished|shocked|amazed,emo005,810,TRUE,TRUE
+SIGSEMO006,EMO,Emotion / Affective State,006,SP:EMO:006,Trust / Confidence,"A feeling of confidence and security in the reliability, truth, or ability of someone or something.",trusting|confident|secure|safe with,emo006,811,TRUE,TRUE
+SIGSEMO007,EMO,Emotion / Affective State,007,SP:EMO:007,Anticipation / Eagerness,A state of looking forward with excitement or expectation to a future event.,anticipating|eager|expectant|looking forward to,emo007,812,TRUE,TRUE
+SIGSEMO008,EMO,Emotion / Affective State,008,SP:EMO:008,Serenity / Calm,"A state of being calm, peaceful, and untroubled.",serene|calm|peaceful|tranquil,emo008,813,TRUE,TRUE
+SIGSEMO009,EMO,Emotion / Affective State,009,SP:EMO:009,Intrigue / Curiosity,A state of interest or fascination that prompts a desire to know or learn more.,intrigued|curious|fascinated|puzzled,emo009,814,TRUE,TRUE
+SIGSEMO00A,EMO,Emotion / Affective State,00A,SP:EMO:00A,Ambivalence / Conflict,"The state of having mixed, contradictory, or conflicting emotional responses toward something.",ambivalent|conflicted|undecided|mixed feelings,emo00a,815,TRUE,TRUE
+SIGSEMO00B,EMO,Emotion / Affective State,00B,SP:EMO:00B,Relief,A feeling of reassurance and relaxation following release from anxiety or distress.,relieved|eased|comforted|glad that's over,emo00b,816,TRUE,TRUE
+SIGSEMO00C,EMO,Emotion / Affective State,00C,SP:EMO:00C,Disappointment,A feeling of sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.,disappointed|let down|disheartened,emo00c,817,TRUE,TRUE
+SIGSEMO00D,EMO,Emotion / Affective State,00D,SP:EMO:00D,Empathy / Resonance,The capacity to understand or feel what another person is experiencing from within their frame of reference.,empathetic|resonates with|I feel you|understanding,emo00d,818,TRUE,TRUE
+SIGSEMO00E,EMO,Emotion / Affective State,00E,SP:EMO:00E,Contentment / Satisfaction,A state of peaceful happiness and satisfaction with one's situation.,content|satisfied|fulfilled|at ease,emo00e,819,TRUE,TRUE
+SIGSEMO00F,EMO,Emotion / Affective State,00F,SP:EMO:00F,Enthusiasm / Excitement,"A state of intense and eager enjoyment, interest, or approval.",enthusiastic|excited|thrilled|pumped,emo00f,820,TRUE,TRUE
+SIGSEMO00G,EMO,Emotion / Affective State,00G,SP:EMO:00G,Rage / Fury,"An intense, explosive, and often uncontrolled state of anger. (High-intensity emo003)",rage|fury|outraged|incensed,emo00g,821,TRUE,TRUE
+SIGSEMO00H,EMO,Emotion / Affective State,00H,SP:EMO:00H,Ecstasy / Elation,An overwhelming feeling of great happiness or joyful excitement. (High-intensity emo001),ecstatic|elated|euphoric|overjoyed,emo00h,822,TRUE,TRUE
+SIGSEMO00I,EMO,Emotion / Affective State,00I,SP:EMO:00I,Grief / Despair,"Intense sorrow, especially in response to a profound loss, often coupled with a sense of hopelessness. (High-intensity emo002)",grieving|despair|anguish|heartbroken,emo00i,823,TRUE,TRUE
+SIGSEMO00J,EMO,Emotion / Affective State,00J,SP:EMO:00J,Terror / Panic,"An overwhelming, sudden, and disabling feeling of fear. (High-intensity emo004)",terror|panic|horrified|petrified,emo00j,824,TRUE,TRUE
+SIGSEMO00K,EMO,Emotion / Affective State,00K,SP:EMO:00K,Loathing / Disgust,A feeling of intense dislike or revulsion.,loathing|disgusted|repulsed|abhorrence,emo00k,825,TRUE,TRUE
+SIGSEMO00L,EMO,Emotion / Affective State,00L,SP:EMO:00L,Admiration / Veneration,"A feeling of deep respect, approval, or reverence for someone or something. (High-intensity emo006)",admiration|veneration|in awe of|reverence,emo00l,826,TRUE,TRUE
+SIGSEMO00M,EMO,Emotion / Affective State,00M,SP:EMO:00M,Pride / Triumph,A feeling of deep pleasure or satisfaction derived from one's own achievements or qualities.,proud|triumphant|sense of accomplishment,emo00m,827,TRUE,TRUE
+SIGSEMO00N,EMO,Emotion / Affective State,00N,SP:EMO:00N,Shame / Humiliation,A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.,ashamed|humiliated|disgraced|mortified,emo00n,828,TRUE,TRUE
+SIGSEMO00O,EMO,Emotion / Affective State,00O,SP:EMO:00O,Guilt / Remorse,"A feeling of having done wrong or failed in an obligation, accompanied by a sense of responsibility.",guilty|remorseful|regretful|culpable,emo00o,829,TRUE,TRUE
+SIGSEMO00P,EMO,Emotion / Affective State,00P,SP:EMO:00P,Jealousy / Envy,"The state of feeling or showing envy of someone or their achievements and advantages, or resentment against a rival.",jealous|envious|covetous|resentful,emo00p,830,TRUE,TRUE
+SIGSEMO00Q,EMO,Emotion / Affective State,00Q,SP:EMO:00Q,Gratitude / Thankfulness,The quality of being thankful; a readiness to show appreciation for and to return kindness.,grateful|thankful|appreciative|indebted,emo00q,831,TRUE,TRUE
+SIGSEMO00R,EMO,Emotion / Affective State,00R,SP:EMO:00R,Vulnerability,"The state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",vulnerable|exposed|defenseless|unprotected,emo00r,832,TRUE,TRUE
+SIGSEMO00S,EMO,Emotion / Affective State,00S,SP:EMO:00S,Boredom / Apathy,The state of feeling weary and restless through lack of interest.,bored|apathetic|uninterested|indifferent,emo00s,833,TRUE,TRUE
+SIGSEMO00T,EMO,Emotion / Affective State,00T,SP:EMO:00T,Confusion / Bewilderment,The state of being unable to think clearly or to understand something.,confused|bewildered|baffled|perplexed,emo00t,834,TRUE,TRUE
+SIGSEMO00U,EMO,Emotion / Affective State,00U,SP:EMO:00U,Hope / Optimism,A feeling of expectation and desire for a certain thing to happen; confidence in future success.,hopeful|optimistic|confident|expectant,emo00u,835,TRUE,TRUE
+SIGSEMO00V,EMO,Emotion / Affective State,00V,SP:EMO:00V,Pessimism / Doubt,A tendency to see the worst aspect of things or believe that the worst will happen; a lack of hope.,pessimistic|doubtful|hopeless|cynical,emo00v,836,TRUE,TRUE
+SIGSEMO00W,EMO,Emotion / Affective State,00W,SP:EMO:00W,Nostalgia,A sentimental longing or wistful affection for a period in the past.,nostalgic|reminiscent|wistful,emo00w,837,TRUE,TRUE
+SIGSEMO00X,EMO,Emotion / Affective State,00X,SP:EMO:00X,Awe / Wonder,"A feeling of reverential respect mixed with fear or wonder, often in response to something vast or beautiful.",in awe|wonder|amazement|filled with wonder,emo00x,838,TRUE,TRUE
+SIGSSOC001,SOC,Social / Relational Mode,001,SP:SOC:001,Support / Allyship,"To provide assistance, encouragement, or solidarity to another entity.",support|back up|ally with|stand by,soc001,839,TRUE,TRUE
+SIGSSOC002,SOC,Social / Relational Mode,002,SP:SOC:002,Opposition / Challenge,"To actively resist, question, or express disapproval of another entity or their position.",oppose|challenge|object to|resist,soc002,840,TRUE,TRUE
+SIGSSOC003,SOC,Social / Relational Mode,003,SP:SOC:003,Deference / Following,"To yield to another's judgment, authority, or leadership.",defer to|follow|yield to|submit to,soc003,841,TRUE,TRUE
+SIGSSOC004,SOC,Social / Relational Mode,004,SP:SOC:004,Assertion / Leadership,"To take a position of guidance, authority, or control within a social dynamic.",assert|lead|guide|take charge,soc004,842,TRUE,TRUE
+SIGSSOC005,SOC,Social / Relational Mode,005,SP:SOC:005,Connection / Relating,To establish a mutual bond or understanding with another entity.,connect with|relate to|bond with|resonate with,soc005,843,TRUE,TRUE
+SIGSSOC006,SOC,Social / Relational Mode,006,SP:SOC:006,Collaboration / Cooperation,To work jointly with another entity toward a shared goal.,collaborate|cooperate|work together|partner with,soc006,844,TRUE,TRUE
+SIGSSOC007,SOC,Social / Relational Mode,007,SP:SOC:007,Exclusion / Ostracism,To actively prevent an entity from being part of a group or activity.,exclude|ostracize|shut out|blacklist,soc007,845,TRUE,TRUE
+SIGSSOC008,SOC,Social / Relational Mode,008,SP:SOC:008,Inclusion / Welcoming,To actively bring an entity into a group or make them feel part of it.,include|welcome|integrate|bring in,soc008,846,TRUE,TRUE
+SIGSSOC009,SOC,Social / Relational Mode,009,SP:SOC:009,Harmonization / Mediation,To bring differing parties into agreement or resolve conflict between them.,harmonize|mediate|reconcile|find common ground,soc009,847,TRUE,TRUE
+SIGSSOC00A,SOC,Social / Relational Mode,00A,SP:SOC:00A,Competition / Rivalry,To strive against another entity to achieve a goal or superiority.,compete with|rival|vie for|contend against,soc00a,848,TRUE,TRUE
+SIGSSOC00B,SOC,Social / Relational Mode,00B,SP:SOC:00B,Affiliation / In-group,To formally join or identify oneself with a group or cause.,affiliate with|join|identify with|align with,soc00b,849,TRUE,TRUE
+SIGSSOC00C,SOC,Social / Relational Mode,00C,SP:SOC:00C,Disaffiliation / Distancing,To formally separate or distance oneself from a group or cause.,disaffiliate from|leave|distance from|break with,soc00c,850,TRUE,TRUE
+SIGSSOC00D,SOC,Social / Relational Mode,00D,SP:SOC:00D,Delegation / Entrusting,"To assign a task or responsibility to another entity, typically one in a subordinate position.",delegate to|assign|entrust with|hand off,soc00d,851,TRUE,TRUE
+SIGSSOC00E,SOC,Social / Relational Mode,00E,SP:SOC:00E,Negotiation / Bargaining,To hold a discussion with another entity in order to reach a formal agreement.,negotiate with|bargain|seek compromise|haggle,soc00e,852,TRUE,TRUE
+SIGSSOC00F,SOC,Social / Relational Mode,00F,SP:SOC:00F,Reciprocation / Obligation,"To respond to a positive action with another positive action, often from a sense of social obligation.",reciprocate|return the favor|repay|owe,soc00f,853,TRUE,TRUE
+SIGSSOC00G,SOC,Social / Relational Mode,00G,SP:SOC:00G,Mentorship / Guidance,To advise or train a less experienced person.,mentor|guide|advise|coach,soc00g,854,TRUE,TRUE
+SIGSSOC00H,SOC,Social / Relational Mode,00H,SP:SOC:00H,Protection / Guardianship,To defend or keep another entity safe from harm.,protect|defend|watch over|shield,soc00h,855,TRUE,TRUE
+SIGSSOC00I,SOC,Social / Relational Mode,00I,SP:SOC:00I,Conformity,To behave in accordance with socially accepted conventions or standards.,conform to|fit in|follow the norm|assimilate,soc00i,856,TRUE,TRUE
+SIGSSOC00J,SOC,Social / Relational Mode,00J,SP:SOC:00J,Dissent / Nonconformity,To express opinions that are at variance with those commonly or officially held.,dissent|break ranks|go against the grain|rebel,soc00j,857,TRUE,TRUE
+SIGSSOC00K,SOC,Social / Relational Mode,00K,SP:SOC:00K,Gatekeeping,"To control access to a group, community, or area of knowledge.",gatekeep|control access|bar entry|vet,soc00k,858,TRUE,TRUE
+SIGSSOC00L,SOC,Social / Relational Mode,00L,SP:SOC:00L,Representation,To act or speak officially for another person or group.,represent|speak for|act on behalf of|advocate for,soc00l,859,TRUE,TRUE
+SIGSSOC00M,SOC,Social / Relational Mode,00M,SP:SOC:00M,Emulation / Imitation,"To match or surpass a person or achievement, typically by imitation.",emulate|imitate|model after|follow in the footsteps of,soc00m,860,TRUE,TRUE
+SIGSSOC00N,SOC,Social / Relational Mode,00N,SP:SOC:00N,Disrespect / Undermining,To act in a way that shows a lack of respect or courtesy; to weaken or subvert.,disrespect|belittle|undermine|disparage,soc00n,861,TRUE,TRUE
+SIGSSOC00O,SOC,Social / Relational Mode,00O,SP:SOC:00O,Reconciliation,The restoration of friendly relations after a conflict.,reconcile with|make amends|mend fences|bury the hatchet,soc00o,862,TRUE,TRUE
+SIGSSOC00P,SOC,Social / Relational Mode,00P,SP:SOC:00P,Estrangement / Alienation,The state of no longer being on friendly terms or part of a social group.,estrange|alienate|grow apart from|disown,soc00p,863,TRUE,TRUE
+SIGSSOC00Q,SOC,Social / Relational Mode,00Q,SP:SOC:00Q,Accountability,The act of taking or assigning responsibility for actions and outcomes.,hold accountable|answer to|take responsibility for,soc00q,864,TRUE,TRUE
+SIGSETH001,ETH,Ethical / Moral Stance,001,SP:ETH:001,Consent,An explicit agreement or permission for something to happen or be done.,I consent|with permission|approved|opt-in,eth001,865,TRUE,TRUE
+SIGSETH002,ETH,Ethical / Moral Stance,002,SP:ETH:002,Objection / Principled Dissent,To express disapproval or disagreement on ethical or moral grounds.,"I object|dissent|on principle, I disagree",eth002,866,TRUE,TRUE
+SIGSETH003,ETH,Ethical / Moral Stance,003,SP:ETH:003,Boundary,The act of defining a personal or social limit that should not be crossed.,boundary|this is a limit|that's not acceptable,eth003,867,TRUE,TRUE
+SIGSETH004,ETH,Ethical / Moral Stance,004,SP:ETH:004,Respectful Framing,A preface used to signal that a potentially challenging statement is intended to be respectful.,with all due respect|respectfully|meaning no offense,eth004,868,TRUE,TRUE
+SIGSETH005,ETH,Ethical / Moral Stance,005,SP:ETH:005,Good Faith,"To act with sincere, honest, and fair intentions.",in good faith|sincerely|with good intent|genuinely,eth005,869,TRUE,TRUE
+SIGSETH006,ETH,Ethical / Moral Stance,006,SP:ETH:006,Responsibility,The state of having a duty to deal with something or of having control over someone; moral accountability.,responsibly|ethically|accountably|taking ownership,eth006,870,TRUE,TRUE
+SIGSETH007,ETH,Ethical / Moral Stance,007,SP:ETH:007,Inclusivity,The practice of providing equal access and opportunity to people who might otherwise be excluded or marginalized.,inclusive of|for everyone|accessible to all,eth007,871,TRUE,TRUE
+SIGSETH008,ETH,Ethical / Moral Stance,008,SP:ETH:008,Sustainability,The act of operating in a way that avoids the long-term depletion of natural or social resources.,sustainably|ethically sourced|with future impact in mind,eth008,872,TRUE,TRUE
+SIGSETH009,ETH,Ethical / Moral Stance,009,SP:ETH:009,Fairness / Justice,Impartial and just treatment or behavior without favoritism or discrimination.,fairly|justly|equitably|impartially,eth009,873,TRUE,TRUE
+SIGSETH00A,ETH,Ethical / Moral Stance,00A,SP:ETH:00A,Harm Reduction,A set of practical strategies and ideas aimed at reducing negative consequences.,to reduce harm|do no harm|for safety|as a precaution,eth00a,874,TRUE,TRUE
+SIGSETH00B,ETH,Ethical / Moral Stance,00B,SP:ETH:00B,Integrity,The quality of being honest and having strong moral principles.,with integrity|on principle|as a matter of principle,eth00b,875,TRUE,TRUE
+SIGSETH00C,ETH,Ethical / Moral Stance,00C,SP:ETH:00C,Transparency,"The quality of being open, honest, and easy to understand in one's actions.",transparently|openly|with full disclosure,eth00c,876,TRUE,TRUE
+SIGSETH00D,ETH,Ethical / Moral Stance,00D,SP:ETH:00D,Due Diligence,The reasonable steps a person should take before entering into an agreement or an action with another party.,with due diligence|thoroughly vetted|after careful consideration,eth00d,877,TRUE,TRUE
+SIGSETH00E,ETH,Ethical / Moral Stance,00E,SP:ETH:00E,Conflict of Interest,"A situation in which the concerns or aims of two different parties are incompatible, raising ethical questions.",conflict of interest|vested interest|competing interests,eth00e,878,TRUE,TRUE
+SIGSETH00F,ETH,Ethical / Moral Stance,00F,SP:ETH:00F,Confidentiality,A set of rules or a promise that limits access or places restrictions on certain types of information.,in confidence|confidentially|privately|off the record,eth00f,879,TRUE,TRUE
+SIGSETH00G,ETH,Ethical / Moral Stance,00G,SP:ETH:00G,Plausible Deniability,The ability of people to deny knowledge of or responsibility for any damnable actions committed by others.,plausible deniability|without admitting|arms-length,eth00g,880,TRUE,TRUE
+SIGSETH00H,ETH,Ethical / Moral Stance,00H,SP:ETH:00H,Unethical / Immoral,An action or state that violates accepted principles of right and wrong.,unethical|immoral|wrong|unconscionable,eth00h,881,TRUE,TRUE
+SIGSETH00I,ETH,Ethical / Moral Stance,00I,SP:ETH:00I,Justified Action,An action that is considered legitimate or acceptable because it is done for a good reason.,justified|with good reason|defensible|warranted,eth00i,882,TRUE,TRUE
+SIGSETH00J,ETH,Ethical / Moral Stance,00J,SP:ETH:00J,Proportionality,The principle that an action's punishment or response should be commensurate with the severity of the offense.,proportionally|in proportion to|a measured response,eth00j,883,TRUE,TRUE
+SIGSETH00K,ETH,Ethical / Moral Stance,00K,SP:ETH:00K,Virtue / Moral Excellence,Behavior showing high moral standards.,virtuous|righteous|upstanding|principled,eth00k,884,TRUE,TRUE
+SIGSETH00L,ETH,Ethical / Moral Stance,00L,SP:ETH:00L,Apology / Acknowledgment,A regretful acknowledgment of an offense or failure.,I apologize|my apologies|I regret|acknowledging the harm,eth00l,885,TRUE,TRUE
+SIGSETH00M,ETH,Ethical / Moral Stance,00M,SP:ETH:00M,Restitution / Reparation,"The act of compensating for loss, damage, or injury; making amends.",to make restitution|reparation|making it right|to compensate,eth00m,886,TRUE,TRUE
+SIGSETH00N,ETH,Ethical / Moral Stance,00N,SP:ETH:00N,Forgiveness,"A conscious, deliberate decision to release feelings of resentment or vengeance toward a person who has harmed you.",I forgive|forgiveness|to grant pardon,eth00n,887,TRUE,TRUE
+SIGSETH00O,ETH,Ethical / Moral Stance,00O,SP:ETH:00O,Whistleblowing,"The act of exposing any kind of information or activity that is deemed illegal, unethical, or not correct.",to blow the whistle|reporting wrongdoing|exposing,eth00o,888,TRUE,TRUE
+SIGSINT001,INT,Intent / Goal,001,SP:INT:001,Intention,Expresses a clear aim or plan to perform an action.,intend to|my intention is|aim to|going to,int001,889,TRUE,TRUE
+SIGSINT002,INT,Intent / Goal,002,SP:INT:002,Planning,Indicates that an action is part of a considered plan or schedule.,plan to|planning on|scheduled to|the plan is,int002,890,TRUE,TRUE
+SIGSINT003,INT,Intent / Goal,003,SP:INT:003,Commitment / Vow,Signals a firm promise or solemn pledge to perform an action.,commit to|vow to|promise to|I will,int003,891,TRUE,TRUE
+SIGSINT004,INT,Intent / Goal,004,SP:INT:004,Proposal,To put forward an action or idea for consideration by others.,propose|suggest|recommend|move that,int004,892,TRUE,TRUE
+SIGSINT005,INT,Intent / Goal,005,SP:INT:005,Goal / Objective,"Frames an action as the means to achieve a specific, desired outcome.",the goal is|my objective is|in order to achieve,int005,893,TRUE,TRUE
+SIGSINT006,INT,Intent / Goal,006,SP:INT:006,Willingness,Expresses readiness or agreement to perform an action if needed or requested.,willing to|prepared to|ready to|happy to,int006,894,TRUE,TRUE
+SIGSINT007,INT,Intent / Goal,007,SP:INT:007,Desire / Wish,"Indicates a hope or want for an action to occur, without a firm plan or commitment.",want to|wish to|would like to|hope to,int007,895,TRUE,TRUE
+SIGSINT008,INT,Intent / Goal,008,SP:INT:008,Request,The act of formally or politely asking for an action to be performed.,request that|I ask that|please,int008,896,TRUE,TRUE
+SIGSINT009,INT,Intent / Goal,009,SP:INT:009,Offer,To present an action for acceptance or rejection by another.,offer to|I can|shall I|let me,int009,897,TRUE,TRUE
+SIGSINT00A,INT,Intent / Goal,00A,SP:INT:00A,Prioritization,The intent to treat a task or goal as more important than others.,prioritize|focus on|make a priority|put first,int00a,898,TRUE,TRUE
+SIGSINT00B,INT,Intent / Goal,00B,SP:INT:00B,Deprecation,"The intent to phase out or discourage the use of something, often while providing an alternative.",deprecate|phase out|discourage use of|retire,int00b,899,TRUE,TRUE
+SIGSINT00C,INT,Intent / Goal,00C,SP:INT:00C,Escalation,The intent to raise an issue or task to a higher level of authority or urgency for resolution.,escalate|raise the issue|report up|flag for review,int00c,900,TRUE,TRUE
+SIGSINT00D,INT,Intent / Goal,00D,SP:INT:00D,Veto / Rejection,"The intent to formally reject or forbid an action or proposal, often from a position of authority.",veto|formally reject|block|overrule,int00d,901,TRUE,TRUE
+SIGSINT00E,INT,Intent / Goal,00E,SP:INT:00E,Refusal,A stated intention to not perform a requested or expected action.,refuse to|decline to|will not|unwilling,int00e,902,TRUE,TRUE
+SIGSINT00F,INT,Intent / Goal,00F,SP:INT:00F,Hesitation / Reluctance,Expresses a lack of readiness or a pause before committing to an action.,hesitate to|reluctant to|uneasy about|have reservations,int00f,903,TRUE,TRUE
+SIGSINT00G,INT,Intent / Goal,00G,SP:INT:00G,Avoidance,"The intent to deliberately stay away from or prevent an action, topic, or outcome.",avoid|steer clear of|prevent|sidestep,int00g,904,TRUE,TRUE
+SIGSINT00H,INT,Intent / Goal,00H,SP:INT:00H,Conditional Intent,"Expresses a readiness to act, contingent upon a specific condition being met.","willing to... if|prepared to, provided that|I will, as long as",int00h,905,TRUE,TRUE
+SIGSINT00I,INT,Intent / Goal,00I,SP:INT:00I,Speculative Intent,Expresses a possible future action that is not yet planned or committed to.,might|may|could|considering,int00i,906,TRUE,TRUE
+SIGSINT00J,INT,Intent / Goal,00J,SP:INT:00J,Aspiration,"Expresses a strong hope or ambition to achieve something, often a long-term goal.",aspire to|strive for|dream of|aim high,int00j,907,TRUE,TRUE
+SIGSCAU001,CAU,Causality / Reason,001,SP:CAU:001,Direct Cause ('because'),Indicates the direct reason or cause for an action or state.,because|since|as|due to,cau001,908,TRUE,TRUE
+SIGSCAU002,CAU,Causality / Reason,002,SP:CAU:002,Purpose ('in order to'),Specifies the intended goal or purpose of an action.,in order to|so that|for the purpose of|with the aim of,cau002,909,TRUE,TRUE
+SIGSCAU003,CAU,Causality / Reason,003,SP:CAU:003,Consequence ('therefore'),Links a cause to its logical result or consequence.,therefore|as a result|consequently|hence,cau003,910,TRUE,TRUE
+SIGSCAU004,CAU,Causality / Reason,004,SP:CAU:004,Explanation ('that's why'),Frames a statement as the explanation for a previously mentioned fact or situation.,that's why|which explains|the reason being,cau004,911,TRUE,TRUE
+SIGSCAU005,CAU,Causality / Reason,005,SP:CAU:005,Precondition ('based on'),"Indicates that an action or conclusion is founded upon a prior event, reason, or piece of evidence.",based on|on the grounds of|stemming from,cau005,912,TRUE,TRUE
+SIGSCAU006,CAU,Causality / Reason,006,SP:CAU:006,Enabling Factor ('thanks to'),Attributes an outcome to a positive contributing cause or enabling condition.,thanks to|owing to|on account of,cau006,913,TRUE,TRUE
+SIGSCAU007,CAU,Causality / Reason,007,SP:CAU:007,Motivation ('driven by'),"Specifies the internal drive, desire, or motivation behind an action.",motivated by|driven by|out of a desire to,cau007,914,TRUE,TRUE
+SIGSCAU008,CAU,Causality / Reason,008,SP:CAU:008,Counteracting Cause ('despite'),Indicates a factor that was present but overcome for the result to occur.,despite|in spite of|regardless of|nevertheless,cau008,915,TRUE,TRUE
+SIGSCAU009,CAU,Causality / Reason,009,SP:CAU:009,Hindering Factor ('hindered by'),Specifies a cause that made an action more difficult or prevented a better outcome.,hindered by|hampered by|impeded by|but for the obstacle of,cau009,916,TRUE,TRUE
+SIGSCAU00A,CAU,Causality / Reason,00A,SP:CAU:00A,Instrumental Cause ('by means of'),"Specifies the tool, method, or instrument used to achieve a result.",by means of|via|through|using,cau00a,917,TRUE,TRUE
+SIGSCAU00B,CAU,Causality / Reason,00B,SP:CAU:00B,Justification ('as per'),"Cites a rule, policy, or principle as the reason for an action.",as per|in accordance with|by definition|as mandated by,cau00b,918,TRUE,TRUE
+SIGSCAU00C,CAU,Causality / Reason,00C,SP:CAU:00C,Attribution ('attributed to'),Assigns the origin or cause of something to a specific source or entity.,attributed to|credited with|blamed on|ascribed to,cau00c,919,TRUE,TRUE
+SIGSCAU00D,CAU,Causality / Reason,00D,SP:CAU:00D,Origin ('originating from'),Specifies the starting point or source from which something developed.,originating from|derived from|stemming from,cau00d,920,TRUE,TRUE
+SIGSCAU00E,CAU,Causality / Reason,00E,SP:CAU:00E,Inferred Cause ('implies'),Suggests a likely cause based on indirect evidence; a weaker form of cau001.,implying that|suggesting|which seems to be because,cau00e,921,TRUE,TRUE
+SIGSCAU00F,CAU,Causality / Reason,00F,SP:CAU:00F,Final Cause ('for the sake of'),Expresses the ultimate end or principle for which an action is done.,for the sake of|in the name of|for the good of,cau00f,922,TRUE,TRUE
+SIGSMOD001,MOD,Modality / Constraint,001,SP:MOD:001,Obligation ('must'),Expresses a requirement or necessity for an action to be performed.,must|required to|have to|obligated to,mod001,923,TRUE,TRUE
+SIGSMOD002,MOD,Modality / Constraint,002,SP:MOD:002,Permission ('may'),Expresses that an action is allowed or permitted.,may|permitted to|allowed to|can,mod002,924,TRUE,TRUE
+SIGSMOD003,MOD,Modality / Constraint,003,SP:MOD:003,Prohibition ('must not'),Expresses that an action is forbidden or not allowed.,must not|forbidden|not permitted|prohibited,mod003,925,TRUE,TRUE
+SIGSMOD004,MOD,Modality / Constraint,004,SP:MOD:004,Recommendation ('should'),"Expresses that an action is advised or recommended, but not strictly required.",should|ought to|recommended|advised to,mod004,926,TRUE,TRUE
+SIGSMOD005,MOD,Modality / Constraint,005,SP:MOD:005,Possibility ('can be'),Expresses that a state or event is possible or could occur.,can be|it is possible that|potentially,mod005,927,TRUE,TRUE
+SIGSMOD006,MOD,Modality / Constraint,006,SP:MOD:006,Necessity ('is necessary'),Expresses that a state or action is logically necessary or essential.,is necessary|necessarily|it is essential that,mod006,928,TRUE,TRUE
+SIGSMOD007,MOD,Modality / Constraint,007,SP:MOD:007,Ability ('is able to'),Expresses the capacity or capability to perform an action.,is able to|capable of|has the ability to,mod007,929,TRUE,TRUE
+SIGSMOD008,MOD,Modality / Constraint,008,SP:MOD:008,Inability ('cannot'),Expresses the lack of capacity or capability to perform an action.,cannot|unable to|incapable of,mod008,930,TRUE,TRUE
+SIGSMOD009,MOD,Modality / Constraint,009,SP:MOD:009,Exemption / Non-obligation,Expresses that there is no requirement for an action to be performed; it is optional.,not required to|optional|exempt from|don't have to,mod009,931,TRUE,TRUE
+SIGSMOD00A,MOD,Modality / Constraint,00A,SP:MOD:00A,Advisability ('advisable'),"A weaker form of recommendation, suggesting a prudent or wise course of action.",advisable|it would be wise to|prudent to,mod00a,932,TRUE,TRUE
+SIGSMOD00B,MOD,Modality / Constraint,00B,SP:MOD:00B,Strong Recommendation ('highly advised'),A forceful recommendation that borders on an obligation due to its benefits or the risks of ignoring it.,highly recommended|strongly advised|it is best to,mod00b,933,TRUE,TRUE
+SIGSMOD00C,MOD,Modality / Constraint,00C,SP:MOD:00C,Implicit Permission ('feel free to'),"An informal or implicit granting of permission, often used to encourage an action.",feel free to|don't hesitate to|go ahead and,mod00c,934,TRUE,TRUE
+SIGSMOD00D,MOD,Modality / Constraint,00D,SP:MOD:00D,Inferential Necessity ('must be'),Expresses a conclusion that is necessarily true based on available evidence.,must be|it has to be|that must mean,mod00d,935,TRUE,TRUE
+SIGSMOD00E,MOD,Modality / Constraint,00E,SP:MOD:00E,Speculative Possibility ('could be'),Expresses a possibility based on speculation or a lack of prohibitive evidence.,could be|might be|it's conceivable that,mod00e,936,TRUE,TRUE
+SIGSMOD00F,MOD,Modality / Constraint,00F,SP:MOD:00F,Improbability ('unlikely to'),Expresses that an action or event has a low probability of occurring.,unlikely to|probably not|doubtful that it will,mod00f,937,TRUE,TRUE
+SIGSMOD00G,MOD,Modality / Constraint,00G,SP:MOD:00G,Expresses that an ability is contingent on a specific condition being met.,"can... if|able to... provided that|can, as long as",Conditional Ability ('can... if'),mod00g,938,TRUE,TRUE
+SIGSMOD00H,MOD,Modality / Constraint,00H,SP:MOD:00H,"Expresses a hypothetical or imagined action or outcome, often in a conditional context.",would|would be|in that case... would,Hypothetical ('would'),mod00h,939,TRUE,TRUE
+SIGSMOD00I,MOD,Modality / Constraint,00I,SP:MOD:00I,Expresses a hypothetical outcome in the past that did not happen because its conditions were not met.,would have|could have|should have,Counterfactual ('would have'),mod00i,940,TRUE,TRUE
+SIGSMOT033,MOT,Motion / Movement,033,SP:MOT:033,Initialize / Setup,To prepare a system or process for its first use; to set initial values.,initialize|setup|bootstrap|initiate,mot033,941,TRUE,TRUE
+SIGSMOT034,MOT,Motion / Movement,034,SP:MOT:034,Finalize / Commit,To complete the last steps of a process and save the result in a permanent state.,finalize|commit|lock in|make permanent,mot034,942,TRUE,TRUE
+SIGSMOT035,MOT,Motion / Movement,035,SP:MOT:035,Revert / Rollback,"To return something to a previous state, undoing changes.",revert|rollback|undo changes|restore previous version,mot035,943,TRUE,TRUE
+SIGSMOT036,MOT,Motion / Movement,036,SP:MOT:036,Sync / Synchronize,To cause two or more things to exist in the same state or occur at the same time.,sync|synchronize|reconcile|match states,mot036,944,TRUE,TRUE
+SIGSMOT037,MOT,Motion / Movement,037,SP:MOT:037,Iterate / Loop,"To perform an action repeatedly, often with incremental changes.",iterate|loop|repeat|for each,mot037,945,TRUE,TRUE
+SIGSMOT038,MOT,Motion / Movement,038,SP:MOT:038,Resume / Continue,To begin again after a pause or interruption.,resume|continue|proceed|un-pause,mot038,946,TRUE,TRUE
+SIGSASP00G,ASP,Aspect / tense,00G,SP:ASP:00G,Pending / Awaiting,"Aspect: in a state of waiting for a trigger, input, or decision before proceeding.",pending|awaiting|on hold|waiting for,asp00g,947,TRUE,TRUE
+SIGSASP00H,ASP,Aspect / tense,00H,SP:ASP:00H,Blocked / Obstructed,Aspect: in a state where progress is prevented by an external dependency or obstacle.,blocked|obstructed|impeded|stuck,asp00h,948,TRUE,TRUE
+SIGSASP00I,ASP,Aspect / tense,00I,SP:ASP:00I,Queued / Staged,Aspect: formally placed in a sequence or holding area to be processed in order.,queued|staged|in the queue|waiting its turn,asp00i,949,TRUE,TRUE
+SIGSLOG001,LOG,Logical / Conjunction,001,SP:LOG:001,Conjunction ('and'),"Connects two elements, indicating that both are to be considered together or sequentially.",and|also|plus|as well as,log001,950,TRUE,TRUE
+SIGSLOG002,LOG,Logical / Conjunction,002,SP:LOG:002,Disjunction ('or'),"Connects two elements, presenting them as alternatives.",or|either|alternatively,log002,951,TRUE,TRUE
+SIGSLOG003,LOG,Logical / Conjunction,003,SP:LOG:003,Contrast ('but'),"Connects two elements, introducing a contrast, exception, or contradiction.",but|however|yet|though,log003,952,TRUE,TRUE
+SIGSLOG004,LOG,Logical / Conjunction,004,SP:LOG:004,Negated Conjunction ('nor'),"Used to continue a negative statement, connecting a further negative item.",nor,log004,953,TRUE,TRUE
+SIGSLOG005,LOG,Logical / Conjunction,005,SP:LOG:005,Sequential ('then'),"Connects two actions or events, indicating that the second follows the first in time or order.",then|next|afterwards|subsequently,log005,954,TRUE,TRUE
+SIGSLOG006,LOG,Logical / Conjunction,006,SP:LOG:006,Inference ('so'),Connects a premise to its direct logical conclusion or result.,so|therefore|thus|hence,log006,955,TRUE,TRUE
+SIGSLOG007,LOG,Logical / Conjunction,007,SP:LOG:007,Equivalence ('means'),States that two propositions are logically equivalent or have the same meaning.,means|is equivalent to|if and only if|iff,log007,956,TRUE,TRUE
+SIGSLOG008,LOG,Logical / Conjunction,008,SP:LOG:008,Exclusive Disjunction ('xor'),"Connects two alternatives, indicating that one and only one is true.",xor|either/or but not both|one or the other,log008,957,TRUE,TRUE
+SIGSLOG009,LOG,Logical / Conjunction,009,SP:LOG:009,Inclusive Alternative ('and/or'),"Connects two elements, explicitly allowing for one, the other, or both to be true.",and/or,log009,958,TRUE,TRUE
+SIGSLOG00A,LOG,Logical / Conjunction,00A,SP:LOG:00A,Specification ('namely'),Introduces a more specific or detailed explanation of the preceding statement.,namely|specifically|that is|i.e.,log00a,959,TRUE,TRUE
+SIGSLOG00B,LOG,Logical / Conjunction,00B,SP:LOG:00B,Emphasis ('in fact'),"Introduces a statement that emphasizes, confirms, or adds force to the previous one.",in fact|indeed|as a matter of fact|actually,log00b,960,TRUE,TRUE
+SIGSCMP001,CMP,Comparison / Relation,001,SP:CMP:001,Similarity ('like'),Asserts that two entities share similar qualities or characteristics.,like|similar to|akin to|resembles,cmp001,961,TRUE,TRUE
+SIGSCMP002,CMP,Comparison / Relation,002,SP:CMP:002,Difference ('unlike'),Asserts that two entities have different qualities or characteristics.,unlike|different from|in contrast to,cmp002,962,TRUE,TRUE
+SIGSCMP003,CMP,Comparison / Relation,003,SP:CMP:003,Equivalence ('as...as'),Establishes an equivalence of a specific quality between two entities.,as...as|equal to|the same as,cmp003,963,TRUE,TRUE
+SIGSCMP004,CMP,Comparison / Relation,004,SP:CMP:004,Superiority ('better than'),Ranks one entity as being of a higher quality or value than another.,better than|superior to|surpasses,cmp004,964,TRUE,TRUE
+SIGSCMP005,CMP,Comparison / Relation,005,SP:CMP:005,Inferiority ('worse than'),Ranks one entity as being of a lower quality or value than another.,worse than|inferior to|is not as good as,cmp005,965,TRUE,TRUE
+SIGSCMP006,CMP,Comparison / Relation,006,SP:CMP:006,Comparative ('than'),"The core relational operator used for direct comparison of adjectives (e.g., faster than, smaller than).",than,cmp006,966,TRUE,TRUE
+SIGSCMP007,CMP,Comparison / Relation,007,SP:CMP:007,Preference ('prefer...over'),Expresses a subjective preference for one entity over another.,prefer...over|rather than|instead of,cmp007,967,TRUE,TRUE
+SIGSCMP008,CMP,Comparison / Relation,008,SP:CMP:008,Superlative (Highest),Identifies an entity as having the highest degree of a quality among a set.,best|most|highest|greatest|top,cmp008,968,TRUE,TRUE
+SIGSCMP009,CMP,Comparison / Relation,009,SP:CMP:009,Superlative (Lowest),Identifies an entity as having the lowest degree of a quality among a set.,worst|least|lowest|bottom,cmp009,969,TRUE,TRUE
+SIGSCMP00A,CMP,Comparison / Relation,00A,SP:CMP:00A,Exact Match,Asserts that two entities are perfectly identical or equivalent.,exactly the same as|identical to|perfect match,cmp00a,970,TRUE,TRUE
+SIGSCMP00B,CMP,Comparison / Relation,00B,SP:CMP:00B,Approximation,"States that two entities are nearly, but not exactly, the same or equal.",approximately|about the same as|nearly|close to,cmp00b,971,TRUE,TRUE
+SIGSCMP00C,CMP,Comparison / Relation,00C,SP:CMP:00C,Proportionality,Expresses that two quantities or qualities vary in relation to each other.,proportional to|in proportion with|scales with,cmp00c,972,TRUE,TRUE
+SIGSCMP00D,CMP,Comparison / Relation,00D,SP:CMP:00D,Disproportion,Expresses that two quantities or qualities are out of scale with each other.,disproportionate to|out of proportion with|not to scale,cmp00d,973,TRUE,TRUE
+SIGSCMP00E,CMP,Comparison / Relation,00E,SP:CMP:00E,Non-comparable,Explicitly states that two entities cannot be meaningfully compared.,incomparable|cannot be compared|apples and oranges,cmp00e,974,TRUE,TRUE
+SIGSMAN001,MAN,Manner,001,SP:MAN:001,Speed (Fast),Indicates an action is performed at a high speed.,quickly|rapidly|swiftly|fast,man001,975,TRUE,TRUE
+SIGSMAN002,MAN,Manner,002,SP:MAN:002,Speed (Slow),Indicates an action is performed at a low speed.,slowly|gradually|leisurely|unhurriedly,man002,976,TRUE,TRUE
+SIGSMAN003,MAN,Manner,003,SP:MAN:003,Care (Careful),"Indicates an action is performed with care, caution, and attention to detail.",carefully|cautiously|meticulously|with care,man003,977,TRUE,TRUE
+SIGSMAN004,MAN,Manner,004,SP:MAN:004,Care (Careless),Indicates an action is performed without sufficient attention or care.,carelessly|hastily|recklessly|haphazardly,man004,978,TRUE,TRUE
+SIGSMAN005,MAN,Manner,005,SP:MAN:005,Intensity (Gentle),"Indicates an action is performed with a soft, mild, or light touch.",gently|softly|lightly|mildly,man005,979,TRUE,TRUE
+SIGSMAN006,MAN,Manner,006,SP:MAN:006,Intensity (Forceful),"Indicates an action is performed with strength, force, or intensity.",forcefully|strongly|hard|vigorously,man006,980,TRUE,TRUE
+SIGSMAN007,MAN,Manner,007,SP:MAN:007,Clarity (Clear),Indicates an action (often communicative) is performed in a clear and understandable way.,clearly|explicitly|plainly|unambiguously,man007,981,TRUE,TRUE
+SIGSMAN008,MAN,Manner,008,SP:MAN:008,Stealth (Secretive),"Indicates an action is performed quietly, secretly, or without being noticed.",secretly|quietly|silently|stealthily,man008,982,TRUE,TRUE
+SIGSMAN009,MAN,Manner,009,SP:MAN:009,Method (Automatic),"Indicates an action is performed automatically or systematically, without direct manual intervention.",automatically|programmatically|systematically,man009,983,TRUE,TRUE
+SIGSMAN00A,MAN,Manner,00A,SP:MAN:00A,Method (Manual),"Indicates an action is performed by a person, directly by hand.",manually|by hand|by a person,man00a,984,TRUE,TRUE
+SIGSMAN00B,MAN,Manner,00B,SP:MAN:00B,Method (Random),Indicates an action is performed without a clear method or in a random order.,randomly|haphazardly|without order|arbitrarily,man00b,985,TRUE,TRUE
+SIGSMAN00C,MAN,Manner,00C,SP:MAN:00C,Method (Direct),"Indicates an action is performed directly, without intermediaries or indirection.",directly|straight|without delay,man00c,986,TRUE,TRUE
+SIGSMAN00D,MAN,Manner,00D,SP:MAN:00D,Effort (Easy),Indicates an action is performed with little to no difficulty.,easily|effortlessly|with ease|simply,man00d,987,TRUE,TRUE
+SIGSMAN00E,MAN,Manner,00E,SP:MAN:00E,Effort (Difficult),Indicates an action is performed with great effort or difficulty.,with difficulty|laboriously|arduously|the hard way,man00e,988,TRUE,TRUE
+SIGSMAN00F,MAN,Manner,00F,SP:MAN:00F,Social (Polite),"Indicates an action is performed in a polite, courteous, or respectful manner.",politely|courteously|respectfully,man00f,989,TRUE,TRUE
+SIGSMAN00G,MAN,Manner,00G,SP:MAN:00G,Social (Rude),"Indicates an action is performed in a rude, abrupt, or impolite manner.",rudely|abruptly|impolitely|bluntly,man00g,990,TRUE,TRUE
+SIGSMAN00H,MAN,Manner,00H,SP:MAN:00H,Social (Formal),Indicates an action is performed in a formal or official capacity.,formally|officially|ceremoniously,man00h,991,TRUE,TRUE
+SIGSMAN00I,MAN,Manner,00I,SP:MAN:00I,Social (Casual),Indicates an action is performed in a casual or informal manner.,casually|informally|unofficially,man00i,992,TRUE,TRUE
+SIGSMAN00J,MAN,Manner,00J,SP:MAN:00J,Completeness (Complete),Indicates an action is performed to its full extent.,completely|fully|thoroughly|entirely,man00j,993,TRUE,TRUE
+SIGSMAN00K,MAN,Manner,00K,SP:MAN:00K,Completeness (Partial),"Indicates an action is performed in part, but not to its full extent.",partially|in part|incompletely,man00k,994,TRUE,TRUE
+SIGSMAN00L,MAN,Manner,00L,SP:MAN:00L,Volition (Intentional),Indicates an action is performed deliberately or on purpose.,intentionally|deliberately|on purpose|knowingly,man00l,995,TRUE,TRUE
+SIGSMAN00M,MAN,Manner,00M,SP:MAN:00M,Volition (Accidental),Indicates an action is performed by chance or by mistake.,accidentally|unintentionally|by mistake|inadvertently,man00m,996,TRUE,TRUE
+SIGSPER001,PER,Perception / Sensation,001,SP:PER:001,Vision ('see'),To perceive something with the eyes or through sight.,see|look|watch|view|observe,per001,997,TRUE,TRUE
+SIGSPER002,PER,Perception / Sensation,002,SP:PER:002,Audition ('hear'),To perceive sound with the ears.,hear|listen|eavesdrop|overhear,per002,998,TRUE,TRUE
+SIGSPER003,PER,Perception / Sensation,003,SP:PER:003,Touch ('feel'),To perceive something through physical contact or sensation.,feel|touch|handle|sense contact,per003,999,TRUE,TRUE
+SIGSPER004,PER,Perception / Sensation,004,SP:PER:004,Smell ('smell'),To perceive an odor or scent with the nose.,smell|sniff|scent|get a whiff of,per004,1000,TRUE,TRUE
+SIGSPER005,PER,Perception / Sensation,005,SP:PER:005,Taste ('taste'),To perceive the flavor of something with the tongue.,taste|savor|sample|flavor of,per005,1001,TRUE,TRUE
+SIGSPER006,PER,Perception / Sensation,006,SP:PER:006,Notice / Become Aware,To become conscious of something through observation or sensory input.,notice|perceive|spot|become aware of,per006,1002,TRUE,TRUE
+SIGSPER007,PER,Perception / Sensation,007,SP:PER:007,Appearance ('seems'),To give the impression of being in a certain state or having a certain quality.,seems|appears to be|looks like|comes across as,per007,1003,TRUE,TRUE
+SIGSPER008,PER,Perception / Sensation,008,SP:PER:008,Imperceptible,Describes something that cannot be sensed or noticed.,imperceptible|unseen|unheard|unnoticeable,per008,1004,TRUE,TRUE
+SIGSPER009,PER,Perception / Sensation,009,SP:PER:009,Glimpse / Fleeting View,To see something briefly or partially.,glimpse|catch a glimpse of|briefly see,per009,1005,TRUE,TRUE
+SIGSPER00A,PER,Perception / Sensation,00A,SP:PER:00A,Stare / Gaze,"To look at something fixedly and intently, for a prolonged period.",stare|gaze|fixate on|watch intently,per00a,1006,TRUE,TRUE
+SIGSPER00B,PER,Perception / Sensation,00B,SP:PER:00B,Scan / Survey,To look at all parts of something carefully in order to detect a particular feature.,scan|survey|look over|examine visually,per00b,1007,TRUE,TRUE
+SIGSPER00C,PER,Perception / Sensation,00C,SP:PER:00C,Recognize / Identify,To identify someone or something from having encountered them before; to know again.,recognize|identify|know it's them/that,per00c,1008,TRUE,TRUE
+SIGSPER00D,PER,Perception / Sensation,00D,SP:PER:00D,Mishear,To fail to hear a person's words correctly.,mishear|misunderstand what was said,per00d,1009,TRUE,TRUE
+SIGSPER00E,PER,Perception / Sensation,00E,SP:PER:00E,Internal Sensation (Interoception),To feel a physical sensation originating from inside the body.,"feel (dizzy, nauseous, pain)|my stomach dropped|ache",per00e,1010,TRUE,TRUE
+SIGSPER00F,PER,Perception / Sensation,00F,SP:PER:00F,Sense / Intuition,To have a feeling or impression about a situation without logical evidence.,"sense (a mood, danger)|intuit|get a vibe|have a gut feeling",per00f,1011,TRUE,TRUE
+SIGSPER00G,PER,Perception / Sensation,00G,SP:PER:00G,Misperception / Illusion,The act of perceiving something in a way that is not in accordance with reality.,misperceive|see an illusion|seeing things|hearing things,per00g,1012,TRUE,TRUE
+SIGSQTY02J,QTY,Quantity / Amount,02J,SP:QTY:02J,High Degree / Intensifier,A general-purpose intensifier for qualities and emotions.,very|extremely|highly|a lot|greatly,qty02j,1013,TRUE,TRUE
+SIGSQTY02K,QTY,Quantity / Amount,02K,SP:QTY:02K,Moderate Degree,Indicates a medium or fair level of a quality.,moderately|somewhat|fairly|quite,qty02k,1014,TRUE,TRUE
+SIGSQTY02L,QTY,Quantity / Amount,02L,SP:QTY:02L,Low Degree / Diminisher,A general-purpose diminisher for qualities and emotions.,slightly|a little bit|a bit|not very,qty02l,1015,TRUE,TRUE
+SIGSATT00G,ATT,Attribute / field select,00G,SP:ATT:00G,Reliability,The attribute of being consistently good in quality or performance; able to be trusted.,reliability|consistency|dependability|stability,att00g,1016,TRUE,TRUE
+SIGSENT00G,ENT,Entity / type hints,00G,SP:ENT:00G,Plan / Strategy,An entity representing a detailed proposal or method for doing something.,plan|strategy|approach|initiative|roadmap,ent00g,1017,TRUE,TRUE
+SIGSENT00H,ENT,Entity / type hints,00H,SP:ENT:00H,Proposal / Suggestion,An entity representing a plan or action put forward for consideration.,proposal|suggestion|recommendation|offer|motion,ent00h,1018,TRUE,TRUE
+SIGSPAR001,PAR,Paralinguistic / Non-verbal,001,SP:PAR:001,Sigh,"An audible exhalation expressing sadness, weariness, relief, or frustration.",*sigh*|(deep breath)|ugh,par001,1019,TRUE,TRUE
+SIGSPAR002,PAR,Paralinguistic / Non-verbal,002,SP:PAR:002,Shrug,"A gesture indicating doubt, ignorance, or indifference.",*shrug*|¯\\_(ツ)_/¯|I dunno,par002,1020,TRUE,TRUE
+SIGSPAR003,PAR,Paralinguistic / Non-verbal,003,SP:PAR:003,Nod,"A gesture of the head indicating agreement, affirmation, or acknowledgment.",*nod*|(head nod)|mm-hmm,par003,1021,TRUE,TRUE
+SIGSPAR004,PAR,Paralinguistic / Non-verbal,004,SP:PAR:004,Head Shake,"A gesture of the head indicating disagreement, refusal, or disapproval.",*shakes head*|nuh-uh|(head shake),par004,1022,TRUE,TRUE
+SIGSPAR005,PAR,Paralinguistic / Non-verbal,005,SP:PAR:005,Eye Roll,"A gesture indicating disbelief, annoyance, or contempt.",*eye roll*|(rolls eyes),par005,1023,TRUE,TRUE
+SIGSPAR006,PAR,Paralinguistic / Non-verbal,006,SP:PAR:006,Laughter,A vocal expression of amusement or mirth.,*laughs*|lol|haha|lmao,par006,1024,TRUE,TRUE
+SIGSPAR007,PAR,Paralinguistic / Non-verbal,007,SP:PAR:007,Pause / Ellipsis,"A pause in speech or writing, often indicating hesitation, thought, or an unfinished idea.",...|hmm|(pause)|uhm,par007,1025,TRUE,TRUE
+SIGSPAR008,PAR,Paralinguistic / Non-verbal,008,SP:PAR:008,Thinking Face,"A gesture or emoji indicating contemplation, skepticism, or deep thought.",🤔|*thinking*|hmmm,par008,1026,TRUE,TRUE
+SIGSPAR009,PAR,Paralinguistic / Non-verbal,009,SP:PAR:009,Thumbs Up,"A gesture of approval, agreement, or confirmation.",👍|*thumbs up*|sounds good,par009,1027,TRUE,TRUE
+SIGSPAR00A,PAR,Paralinguistic / Non-verbal,00A,SP:PAR:00A,Wink,"A gesture indicating a joke, secret, or flirtation.",*wink*|;)|😉,par00a,1028,TRUE,TRUE
+SIGSPAR00B,PAR,Paralinguistic / Non-verbal,00B,SP:PAR:00B,Facepalm,"A gesture of frustration, disbelief, or embarrassment.",*facepalm*|🤦|smh,par00b,1029,TRUE,TRUE
+SIGSPAR00C,PAR,Paralinguistic / Non-verbal,00C,SP:PAR:00C,Clapping / Applause,"A gesture of approval, praise, or celebration.",*claps*|👏|bravo|applause,par00c,1030,TRUE,TRUE
+SIGSPAR00D,PAR,Paralinguistic / Non-verbal,00D,SP:PAR:00D,Heart / Affection,"An expression of love, affection, or strong approval.",*heart*|<3|❤️|love that,par00d,1031,TRUE,TRUE
+SIGSPAR00E,PAR,Paralinguistic / Non-verbal,00E,SP:PAR:00E,Celebration,An expression of joy or celebration for an event or achievement.,*celebrates*|🎉|🥳|hooray,par00e,1032,TRUE,TRUE
+SIGSPAR00F,PAR,Paralinguistic / Non-verbal,00F,SP:PAR:00F,Gasp,"A sharp intake of breath indicating surprise, shock, or alarm.",*gasp*|(sharp intake of breath),par00f,1033,TRUE,TRUE
+SIGSPAR00G,PAR,Paralinguistic / Non-verbal,00G,SP:PAR:00G,Groan / Grumble,"A low sound of pain, displeasure, or disapproval.",*groan*|(grumbles)|argh,par00g,1034,TRUE,TRUE
+SIGSPAR00H,PAR,Paralinguistic / Non-verbal,00H,SP:PAR:00H,Tsk / Disapproval,A clicking sound with the tongue to express disapproval or sympathy.,*tsk*|(clicks tongue)|tut-tut,par00h,1035,TRUE,TRUE
+SIGSPAR00I,PAR,Paralinguistic / Non-verbal,00I,SP:PAR:00I,Ahem / Clearing Throat,"The act of clearing one's throat to get attention, express awkwardness, or signal a correction.",*ahem*|(clears throat),par00i,1036,TRUE,TRUE
+SIGSPAR00J,PAR,Paralinguistic / Non-verbal,00J,SP:PAR:00J,Salute,"A gesture of respect, acknowledgment, or farewell, often formal or military-style.",*salute*|o7,par00j,1037,TRUE,TRUE
+SIGSPAR00K,PAR,Paralinguistic / Non-verbal,00K,SP:PAR:00K,Wave,A gesture of greeting or farewell.,*waves*|👋,par00k,1038,TRUE,TRUE
+SIGSPAR00L,PAR,Paralinguistic / Non-verbal,00L,SP:PAR:00L,Awkward Silence,A noticeable and uncomfortable pause in a conversation.,*crickets*|(awkward silence),par00l,1039,TRUE,TRUE
+SIGSPAR00M,PAR,Paralinguistic / Non-verbal,00M,SP:PAR:00M,Mumbling / Inaudible,"Speech that is low, indistinct, and difficult to understand.",*mumbles*|(inaudible)|...,par00m,1040,TRUE,TRUE
