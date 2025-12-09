@@ -1,4 +1,6 @@
-# SIGS v1 — Semantic Intent Grounding Symbols
+# SIGS v1 — Semantic Intent Grounding Symbols (Atomic Router Release)
+
+Note: The V1 model is an Atomic Intent Classifier optimized for routing and state detection. It maps inputs to the single most relevant token. V2 (Compositional/Multi-Token) is currently in training.
 
 SIGS is an **AI-facing wire language** that encodes common user intents as short, deterministic tokens. Humans write normal text; a translator layer converts:
 
@@ -149,28 +151,28 @@ Submit new lexicon entries as JSON array:
 
 Maintainer tools automatically apply:
 
-Base-36 index assignment
+- Base-36 index assignment
 
-Token generation
+- Token generation
 
-Global ID
+- Global ID
 
-Validation (uniqueness + formatting)
+- Validation (uniqueness + formatting)
 
-6) Dataset Files
+## 6) Dataset Files
 
 Included:
 
-the_sigs_lexicon_v1-static_copy-master_lexicon.csv
+- the_sigs_lexicon_v1-static_copy-master_lexicon.csv
 Machine-readable dataset for training and inference
 
 Planned additions:
 
-Processed training artifacts
+- Processed training artifacts
 
-SIGS Translator checkpoints (via Hugging Face links)
+- SIGS Translator checkpoints (via Hugging Face links)
 
-7) License — Apache 2.0
+## 7) License — Apache 2.0
 
  Copyright 2025 Jaccob Barrett
  
