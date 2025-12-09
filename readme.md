@@ -1,5 +1,6 @@
 # SIGS v1 — Semantic Intent Grounding Symbols (Atomic Router Release)
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/J-Barrert/SIGS-v1-Atomic-Encoder)
 ### Note: The V1 model is an Atomic Intent Classifier optimized for routing and state detection. It maps inputs to the single most relevant token. V2 (Compositional/Multi-Token) is currently in training.
 
 SIGS is an **AI-facing wire language** that encodes common user intents as short, deterministic tokens. Humans write normal text; a translator layer converts:
