@@ -1,3 +1,5 @@
+This was the initial research phase for the intent classification protocol. For the production system, see BridgeLang.
+
 # SIGS v1 — Semantic Intent Grounding Symbols (Atomic Router Release)
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/J-Barrert/SIGS-v1-Atomic-Encoder)
