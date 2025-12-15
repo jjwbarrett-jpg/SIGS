@@ -1,4 +1,4 @@
-This was the initial research phase for the intent classification protocol. For the production system, see BridgeLang.
+This was the initial research phase for the intent classification protocol. For the production system, see [BridgeLang](https://github.com/jjwbarrett-jpg/BridgeLang).
 
 # SIGS v1 — Semantic Intent Grounding Symbols (Atomic Router Release)
 
